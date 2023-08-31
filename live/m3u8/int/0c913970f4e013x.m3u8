@@ -1,7 +1,10 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,FRAME-RATE=25.000,RESOLUTION=320x240
-http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/01.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200567,FRAME-RATE=25.000,RESOLUTION=854x480
-http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/02.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500567,FRAME-RATE=25.000,RESOLUTION=960x540
-http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/03.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=656000,RESOLUTION=640x360
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1256000,RESOLUTION=960x540
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2256000,RESOLUTION=1280x720
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3256000,RESOLUTION=1920x1080
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
