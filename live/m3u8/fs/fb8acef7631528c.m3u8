@@ -1,10 +1,8 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-STREAM-INF:BANDWIDTH=3700000,FRAME-RATE=25.000,NAME="1080p"
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,FRAME-RATE=25.000,NAME="720p"
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1400000,FRAME-RATE=25.000,NAME="480p"
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=900000,FRAME-RATE=25.000,NAME="360p"
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1896000,FRAME-RATE=30.0,RESOLUTION=1280x720
+https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/chunklist_w943244392_b1896000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=996000,FRAME-RATE=30.0,RESOLUTION=960x540
+https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/chunklist_w943244392_b996000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=596000,FRAME-RATE=30.0,RESOLUTION=576x360
+https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/chunklist_w943244392_b596000.m3u8
