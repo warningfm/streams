@@ -5,7 +5,7 @@ indonesiapremium1.xml
 https://www.bevy.be/bevyfiles/indonesiapremium1.xml
 
 indonesiapremium2.xml
-http://www.bevy.be/bevyfiles/indonesiapremium2.xml 
+http://www.bevy.be/bevyfiles/indonesiapremium2.xml
 
 indonesiapremium3.xml
 https://www.bevy.be/bevyfiles/indonesiapremium3.xml
