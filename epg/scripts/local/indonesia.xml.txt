@@ -114,11 +114,11 @@ Trans 7,Trans7.id
 Trans TV,TransTV.id
 tvN,tvNAsia.hk
 tvN HD,tvNAsia.hk
-tvN Movies,tvNMoviesAsia.hk
+tvN Movies,tvNMovies.kr
 tvN Movies HD,tvNMoviesAsia.hk
 tvOne,tvOne.id
 TVRI,TVRINasional.id
 Vision Prime,VisionPrime.id
 Vision Prime HD,VisionPrime.id
 Zee Bioskop,ZeeBioskop.id
-Zoomoo,ZooMoo.sg
+Zoomoo,ZooMoo.id
