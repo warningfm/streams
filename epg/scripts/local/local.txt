@@ -12,3 +12,11 @@ https://www.bevy.be/bevyfiles/indonesiapremium3.xml
 
 indonesiapremium4.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
+
+arabia.xml
+https://www.bevy.be/bevyfiles/arabia.xml
+
+france.xml
+https://www.bevy.be/bevyfiles/france.xml
+
+
