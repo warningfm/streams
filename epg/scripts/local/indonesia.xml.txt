@@ -2,19 +2,19 @@ ABC Australia,ABCAustralia.au
 Al Jazeera English,AlJazeeraEnglish.qa
 Al Quran Al Kareem,AlQuranAlKareemTV.sa
 Animax,AnimaxAsia.sg
-ANTV - [Channel 115],ANTV.id
-Arirang - [Channel 351],ArirangWorld.kr
-AXN - [Channel 154],AXNIndonesia.id
-AXN HD - [Channel 438],AXNIndonesia.id
-BabyTV - [Channel 40],BabyTV.uk
-BBC Earth - [Channel 200],BBCEarthAsia.uk
-BBC Earth HD - [Channel 461],BBCEarthAsia.uk
-BBC World News - [Channel 332],BBCWorldNewsAsiaPacific.uk
-Berita Satu - [Channel 103],BeritaSatu.id
-besmart - [Channel 112],BeSmart.id
-Bloomberg - [Channel 338],BloombergTVAsia.hk
-CBeebies - [Channel 41],CBeebiesAsia.uk
-CCM - [Channel 22],CCM.hk
+ANTV,ANTV.id
+Arirang,ArirangWorld.kr
+AXN,AXNIndonesia.id
+AXN HD,AXNIndonesia.id
+BabyTV,BabyTV.uk
+BBC Earth,BBCEarthAsia.uk
+BBC Earth HD,BBCEarthAsia.uk
+BBC World News,BBCWorldNewsAsiaPacific.uk
+Berita Satu,BeritaSatu.id
+besmart,BeSmart.id
+Bloomberg,BloombergTVAsia.hk
+CBeebies,CBeebiesAsia.uk
+CCM,CCM.hk
 Celestial Movies - [Channel 20],CelestialMoviesIndonesia.id
 CGTN - [Channel 353],CGTN.cn
 CGTN Documentary - [Channel 205],CGTNDocumentary.cn
