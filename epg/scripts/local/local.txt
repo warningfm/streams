@@ -24,3 +24,6 @@ https://www.bevy.be/bevyfiles/france.xml
 
 unitedkingdom.xml
 https://www.bevy.be/bevyfiles/unitedkingdom.xml
+
+turkeypremium1.xml
+https://www.bevy.be/bevyfiles/turkeypremium1.xml
