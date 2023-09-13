@@ -16,6 +16,9 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
 malaysiapremium2.xml
 https://www.bevy.be/bevyfiles/malaysiapremium2.xml
 
+singaporepremium.xml
+https://www.bevy.be/bevyfiles/singaporepremium.xml
+
 china.xml
 https://www.bevy.be/bevyfiles/china.xml
 
