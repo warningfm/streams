@@ -1,6 +1,6 @@
 ABC Australia,ABCAustralia.au
-Aljazeera,AlJazeeraChannel.qa
-AlQuran Kareem,AlQuranAlKareemTV.sa
+Aljazeera,AlJazeeraEnglish.id
+AlQuran Kareem,AlQuranKareem.id
 Antara,AntaraTV.id
 ANTV,ANTV.id
 Arirang,ArirangTV.kr
@@ -41,9 +41,9 @@ Muhammadiyah TV,MuhammadiyahTV.id
 MUI TV,TVMUI.id
 My Family,MyFamily.id
 MyKidz,MyKidz.id
-Nat Geo,NationalGeographicIndonesia.id
+Nat Geo,NationalGeographicChannel.id
 Net.,NET.id
-News Asia,CNA.sg
+News Asia,CNA
 Nusantara TV,NusantaraTV.id
 Prambors,PramborsTV.id
 Rajawali TV,RajawaliTV.id
