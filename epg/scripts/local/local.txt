@@ -33,6 +33,3 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
 
 singaporepremium.xml
 https://www.bevy.be/bevyfiles/singaporepremium.xml
-
-PlutoTV.xml
-https://i.mjh.nz/PlutoTV/all.xml
