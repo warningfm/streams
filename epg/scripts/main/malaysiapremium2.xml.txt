@@ -18,8 +18,8 @@ Celestial Movies,Celestial Movies
 CGTN HD,CGTN HD
 CinemaWorld HD,CinemaWorld.my
 CNA,CNA
-Colors Cineplex
-Colors Tamil HD
+Colors Cineplex,Colors Cineplex
+Colors Tamil HD,Colors Tamil HD
 DEGUP,DEGUP
 DidikTV KPM,DidikTV
 Dreamworks HD,DreamWorksChannelAsia.us
