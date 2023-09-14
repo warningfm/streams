@@ -5,7 +5,7 @@ Antara,AntaraTV.id
 ANTV,ANTV.id
 Arirang,ArirangTV.kr
 ATV,ATV.id
-AXN,AXNIndonesia.id
+AXN,AXN.id
 Bali TV,BaliTV.id
 BTV,BeritaSatu.id
 CCTV4,CCTV4Asia.cn
