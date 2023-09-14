@@ -19,7 +19,7 @@ Cartoon Network,CartoonNetworkAsia.sg
 CCTV 4,CCTV4.cn
 Celestial Movie,CelestialMovies.cn
 Celestial Movie HD,CelestialMovies.cn
-CGTN,CGTN.cn
+CGTN,CGTNDocumentary.cn
 Champions TV 1,ChampionsTV1.id
 Champions TV 1 HD,ChampionsTV1.id
 Champions TV 2,ChampionsTV2.id
@@ -80,14 +80,14 @@ MTV Asia,MTVAsia.id
 National Geographic Channel,NationalGeographicChannel.id
 National Geographic Wild,NationalGeographicWild.id
 NET.,NET.id
-NHK World Premium,NHK World Premium
+NHK World Premium,NHKWorldPremium.jp
 Nick jr.,Nick jr.
 Nickelodeon,Nickelodeon
 O Channel,OChannel.id
 ONE,ONE.id
 Paramount Network HD,ParamountNetwork.id
 Phoenix Chinese Channel,PhoenixChineseChannel
-Phoenix Info News,Phoenix Info News
+Phoenix Info News,PhoenixInfoNews
 Praise,Praise
 Premier Sports,PremierSports
 Premier Sports HD,PremierSports
