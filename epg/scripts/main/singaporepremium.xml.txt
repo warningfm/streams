@@ -84,8 +84,8 @@ Karisma,Karisma
 KBS World HD,KBSWorld
 KTV HD,KTV
 Lifetime HD,LifetimeAsia.us
-Nat Geo Wild HD,NatGeoWild
-National Geographic HD,NationalGeographic
+Nat Geo Wild HD,NationalGeographicWild.id
+National Geographic HD,NationalGeographicChannel.id
 NBA TV HD,NBA TV
 NHK WORLD - JAPAN HD,NHK WORLD
 NHK World Premium HD,NHKWorldPremium.jp
