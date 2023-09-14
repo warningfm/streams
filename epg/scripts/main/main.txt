@@ -43,8 +43,8 @@ https://www.bevy.be/bevyfiles/arabia.xml
 france.xml
 https://www.bevy.be/bevyfiles/france.xml
 
-unitedkingdom.xml
-https://www.bevy.be/bevyfiles/unitedkingdom.xml
+PlutoTV.xml
+https://i.mjh.nz/PlutoTV/all.xml
 
 SamsungTVPlus.xml
 https://i.mjh.nz/SamsungTVPlus/all.xml
@@ -52,8 +52,11 @@ https://i.mjh.nz/SamsungTVPlus/all.xml
 spain.xml
 https://www.bevy.be/bevyfiles/spain.xml
 
-PlutoTV.xml
-https://i.mjh.nz/PlutoTV/all.xml
+unitedkingdom.xml
+https://www.bevy.be/bevyfiles/unitedkingdom.xml
+
+turkey.xml
+https://www.bevy.be/bevyfiles/turkey.xml
 
 turkeypremium1.xml
 https://www.bevy.be/bevyfiles/turkeypremium1.xml
