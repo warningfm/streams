@@ -25,6 +25,9 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
 singapore.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml
 
+SamsungTVPlus.xml
+https://i.mjh.nz/SamsungTVPlus/all.xml
+
 starhubtv.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
 
