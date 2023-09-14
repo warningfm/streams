@@ -43,9 +43,6 @@ https://www.bevy.be/bevyfiles/arabia.xml
 france.xml
 https://www.bevy.be/bevyfiles/france.xml
 
-PlutoTV.xml
-https://i.mjh.nz/PlutoTV/all.xml
-
 SamsungTVPlus.xml
 https://i.mjh.nz/SamsungTVPlus/all.xml
 
