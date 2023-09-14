@@ -40,19 +40,19 @@ CNN HD,CNN
 COLORS,COLORS
 COLORS Tamil HD,COLORS Tamil
 Crime + Investigation HD,CrimeInvestigation.id
-CTI TV HD
-CuriosityStream HD
+CTI TV HD,CTI TV HD
+CuriosityStream HD,CuriosityStream HD
 Dragon TV,Dragon TV
-DreamWorks Channel HD
-DW (Deutsch)
+DreamWorks Channel HD,DreamWorks
+DW (Deutsch),DW
 Euronews HD,EuronewsEnglish.fr
 FashionTV HD,FashionTV HD
 FIGHT SPORTS HD,FightSports.us
 Fox News Channel HD,Fox News Channel
 France24,France24
 GEM HD,GEM.id
-GMA Life TV
-GMA Pinoy TV
+GMA Life TV,GMA Life TV
+GMA Pinoy TV,GMA Pinoy TV
 HBO Family HD,HBOFamily
 HBO HD,HBO.id
 HBO Hits HD,HBOHits.id
@@ -84,8 +84,8 @@ Karisma,Karisma
 KBS World HD,KBSWorld
 KTV HD,KTV
 Lifetime HD,LifetimeAsia.us
-Nat Geo Wild HD,NatGeoWild
-National Geographic HD,NationalGeographic
+Nat Geo Wild HD,NNationalGeographicWild.id
+National Geographic HD,NationalGeographicChannel.id
 NBA TV HD,NBA TV
 NHK WORLD - JAPAN HD,NHK WORLD
 NHK World Premium HD,NHKWorldPremium.jp
