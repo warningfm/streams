@@ -8,7 +8,7 @@ ANTV,ANTV.id
 Arirang,ArirangTV.kr
 Asian Food Network,AFN
 ATV,ATV.id
-AXN,AXNIndonesia.id
+AXN,AXN.id
 Bali TV,BaliTV.id
 beIN Sports 1,beINSports1Indonesia.id
 beIN Sports 3,beINSports3Indonesia.id
