@@ -6,7 +6,7 @@ Aniplus,AniPlus.th
 Antara,AntaraTV.id
 ANTV,ANTV.id
 Arirang,ArirangTV.kr
-Asian Food Network,AsianFoodNetwork.sg
+Asian Food Network,AFN
 ATV,ATV.id
 AXN,AXNIndonesia.id
 Bali TV,BaliTV.id
@@ -48,7 +48,7 @@ France 24,France24English.fr
 Galaxy,Galaxy.id
 Galaxy Premium,GalaxyPremium.id
 GTV,GTV.id
-HGTV,HGTVAsia.us
+HGTV,HGTV
 History,HistoryAsia.us
 Hits,HITS.sg
 HIts Movie,HITSMovies.sg
@@ -98,7 +98,7 @@ Nick Junior,NickJrAsia.sg
 Nickelodeon,NickelodeonAsia.sg
 Nusantara TV,NusantaraTV.id
 Panda TV,PandaTV.cn
-Paramount,ParamountNetworkIndonesia.id
+Paramount,ParamountNetwork.id
 Prambors,PramborsTV.id
 Rajawali TV,RajawaliTV.id
 RCTI,RCTI.id
