@@ -52,6 +52,9 @@ https://www.bevy.be/bevyfiles/france.xml
 SamsungTVPlus.xml
 https://i.mjh.nz/SamsungTVPlus/all.xml
 
+Singtel/epg.xml
+https://i.mjh.nz/Singtel/epg.xml
+
 spain.xml
 https://www.bevy.be/bevyfiles/spain.xml
 
