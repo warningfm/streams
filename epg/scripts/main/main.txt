@@ -55,6 +55,9 @@ https://www.bevy.be/bevyfiles/spain.xml
 unitedkingdom.xml
 https://www.bevy.be/bevyfiles/unitedkingdom.xml
 
+unitedstatespremium1.xml
+https://www.bevy.be/bevyfiles/unitedstatespremium1.xml
+
 turkey.xml
 https://www.bevy.be/bevyfiles/turkey.xml
 
