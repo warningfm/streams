@@ -1,9 +1,6 @@
 astro.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
 
-AqFad2811epg.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
-
 indonesiapremium1.xml
 https://www.bevy.be/bevyfiles/indonesiapremium1.xml
 
@@ -24,6 +21,9 @@ https://www.bevy.be/bevyfiles/malaysiapremium2.xml
 
 rtmklik.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
+
+starhubtv.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
 
 singapore.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml
