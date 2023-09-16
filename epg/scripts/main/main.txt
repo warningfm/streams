@@ -31,23 +31,14 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml
 singaporepremium.xml
 https://www.bevy.be/bevyfiles/singaporepremium.xml
 
-i.mjh.nz.xml
-https://i.mjh.nz/all/epg.xml
-
 china.xml
 https://www.bevy.be/bevyfiles/china.xml
 
 hongkongpremium.xml
 https://www.bevy.be/bevyfiles/hongkongpremium.xml
 
-thailand.xml
-https://www.bevy.be/bevyfiles/thailand.xml
-
 arabia.xml
 https://www.bevy.be/bevyfiles/arabia.xml
-
-france.xml
-https://www.bevy.be/bevyfiles/france.xml
 
 SamsungTVPlus.xml
 https://i.mjh.nz/SamsungTVPlus/all.xml
