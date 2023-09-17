@@ -24,7 +24,7 @@ Cartoon Network,CartoonNetworkAsia.sg
 Cbeebies HD,CBeebiesAsia.uk
 CCM,CCM.hk
 CCTV-4,CCTV4Asia.cn
-Celestial Movies HD
+Celestial Movies HD,CelestialMovies
 CGTN,CGTN
 Channel 5 HD,Ch 5
 Channel 8 HD,Ch 8
