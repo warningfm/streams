@@ -1,5 +1,5 @@
-astro.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
+AqFad2811epg.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
 indonesiapremium1.xml
 https://www.bevy.be/bevyfiles/indonesiapremium1.xml
@@ -12,9 +12,6 @@ https://www.bevy.be/bevyfiles/indonesiapremium3.xml
 
 indonesiapremium4.xml
 https://www.bevy.be/bevyfiles/indonesiapremium4.xml
-
-AqFad2811epg.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
 malaysiapremium2.xml
 https://www.bevy.be/bevyfiles/malaysiapremium2.xml
