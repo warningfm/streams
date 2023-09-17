@@ -22,7 +22,7 @@ Colors Cineplex
 Colors Tamil HD
 DEGUP,DEGUP
 DidikTV KPM,DidikTV
-Dreamworks HD,DreamWorksChannelAsia.us
+Dreamworks HD,DreamWorks.id
 Dunia Sinema HD,DuniaSinema
 DW,DWEnglish.id
 Euronews,EuronewsEnglish.fr
