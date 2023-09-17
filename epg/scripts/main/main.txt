@@ -28,6 +28,9 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
 singapore.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml
 
+unifi_epg.xml
+https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
+
 Sydneyepg.xml
 https://i.mjh.nz/au/Sydney/epg.xml
 
