@@ -1,8 +1,5 @@
-astro.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
-
-indonesia.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
+AqFad2811all.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
 indonesiapremium1.xml
 http://www.bevy.be/bevyfiles/indonesiapremium1.xml
@@ -21,9 +18,6 @@ https://www.bevy.be/bevyfiles/malaysiapremium2.xml
 
 rtmklik.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
-
-singapore.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml
 
 SamsungTVPlus.xml
 https://i.mjh.nz/SamsungTVPlus/all.xml
