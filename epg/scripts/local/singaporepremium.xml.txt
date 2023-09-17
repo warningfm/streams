@@ -43,7 +43,7 @@ Crime + Investigation HD,CrimeInvestigation.id
 CTI TV HD,CTI TV HD
 CuriosityStream HD,CuriosityStream HD
 Dragon TV,Dragon TV
-DreamWorks Channel HD,DreamWorks
+DreamWorks Channel HD,DreamWorks.id
 DW (Deutsch),DW
 Euronews HD,EuronewsEnglish.fr
 FashionTV HD,FashionTV HD
