@@ -1,3 +1,6 @@
+astro_epg.xml
+https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
+
 AqFad2811all.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
