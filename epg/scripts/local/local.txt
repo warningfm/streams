@@ -33,3 +33,6 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
 
 singaporepremium.xml
 https://www.bevy.be/bevyfiles/singaporepremium.xml
+
+vidio.xml
+https://raw.githubusercontent.com/warningfm/epg/main/vidio.xml
