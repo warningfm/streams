@@ -1,12 +1,3 @@
-astro_epg.xml
-https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
-
-AqFad2811indonesia.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
-
-indonesia.xml
-https://www.bevy.be/bevyfiles/indonesia.xml
-
 indonesiapremium1.xml
 http://www.bevy.be/bevyfiles/indonesiapremium1.xml
 
@@ -18,21 +9,3 @@ http://www.bevy.be/bevyfiles/indonesiapremium3.xml
 
 indonesiapremium4.xml
 https://www.bevy.be/bevyfiles/indonesiapremium4.xml
-
-malaysiapremium2.xml
-https://www.bevy.be/bevyfiles/malaysiapremium2.xml
-
-rtmklik.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
-
-SamsungTVPlus.xml
-https://i.mjh.nz/SamsungTVPlus/all.xml
-
-starhubtv.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
-
-singaporepremium.xml
-https://www.bevy.be/bevyfiles/singaporepremium.xml
-
-vidio.xml
-https://raw.githubusercontent.com/warningfm/epg/main/vidio.xml
