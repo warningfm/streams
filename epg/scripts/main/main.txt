@@ -73,5 +73,5 @@ https://www.bevy.be/bevyfiles/turkeypremium1.xml
 unitedstatespremium4.xml
 https://www.bevy.be/bevyfiles/unitedstatespremium4.xml
 
-vidio.xml
-https://raw.githubusercontent.com/warningfm/epg/main/vidio.xml
+useetv.xml
+https://raw.githubusercontent.com/warningfm/v2/cloud/useetv.xml
