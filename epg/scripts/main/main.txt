@@ -1,11 +1,8 @@
 astro_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
 
-AqFad2811indonesia.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
-
 indonesia.xml
-https://www.bevy.be/bevyfiles/indonesia.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
 
 indonesiapremium1.xml
 https://www.bevy.be/bevyfiles/indonesiapremium1.xml
