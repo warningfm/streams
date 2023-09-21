@@ -16,6 +16,9 @@ https://www.bevy.be/bevyfiles/indonesiapremium4.xml
 malaysiapremium2.xml
 https://www.bevy.be/bevyfiles/malaysiapremium2.xml
 
+singaporepremium.xml
+https://www.bevy.be/bevyfiles/singaporepremium.xml
+
 indihometv.com.xml
 https://raw.githubusercontent.com/warningfm/v2/cloud/indihometv.com.xml
 
