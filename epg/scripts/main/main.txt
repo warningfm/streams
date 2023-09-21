@@ -75,3 +75,6 @@ https://raw.githubusercontent.com/warningfm/v2/cloud/indihometv.com.xml
 
 visionplus.id.xml
 https://raw.githubusercontent.com/warningfm/v2/cloud/visionplus.id.xml
+
+vthanhtivi_epg.xml
+http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml
