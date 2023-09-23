@@ -1,6 +1,3 @@
-astro_epg.xml
-https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
-
 indonesia.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
