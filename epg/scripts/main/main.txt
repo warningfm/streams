@@ -22,6 +22,12 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
 unifi_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
 
+SamsungTVPlusca.xml
+https://i.mjh.nz/SamsungTVPlus/ca.xml
+
+SamsungTVPlusin.xml
+https://i.mjh.nz/SamsungTVPlus/in.xml
+
 Sydneyepg.xml
 https://i.mjh.nz/au/Sydney/epg.xml
 
@@ -37,10 +43,7 @@ https://www.bevy.be/bevyfiles/hongkongpremium.xml
 arabia.xml
 https://www.bevy.be/bevyfiles/arabia.xml
 
-SamsungTVPlus.xml
-https://i.mjh.nz/SamsungTVPlus/all.xml
-
-Singtel.xml
+Singtelepg.xml
 https://i.mjh.nz/Singtel/epg.xml
 
 spain.xml
@@ -72,3 +75,33 @@ https://raw.githubusercontent.com/warningfm/v2/cloud/visionplus.id.xml
 
 epgtvku.xml
 https://link.zozotv.xyz/epgtvku.xml
+
+china.xml
+https://www.bevy.be/bevyfiles/china.xml
+
+hongkongpremium.xml
+https://www.bevy.be/bevyfiles/hongkongpremium.xml
+
+arabia.xml
+https://www.bevy.be/bevyfiles/arabia.xml
+
+Singtel.xml
+https://i.mjh.nz/Singtel/epg.xml
+
+spain.xml
+https://www.bevy.be/bevyfiles/spain.xml
+
+unitedkingdom.xml
+https://www.bevy.be/bevyfiles/unitedkingdom.xml
+
+unitedstatespremium1.xml
+https://www.bevy.be/bevyfiles/unitedstatespremium1.xml
+
+turkey.xml
+https://www.bevy.be/bevyfiles/turkey.xml
+
+turkeypremium1.xml
+https://www.bevy.be/bevyfiles/turkeypremium1.xml
+
+unitedstatespremium4.xml
+https://www.bevy.be/bevyfiles/unitedstatespremium4.xml
