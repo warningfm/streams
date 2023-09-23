@@ -70,8 +70,5 @@ https://raw.githubusercontent.com/warningfm/v2/cloud/vidio.com.xml
 visionplus.id.xml
 https://raw.githubusercontent.com/warningfm/v2/cloud/visionplus.id.xml
 
-vthanhtivi_epg.xml
-http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml
-
 epgtvku.xml
 https://link.zozotv.xyz/epgtvku.xml
