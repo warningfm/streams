@@ -28,8 +28,8 @@ https://i.mjh.nz/SamsungTVPlus/ca.xml
 SamsungTVPlusin.xml
 https://i.mjh.nz/SamsungTVPlus/in.xml
 
-Sydneyepg.xml
-https://i.mjh.nz/au/Sydney/epg.xml
+australiaepg.xml
+https://i.mjh.nz/au/all/epg.xml
 
 singaporepremium.xml
 https://www.bevy.be/bevyfiles/singaporepremium.xml
