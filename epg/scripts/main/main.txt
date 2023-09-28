@@ -1,5 +1,8 @@
-indonesia.xml
+AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
+
+indonesia.xml
+https://www.bevy.be/bevyfiles/indonesia.xml
 
 indonesiapremium1.xml
 https://www.bevy.be/bevyfiles/indonesiapremium1.xml
@@ -64,15 +67,6 @@ https://www.bevy.be/bevyfiles/turkeypremium1.xml
 unitedstatespremium4.xml
 https://www.bevy.be/bevyfiles/unitedstatespremium4.xml
 
-indihometv.com.xml
-https://raw.githubusercontent.com/warningfm/v2/cloud/indihometv.com.xml
-
-vidio.com.xml
-https://raw.githubusercontent.com/warningfm/v2/cloud/vidio.com.xml
-
-visionplus.id.xml
-https://raw.githubusercontent.com/warningfm/v2/cloud/visionplus.id.xml
-
 epgtvku.xml
 https://link.zozotv.xyz/epgtvku.xml
 
@@ -105,3 +99,15 @@ https://www.bevy.be/bevyfiles/turkeypremium1.xml
 
 unitedstatespremium4.xml
 https://www.bevy.be/bevyfiles/unitedstatespremium4.xml
+
+indihometv.com.xml
+https://raw.githubusercontent.com/warningfm/v2/cloud/indihometv.com.xml
+
+useetv.xml
+https://raw.githubusercontent.com/warningfm/v2/cloud/useetv.xml
+
+vidio.com.xml
+https://raw.githubusercontent.com/warningfm/v2/cloud/vidio.com.xml
+
+visionplus.id.xml
+https://raw.githubusercontent.com/warningfm/v2/cloud/visionplus.id.xml
