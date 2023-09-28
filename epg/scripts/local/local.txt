@@ -4,9 +4,6 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
 indonesiapremium1.xml
 https://www.bevy.be/bevyfiles/indonesiapremium1.xml
 
-indonesiapremium2.xml
-https://www.bevy.be/bevyfiles/indonesiapremium2.xml
-
 indonesiapremium3.xml
 https://www.bevy.be/bevyfiles/indonesiapremium3.xml
 
@@ -18,3 +15,6 @@ https://www.bevy.be/bevyfiles/malaysiapremium2.xml
 
 singaporepremium.xml
 https://www.bevy.be/bevyfiles/singaporepremium.xml
+
+useetv.xml
+https://raw.githubusercontent.com/warningfm/v2/cloud/useetv.xml
