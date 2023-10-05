@@ -49,6 +49,9 @@ https://www.bevy.be/bevyfiles/hongkongpremium.xml
 indiapremium1.xml
 https://www.bevy.be/bevyfiles/indiapremium1.xml
 
+vidio.com.xml
+https://raw.githubusercontent.com/warningfm/v2/cloud/vidio.com.xml
+
 arabia.xml
 https://www.bevy.be/bevyfiles/arabia.xml
 
