@@ -73,9 +73,6 @@ https://www.bevy.be/bevyfiles/turkeypremium1.xml
 unitedstatespremium4.xml
 https://www.bevy.be/bevyfiles/unitedstatespremium4.xml
 
-epgtvku.xml
-https://link.zozotv.xyz/epgtvku.xml
-
 china.xml
 https://www.bevy.be/bevyfiles/china.xml
 
