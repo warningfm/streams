@@ -67,8 +67,8 @@ https://www.bevy.be/bevyfiles/unitedkingdom.xml
 unitedstatespremium1.xml
 https://www.bevy.be/bevyfiles/unitedstatespremium1.xml
 
-useetv.xml
-https://raw.githubusercontent.com/warningfm/v2/cloud/useetv.xml
+arabia.xml
+https://www.bevy.be/bevyfiles/arabia.xml
 
 turkey.xml
 https://www.bevy.be/bevyfiles/turkey.xml
