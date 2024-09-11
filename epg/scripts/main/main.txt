@@ -38,7 +38,7 @@ nzauepg.xml
 https://i.mjh.nz/nzau/epg.xml
 
 singaporepremium.xml
-https://www.bevy.be/bevyfiles/singaporepremium.xml
+https://www.bevy.be/bevyfiles/singaporepremium2.xml.txt
 
 china.xml
 https://www.bevy.be/bevyfiles/china.xml
