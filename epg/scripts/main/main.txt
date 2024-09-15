@@ -85,9 +85,6 @@ https://www.bevy.be/bevyfiles/china.xml
 hongkongpremium.xml
 https://www.bevy.be/bevyfiles/hongkongpremium.xml
 
-arabia.xml
-https://www.bevy.be/bevyfiles/arabia.xml
-
 Singtel.xml
 https://i.mjh.nz/Singtel/epg.xml
 
