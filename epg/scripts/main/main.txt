@@ -52,8 +52,8 @@ https://www.bevy.be/bevyfiles/indiapremium1.xml
 india.xml
 https://www.bevy.be/bevyfiles/india.xml
 
-arabia.xml
-https://www.bevy.be/bevyfiles/arabia.xml
+arabiapremium2.xml
+https://www.bevy.be/bevyfiles/arabiapremium2.xml
 
 Singtelepg.xml
 https://i.mjh.nz/Singtel/epg.xml
