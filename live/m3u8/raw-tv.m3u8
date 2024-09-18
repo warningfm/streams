@@ -358,7 +358,7 @@ https://i.mjh.nz/hardcorepawn-FAST.m3u8
 https://i.mjh.nz/racingwa-FAST.m3u8
 
 #EXTINF:-1 channel-id="mjh-outdoor-FAST" tvg-id="mjh-outdoor-FAST" tvg-logo="https://i.mjh.nz/.images/outdoor-FAST.png" group-title="Au" , Outdoor Channel
-https://i.mjh.nz/outdoor-FAST.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 channel-id="mjh-allsaints-FAST" tvg-id="mjh-allsaints-FAST" tvg-logo="https://i.mjh.nz/.images/allsaints-FAST.png" group-title="Au" , All Saints
 https://i.mjh.nz/allsaints-FAST.m3u8
