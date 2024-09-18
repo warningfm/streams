@@ -25,6 +25,9 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
 unifi_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
 
+SamsungTVPlusus.xml
+https://i.mjh.nz/SamsungTVPlus/us.xml
+
 SamsungTVPlusca.xml
 https://i.mjh.nz/SamsungTVPlus/ca.xml
 
