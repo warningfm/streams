@@ -40,6 +40,9 @@ https://i.mjh.nz/au/all/epg.xml
 nzauepg.xml
 https://i.mjh.nz/nzau/epg.xml
 
+i.mjh.nz.xml
+https://i.mjh.nz/all/epg.xml
+
 singaporepremium.xml
 https://www.bevy.be/bevyfiles/singaporepremium.xml
 
