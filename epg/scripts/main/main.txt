@@ -37,6 +37,9 @@ https://www.bevy.be/bevyfiles/singaporepremium.xml
 china.xml
 https://www.bevy.be/bevyfiles/china.xml
 
+czech.xml
+https://www.bevy.be/bevyfiles/czech.xml
+
 hongkongpremium.xml
 https://www.bevy.be/bevyfiles/hongkongpremium.xml
 
