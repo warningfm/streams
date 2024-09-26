@@ -88,6 +88,9 @@ https://i.mjh.nz/SamsungTVPlus/all.xml
 Singtel.xml
 https://i.mjh.nz/Singtel/epg.xml
 
+PlutoTVus.xml
+https://i.mjh.nz/PlutoTV/us.xml
+
 spain.xml
 https://www.bevy.be/bevyfiles/spain.xml
 
