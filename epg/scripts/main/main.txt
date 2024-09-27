@@ -43,14 +43,20 @@ https://www.bevy.be/bevyfiles/czech.xml
 hongkongpremium.xml
 https://www.bevy.be/bevyfiles/hongkongpremium.xml
 
-indiapremium1.xml
-https://www.bevy.be/bevyfiles/indiapremium1.xml
-
 india.xml
 https://www.bevy.be/bevyfiles/india.xml
 
+indiapremium1.xml
+https://www.bevy.be/bevyfiles/indiapremium1.xml
+
 arabiapremium2.xml
 https://www.bevy.be/bevyfiles/arabiapremium2.xml
+
+arabia.xml
+https://www.bevy.be/bevyfiles/arabia.xml
+
+SamsungTVPlusall.xml
+https://i.mjh.nz/SamsungTVPlus/all.xml
 
 Singtelepg.xml
 https://i.mjh.nz/Singtel/epg.xml
@@ -58,14 +64,11 @@ https://i.mjh.nz/Singtel/epg.xml
 spain.xml
 https://www.bevy.be/bevyfiles/spain.xml
 
-unitedkingdom.xml
-https://www.bevy.be/bevyfiles/unitedkingdom.xml
+PlutoTVus.xml
+https://i.mjh.nz/PlutoTV/us.xml
 
-unitedstatespremium1.xml
-https://www.bevy.be/bevyfiles/unitedstatespremium1.xml
-
-arabia.xml
-https://www.bevy.be/bevyfiles/arabia.xml
+spain.xml
+https://www.bevy.be/bevyfiles/spain.xml
 
 turkey.xml
 https://www.bevy.be/bevyfiles/turkey.xml
@@ -82,18 +85,6 @@ https://www.bevy.be/bevyfiles/unitedstatespremium1.xml
 unitedstatespremium4.xml
 https://www.bevy.be/bevyfiles/unitedstatespremium4.xml
 
-SamsungTVPlusall.xml
-https://i.mjh.nz/SamsungTVPlus/all.xml
-
-Singtel.xml
-https://i.mjh.nz/Singtel/epg.xml
-
-PlutoTVus.xml
-https://i.mjh.nz/PlutoTV/us.xml
-
-spain.xml
-https://www.bevy.be/bevyfiles/spain.xml
-
 unitedkingdom.xml
 https://www.bevy.be/bevyfiles/unitedkingdom.xml
 
@@ -103,5 +94,4 @@ https://www.bevy.be/bevyfiles/turkey.xml
 turkeypremium1.xml
 https://www.bevy.be/bevyfiles/turkeypremium1.xml
 
-unitedstatespremium4.xml
-https://www.bevy.be/bevyfiles/unitedstatespremium4.xml
+
