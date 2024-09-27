@@ -30,7 +30,7 @@ jobs:
           gzip -9 guide.xml
           mv -v guide.xml.gz global/
           echo "Generating EPG for local playlist..."
-          python3 scripts/index.py guide.xml scripts/local/local.txt "iptv.nng.cloudns.us Playlist" "http://iptv.nng.cloudns.us"
+          python3 scripts/index.py guide.xml scripts/local/local.txt "ipt.mbahnunungonline.net Playlist" "http://ipt.mbahnunungonline.net"
           mv -v guide.xml local/
           cd ..
       - name: commit
