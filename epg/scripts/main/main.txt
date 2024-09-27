@@ -1,6 +1,3 @@
-AqFad2811epg.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
-
 indonesia.xml
 https://www.bevy.be/bevyfiles/indonesia.xml
 
@@ -21,6 +18,9 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
 
 unifi_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
+
+AqFad2811epg.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
 australiaepg.xml
 https://i.mjh.nz/au/all/epg.xml
@@ -49,11 +49,11 @@ https://www.bevy.be/bevyfiles/india.xml
 indiapremium1.xml
 https://www.bevy.be/bevyfiles/indiapremium1.xml
 
-arabiapremium2.xml
-https://www.bevy.be/bevyfiles/arabiapremium2.xml
-
 arabia.xml
 https://www.bevy.be/bevyfiles/arabia.xml
+
+arabiapremium2.xml
+https://www.bevy.be/bevyfiles/arabiapremium2.xml
 
 SamsungTVPlusall.xml
 https://i.mjh.nz/SamsungTVPlus/all.xml
@@ -69,9 +69,6 @@ https://i.mjh.nz/PlutoTV/us.xml
 
 spain.xml
 https://www.bevy.be/bevyfiles/spain.xml
-
-turkey.xml
-https://www.bevy.be/bevyfiles/turkey.xml
 
 turkeypremium1.xml
 https://www.bevy.be/bevyfiles/turkeypremium1.xml
@@ -93,5 +90,3 @@ https://www.bevy.be/bevyfiles/turkey.xml
 
 turkeypremium1.xml
 https://www.bevy.be/bevyfiles/turkeypremium1.xml
-
-
