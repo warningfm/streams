@@ -13,6 +13,10 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v2
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11
       - name: config
         run: |
           git pull
@@ -20,19 +24,14 @@ jobs:
           git config --global user.name "warningfm"
       - name: generate
         run: |
-          cd epg
+          cd epg/scripts
           pwd
-          [ ! -d global ] && mkdir -v global/
-          [ ! -d local ] && mkdir -v local/
-          python3 -m pip install lxml
-          echo "Generating EPG for main playlist..."
-          python3 scripts/index.py guide.xml scripts/main/main.txt "iptv.nng.cloudns.us Playlist" "http://iptv.nng.cloudns.us"
-          gzip -9 guide.xml
-          mv -v guide.xml.gz global/
-          echo "Generating EPG for local playlist..."
-          python3 scripts/index.py guide.xml scripts/local/local.txt "ipt.mbahnunungonline.net Playlist" "http://ipt.mbahnunungonline.net"
-          mv -v guide.xml local/
-          cd ..
+          echo "Installing dependencies..."
+          python3 -m pip install lxml pgzip requests
+          echo "Generating EPG..."
+          python3 -u index.py -zo guide.xml --source="global/global.txt" --gen-name="ipt.mbahnunungonline.net" --gen-url="ipt.mbahnunungonline.net"
+          mv -v guide.xml.gz ..
+          cd ../..
       - name: commit
         run: |
           git add -A
