@@ -24,14 +24,19 @@ jobs:
           git config --global user.name "warningfm"
       - name: generate
         run: |
-          cd epg/scripts
+          cd epg
           pwd
-          echo "Installing dependencies..."
-          python3 -m pip install lxml pgzip requests
-          echo "Generating EPG..."
-          python3 -u index.py -zo guide.xml --source="global/global.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
-          mv -v guide.xml.gz ..
-          cd ../..
+          [ ! -d global ] && mkdir -v global/
+          [ ! -d local ] && mkdir -v local/
+          python3 -m pip install lxml
+          echo "Generating EPG for main playlist..."
+          python3 scripts/index.py guide.xml scripts/main/main.txt "iptv.nng.cloudns.us Playlist" "iptv.nng.cloudns.us"
+          gzip -9 guide.xml
+          mv -v guide.xml.gz global/
+          echo "Generating EPG for local playlist..."
+          python3 scripts/index.py guide.xml scripts/local/local.txt "iptv.nng.cloudns.us Playlist" "iptv.nng.cloudns.us"
+          mv -v guide.xml local/
+          cd ..
       - name: commit
         run: |
           git add -A
