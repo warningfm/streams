@@ -90,6 +90,11 @@
 		"channel_id": "DWEnglish.de.id"
 	},
 	{
+		"origin": "Discovery Channel",
+		"channel_name": "Discovery Ch",
+		"channel_id": "DiscoveryChannelIndonesia.sg"
+	},
+	{
 		"origin": "Euronews",
 		"channel_name": "EuroNews English",
 		"channel_id": "EuroNewsEnglish.fr.id"
