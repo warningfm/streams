@@ -1,162 +1,162 @@
 [
 	{
 		"origin": "ABC Australia",
-		"channel_name": "ID: ABC Australia",
+		"channel_name": "ABC Australia",
 		"channel_id": "ABCAustralia.au.id"
 	},
 	{
 		"origin": "Aljazeera",
-		"channel_name": "ID: Al-Jazeera Arabic",
-		"channel_id": "AlJazeera.qa.id"
+		"channel_name": "Al Jazeera English",
+		"channel_id": "AlJazeeraEnglish.id"
 	},
 	{
 		"origin": "AlQuran Kareem",
-		"channel_name": "ID: Al-Qur'an Al-Kareem TV",
-		"channel_id": "AlQuranAlKareemTV.sa.id"
+		"channel_name": "AlQuran Kareem",
+		"channel_id": "AlQuranKareem.id"
 	},
 	{
 		"origin": "Antara",
-		"channel_name": "ID: Antara TV",
+		"channel_name": "Antara TV",
 		"channel_id": "AntaraTV.id"
 	},
 	{
 		"origin": "ANTV",
-		"channel_name": "ID: ANTV",
+		"channel_name": "ANTV",
 		"channel_id": "ANTV.id"
 	},
 	{
 		"origin": "Arirang",
-		"channel_name": "ID: Arirang TV",
+		"channel_name": "Arirang TV",
 		"channel_id": "ArirangTV.kr.id"
 	},
 	{
 		"origin": "ATV",
-		"channel_name": "ID: ATV",
+		"channel_name": "ATV",
 		"channel_id": "ATV.id"
 	},
 	{
 		"origin": "AXN",
-		"channel_name": "ID: AXN",
+		"channel_name": "AXN",
 		"channel_id": "AXNIndonesia.sg.id"
 	},
 	{
 		"origin": "Bali TV",
-		"channel_name": "ID: Bali TV",
+		"channel_name": "Bali TV",
 		"channel_id": "BaliTV.id"
 	},
 	{
 		"origin": "BTV",
-		"channel_name": "ID: BTV",
+		"channel_name": "BTV",
 		"channel_id": "BTV.id"
 	},
 	{
 		"origin": "CCTV4",
-		"channel_name": "ID: CCTV-4",
+		"channel_name": "CCTV-4",
 		"channel_id": "CCTV4Asia.cn.id"
 	},
 	{
 		"origin": "CGTN Documentary",
-		"channel_name": "ID: CGTN Documentary",
+		"channel_name": "CGTN Documentary",
 		"channel_id": "CGTNDocumentary.cn.id"
 	},
 	{
 		"origin": "Chinese Drama",
-		"channel_name": "ID: Chinese Drama Channel",
+		"channel_name": "Chinese Drama Channel",
 		"channel_id": "ChineseDramaChannel.hk.id"
 	},
 	{
 		"origin": "Citra Dangdut",
-		"channel_name": "ID: Citra Dangdut",
+		"channel_name": "Citra Dangdut",
 		"channel_id": "CitraDangdut.id"
 	},
 	{
 		"origin": "Citra Drama",
-		"channel_name": "ID: Citra Drama",
+		"channel_name": "Citra Drama",
 		"channel_id": "CitraDrama.id"
 	},
 	{
 		"origin": "Daai TV",
-		"channel_name": "ID: DAAITV",
+		"channel_name": "DAAITV",
 		"channel_id": "DAAITV.id"
 	},
 	{
 		"origin": "DW (English)",
-		"channel_name": "ID: DW English",
+		"channel_name": "DW English",
 		"channel_id": "DWEnglish.de.id"
 	},
 	{
 		"origin": "Euronews",
-		"channel_name": "ID: EuroNews English",
+		"channel_name": "EuroNews English",
 		"channel_id": "EuroNewsEnglish.fr.id"
 	},
 	{
 		"origin": "FashionTV",
-		"channel_name": "ID: Fashion TV",
+		"channel_name": "Fashion TV",
 		"channel_id": "FashionTV.fr.id"
 	},
 	{
 		"origin": "Flik",
-		"channel_name": "ID: Flik",
+		"channel_name": "Flik",
 		"channel_id": "Flik.id"
 	},
 	{
 		"origin": "France 24",
-		"channel_name": "ID: France 24 English",
+		"channel_name": "France 24 English",
 		"channel_id": "France24English.fr.id"
 	},
 	{
 		"origin": "GTV",
-		"channel_name": "ID: GTV",
+		"channel_name": "GTV",
 		"channel_id": "GTV.id"
 	},
 	{
 		"origin": "Horee",
-		"channel_name": "ID: Horee",
+		"channel_name": "Horee",
 		"channel_id": "Horee.id"
 	},
 	{
 		"origin": "Horizon Sports",
-		"channel_name": "ID: Horizon Sports",
+		"channel_name": "Horizon Sports",
 		"channel_id": "HorizonSports.us.id"
 	},
 	{
 		"origin": "IDX",
-		"channel_name": "ID: IDX Channel",
+		"channel_name": "IDX Channel",
 		"channel_id": "IDXChannel.id"
 	},
 	{
 		"origin": "IndiKids",
-		"channel_name": "ID: Fun Planet",
+		"channel_name": "Fun Planet",
 		"channel_id": "FunPlanet.id"
 	},
 	{
 		"origin": "Indonesiana TV",
-		"channel_name": "ID: Indonesiana TV",
+		"channel_name": "Indonesiana TV",
 		"channel_id": "IndonesianaTV.id"
 	},
 	{
 		"origin": "Indosiar",
-		"channel_name": "ID: Indosiar",
+		"channel_name": "Indosiar",
 		"channel_id": "Indosiar.id"
 	},
 	{
 		"origin": "iNews",
-		"channel_name": "ID: iNews",
+		"channel_name": "iNews",
 		"channel_id": "iNews.id"
 	},
 	{
 		"origin": "JakTV",
-		"channel_name": "ID: Jak TV",
+		"channel_name": "Jak TV",
 		"channel_id": "JakTV.id"
 	},
 	{
 		"origin": "JTV",
-		"channel_name": "ID: JTV",
+		"channel_name": "JTV",
 		"channel_id": "JTV.id"
 	},
 	{
 		"origin": "KBS World",
-		"channel_name": "ID: KBS World",
+		"channel_name": "KBS World",
 		"channel_id": "KBSWorld.kr.id"
 	},
 	{
