@@ -210,29 +210,29 @@
 		"channel_id": "FirstLifestyle.id"
 	},
 	{
-		"origin": "Fox News",
-		"channel_name": "ID: FOX News Channel",
+		"origin": "FOX News.id",
+		"channel_name": "FOX News Channel",
 		"channel_id": "FoxNewsChannel.us.id"
 	},
 	{
-		"origin": "France 24",
-		"channel_name": "ID: France 24 English",
+		"origin": "France 24.id",
+		"channel_name": "France 24 English",
 		"channel_id": "France24English.fr.id"
 	},
 	{
 		"origin": "Garuda TV",
-		"channel_name": "ID: Garuda TV",
+		"channel_name": "Garuda TV",
 		"channel_id": "GarudaTV.id"
 	},
 	{
-		"origin": "GEM",
-		"channel_name": "ID: GEM",
-		"channel_id": "SonyGem.sg.id"
+		"origin": "GALAXY PREMIUM.id",
+		"channel_name": "Galaxy Premium",
+		"channel_id": "GalaxyPremium.id"
 	},
 	{
-		"origin": "GMS Channel",
-		"channel_name": "ID: GMS Channel",
-		"channel_id": "GMSChannel.id"
+		"origin": "GALAXY.id",
+		"channel_name": "Galaxy",
+		"channel_id": "Galaxy.id"
 	},
 	{
 		"origin": "GTV.id",
@@ -240,14 +240,14 @@
 		"channel_id": "GTV.id"
 	},
 	{
-		"origin": "HBO",
-		"channel_name": "ID: HBO",
-		"channel_id": "HBOAsia.sg.id"
+		"origin": "Global Trekker.id",
+		"channel_name": "Global Trekker",
+		"channel_id": "GlobalTrekker.id"
 	},
 	{
-		"origin": "HBO Family",
-		"channel_name": "ID: HBO Family",
-		"channel_id": "HBOFamilyAsia.sg.id"
+		"origin": "Animax.id",
+		"channel_name": "Animax",
+		"channel_id": "AnimaxAsia.sg.id"
 	},
 	{
 		"origin": "HBO Family HD",
