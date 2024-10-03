@@ -355,14 +355,14 @@
 		"channel_id": "LigaMahasiswa.id"
 	},
 	{
-		"origin": "Light",
-		"channel_name": "ID: Light",
-		"channel_id": "Light.id"
+		"origin": "MNCTV Malaysia.id",
+		"channel_name": "MNCTV",
+		"channel_id": "MNCTV.id"
 	},
 	{
-		"origin": "Metro Globe Network - MGN",
-		"channel_name": "ID: Metro Globe Network",
-		"channel_id": "MetroGlobeNetwork.id"
+		"origin": "MNCTV.id",
+		"channel_name": "MNCTV",
+		"channel_id": "MNCTV.id"
 	},
 	{
 		"origin": "Metro TV.id",
