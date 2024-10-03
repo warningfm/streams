@@ -55,6 +55,11 @@
 		"channel_id": "BTV.id"
 	},
 	{
+		"origin": "Boomerang",
+		"channel_name": "Cartoonito ᴴᴰ",
+		"channel_id": "CartoonitoSoutheastAsia.us.sg"
+	},
+	{
 		"origin": "CCTV4",
 		"channel_name": "CCTV-4",
 		"channel_id": "CCTV4Asia.cn.id"
