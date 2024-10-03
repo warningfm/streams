@@ -161,57 +161,57 @@
 	},
 	{
 		"origin": "Kompas TV",
-		"channel_name": "ID: Kompas TV",
+		"channel_name": "Kompas TV",
 		"channel_id": "KompasTV.id"
 	},
 	{
 		"origin": "Kplus",
-		"channel_name": "ID: K+",
-		"channel_id": "KPlus.sg.id"
+		"channel_name": "Kplus",
+		"channel_id": "KPlus.sg"
 	},
 	{
 		"origin": "Metro TV",
-		"channel_name": "ID: Metro TV",
+		"channel_name": "Metro TV",
 		"channel_id": "MetroTV.id"
 	},
 	{
 		"origin": "MNC",
-		"channel_name": "ID: MNCTV",
+		"channel_name": "MNCTV",
 		"channel_id": "MNCTV.id"
 	},
 	{
 		"origin": "MNC News",
-		"channel_name": "ID: SindoNews TV",
+		"channel_name": "SindoNews TV",
 		"channel_id": "SindoNews.id"
 	},
 	{
 		"origin": "MQTV",
-		"channel_name": "ID: MQTV",
+		"channel_name": "MQTV",
 		"channel_id": "MQTV.id"
 	},
 	{
 		"origin": "MTATV",
-		"channel_name": "ID: MTATV",
+		"channel_name": "MTATV",
 		"channel_id": "MTATV.id"
 	},
 	{
 		"origin": "Muhammadiyah TV",
-		"channel_name": "ID: tvMu",
+		"channel_name": "tvMu",
 		"channel_id": "tvMu.id"
 	},
 	{
 		"origin": "MUI TV",
-		"channel_name": "ID: TV MUI",
+		"channel_name": "MUI TV",
 		"channel_id": "TVMUI.id"
 	},
 	{
 		"origin": "My Family",
-		"channel_name": "ID: My Family",
+		"channel_name": "My Family",
 		"channel_id": "MyFamily.id"
 	},
 	{
 		"origin": "MyKidz",
-		"channel_name": "ID: My Kidz",
+		"channel_name": "My Kidz",
 		"channel_id": "MyKids.id"
 	},
 	{
@@ -221,107 +221,107 @@
 	},
 	{
 		"origin": "Net.",
-		"channel_name": "ID: NET.",
+		"channel_name": "NET.",
 		"channel_id": "NetTV.id"
 	},
 	{
 		"origin": "News Asia",
-		"channel_name": "ID: CNA",
+		"channel_name": "CNA",
 		"channel_id": "CNAInternational.sg.id"
 	},
 	{
 		"origin": "Nusantara TV",
-		"channel_name": "ID: Nusantara TV",
+		"channel_name": "Nusantara TV",
 		"channel_id": "NusantaraTV.id"
 	},
 	{
 		"origin": "Prambors",
-		"channel_name": "ID: Prambors TV",
+		"channel_name": "Prambors TV",
 		"channel_id": "PramborsTV.id"
 	},
 	{
 		"origin": "Rajawali TV",
-		"channel_name": "ID: RTV",
+		"channel_name": "RTV",
 		"channel_id": "RajawaliTV.id"
 	},
 	{
 		"origin": "RCTI",
-		"channel_name": "ID: RCTI",
+		"channel_name": "RCTI",
 		"channel_id": "RCTI.id"
 	},
 	{
 		"origin": "Rodja TV",
-		"channel_name": "ID: Rodja TV",
+		"channel_name": "Rodja TV",
 		"channel_id": "RodjaTV.id"
 	},
 	{
 		"origin": "RRI NET",
-		"channel_name": "ID: RRI NET",
+		"channel_name": "RRI NET",
 		"channel_id": "RRINet.id"
 	},
 	{
 		"origin": "SCTV",
-		"channel_name": "ID: SCTV",
+		"channel_name": "SCTV",
 		"channel_id": "SCTV.id"
 	},
 	{
 		"origin": "SEA Today",
-		"channel_name": "ID: SEA Today",
+		"channel_name": "SEA Today",
 		"channel_id": "SEAToday.id"
 	},
 	{
 		"origin": "Tawaf TV",
-		"channel_name": "ID: Tawaf TV",
+		"channel_name": "Tawaf TV",
 		"channel_id": "TawafTV.id"
 	},
 	{
 		"origin": "Thrill",
-		"channel_name": "ID: Thrill",
+		"channel_name": "Thrill",
 		"channel_id": "Thrill.hk.id"
 	},
 	{
 		"origin": "Trans7",
-		"channel_name": "ID: Trans 7",
+		"channel_name": "Trans 7",
 		"channel_id": "Trans7.id"
 	},
 	{
 		"origin": "TransTV",
-		"channel_name": "ID: Trans TV",
+		"channel_name": "Trans TV",
 		"channel_id": "TransTV.id"
 	},
 	{
 		"origin": "TRT World",
-		"channel_name": "ID: TRT World",
+		"channel_name": "TRT World",
 		"channel_id": "TRTWorld.tr.id"
 	},
 	{
 		"origin": "TV One",
-		"channel_name": "ID: tvOne",
+		"channel_name": "tvOne",
 		"channel_id": "tvOne.id"
 	},
 	{
 		"origin": "TV9 NU",
-		"channel_name": "ID: TV9 Nusantara",
+		"channel_name": "TV9 Nusantara",
 		"channel_id": "TV9Nusantara.id"
 	},
 	{
 		"origin": "TVRI",
-		"channel_name": "ID: TVRI Nasional",
+		"channel_name": "TVRI Nasional",
 		"channel_id": "TVRINasional.id"
 	},
 	{
 		"origin": "UChannel",
-		"channel_name": "ID: U-Channel",
+		"channel_name": "U-Channel",
 		"channel_id": "UChannel.id"
 	},
 	{
 		"origin": "UseePrime",
-		"channel_name": "ID: AllPlay Entertainment",
+		"channel_name": "AllPlay Entertainment",
 		"channel_id": "AllPlayEnt.id"
 	},
 	{
 		"origin": "ZBioskop",
-		"channel_name": "ID: Zee Bioskop",
+		"channel_name": "Zee Bioskop",
 		"channel_id": "ZeeBioskop.in.id"
 	}
 ]
