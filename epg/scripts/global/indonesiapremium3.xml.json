@@ -25,6 +25,11 @@
 		"channel_id": "AntaraTV.id"
 	},
 	{
+		"origin": "Aniplus",
+		"channel_name": "Aniplus",
+		"channel_id": "Aniplus.id"
+	},
+	{
 		"origin": "ANTV",
 		"channel_name": "ANTV",
 		"channel_id": "ANTV.id"
