@@ -1,91 +1,91 @@
 [
 	{
 		"origin": "(4K) mio Stadium OD.sg",
-		"channel_name": "SG: mio Stadium OD",
+		"channel_name": "mio Stadium OD",
 		"channel_id": "mioStadiumOD.sg"
 	},
 	{
 		"origin": "(HD) mio Stadium.sg",
-		"channel_name": "SG: mio Stadium",
+		"channel_name": "mio Stadium",
 		"channel_id": "mioStadium.sg"
 	},
 	{
 		"origin": "(HD) Outdoor Channel.sg",
-		"channel_name": "SG: Outdoor Channel",
+		"channel_name": "Outdoor Channel",
 		"channel_id": "OutdoorChannel.us.sg"
 	},
 	{
 		"origin": "ABC Australia.sg",
-		"channel_name": "SG: ABC Australia",
+		"channel_name": "ABC Australia",
 		"channel_id": "ABCAustralia.au.sg"
 	},
 	{
 		"origin": "ABS-CBN News Channel.sg",
-		"channel_name": "SG: ABS-CBN News Channel",
+		"channel_name": "ABS-CBN News Channel",
 		"channel_id": "ANC.ph.sg"
 	{
 		"origin": "Adithya TV.sg",
-		"channel_name": "SG: Adithya TV",
+		"channel_name": "Adithya TV",
 		"channel_id": "AdithyaTV.in.sg"
 	},
 	{
 		"origin": "AFN (HD).sg",
-		"channel_name": "SG: Asian Food Network",
+		"channel_name": "Asian Food Network",
 		"channel_id": "AsianFoodNetwork.sg"
 	},
 	{
 		"origin": "Animal Planet (HD).sg",
-		"channel_name": "SG: Animal Planet",
+		"channel_name": "Animal Planet",
 		"channel_id": "AnimalPlanetSoutheastAsia.sg"
 	},
 	{
 		"origin": "Animax (HD).sg",
-		"channel_name": "SG: Animax",
+		"channel_name": "Animax",
 		"channel_id": "AnimaxAsia.sg"
 	},
 	{
 		"origin": "ANIPLUS (HD).sg",
-		"channel_name": "SG: Aniplus",
+		"channel_name": "Aniplus",
 		"channel_id": "Aniplus.th.sg"
 	},
 	{
 		"origin": "Arirang TV HD",
-		"channel_name": "SG: Arirang TV",
+		"channel_name": "Arirang TV",
 		"channel_id": "ArirangTV.kr.sg"
 	},
 	{
 		"origin": "Asia Travel HD",
-		"channel_name": "SG: Asia Travel",
+		"channel_name": "Asia Travel",
 		"channel_id": "AsiaTravel.tw.sg"
 	},
 	{
 		"origin": "Asianet.sg",
-		"channel_name": "SG: Asianet",
+		"channel_name": "Asianet",
 		"channel_id": "Asianet.in.sg"
 	},
 	{
 		"origin": "Asianet Movies.sg",
-		"channel_name": "SG: Asianet Movies",
+		"channel_name": "Asianet Movies",
 		"channel_id": "AsianetMovies.in.sg"
 	},
 	{
 		"origin": "Astro Prima HD.sg",
-		"channel_name": "SG: Astro Prima",
+		"channel_name": "Astro Prima",
 		"channel_id": "AstroPrima.my.sg"
 	},
 	{
 		"origin": "Astro Ria HD.sg",
-		"channel_name": "SG: Astro Ria",
+		"channel_name": "Astro Ria",
 		"channel_id": "AstroRia.my.sg"
 	},
 	{
 		"origin": "Astro Warna HD.sg",
-		"channel_name": "SG: Astro Warna",
+		"channel_name": "Astro Warna",
 		"channel_id": "AstroWarna.my.sg"
 	},
 	{
 		"origin": "AXN (HD).sg",
-		"channel_name": "SG: AXN",
+		"channel_name": "AXN",
 		"channel_id": "AXNIndonesia.sg"
 	},
 	{
