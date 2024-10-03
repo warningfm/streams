@@ -929,6 +929,11 @@
 		"channel_id": "ZeeThirai.in.sg"
 	},
 	{
+		"origin": "Zoom TV.sg",
+		"channel_name": "Zoom TV",
+		"channel_id": "ZoomTV.sg"
+	},
+	{
 		"origin": "Zee TV.sg",
 		"channel_name": "Zee TV",
 		"channel_id": "ZeeTV.in.sg"
