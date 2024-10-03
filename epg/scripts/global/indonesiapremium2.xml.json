@@ -445,14 +445,14 @@
 		"channel_id": "PremierSports.ir.id"
 	},
 	{
-		"origin": "Premier Sports HD",
-		"channel_name": "ID: Premier Sports",
-		"channel_id": "PremierSports.ir.id"
+		"origin": "RCTI Malaysia.id",
+		"channel_name": "RCTI",
+		"channel_id": "RCTI.id"
 	},
 	{
-		"origin": "Rai Italia",
-		"channel_name": "ID: RAI Italia",
-		"channel_id": "RaiItaliaAsia.it.id"
+		"origin": "RCTI.id",
+		"channel_name": "RCTI",
+		"channel_id": "RCTI.id"
 	},
 	{
 		"origin": "Rajawali TV",
