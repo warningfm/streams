@@ -60,6 +60,11 @@
 		"channel_id": "CartoonitoSoutheastAsia.us.sg"
 	},
 	{
+		"origin": "Bioskop Indonesia",
+		"channel_name": "Bioskop Indonesia",
+		"channel_id": "BioskopIndonesia.id"
+	},
+	{
 		"origin": "CCTV4",
 		"channel_name": "CCTV-4",
 		"channel_id": "CCTV4Asia.cn.id"
