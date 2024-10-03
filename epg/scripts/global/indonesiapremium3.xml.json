@@ -105,6 +105,11 @@
 		"channel_id": "DWEnglish.de.id"
 	},
 	{
+		"origin": "Da Vinci Learning",
+		"channel_name": "Da Vinci Learning",
+		"channel_id": "DaVinciLearning.sg"
+	},
+	{
 		"origin": "Discovery Channel",
 		"channel_name": "Discovery Ch",
 		"channel_id": "DiscoveryChannelIndonesia.sg"
