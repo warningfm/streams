@@ -325,6 +325,11 @@
 		"channel_id": "AllPlayEnt.id"
 	},
 	{
+		"origin": "Warner",
+		"channel_name": "Warner TV",
+		"channel_id": "warnertvasia.sg"
+	},
+	{
 		"origin": "ZBioskop",
 		"channel_name": "Zee Bioskop",
 		"channel_id": "ZeeBioskop.in.id"
