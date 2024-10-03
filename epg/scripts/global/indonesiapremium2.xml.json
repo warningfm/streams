@@ -91,7 +91,7 @@
 	},
 	{
 		"origin": "CGTN",
-		"channel_name": "ID: CGTN",
+		"channel_name": "CGTN",
 		"channel_id": "CGTN.cn.id"
 	},
 	{
@@ -240,39 +240,39 @@
 		"channel_id": "GTV.id"
 	},
 	{
+		"origin": "GTV Malaysia.id",
+		"channel_name": "GTV",
+		"channel_id": "GTV.id"
+	},
+	{
 		"origin": "Global Trekker.id",
 		"channel_name": "Global Trekker",
 		"channel_id": "GlobalTrekker.id"
 	},
 	{
-		"origin": "Animax.id",
-		"channel_name": "Animax",
-		"channel_id": "AnimaxAsia.sg.id"
+		"origin": "History.id",
+		"channel_name": "History",
+		"channel_id": "History.id"
 	},
 	{
-		"origin": "HBO Family HD",
-		"channel_name": "ID: HBO Family",
-		"channel_id": "HBOFamilyAsia.sg.id"
+		"origin": "Hits Movies.id",
+		"channel_name": "Hits Movies",
+		"channel_id": "HitsMovies.id"
 	},
 	{
-		"origin": "HBO HD",
-		"channel_name": "ID: HBO",
-		"channel_id": "HBOAsia.sg.id"
+		"origin": "Hits.id",
+		"channel_name": "Hits",
+		"channel_id": "Hits.id"
 	},
 	{
-		"origin": "HBO Hits",
-		"channel_name": "ID: HBO Hits",
-		"channel_id": "HBOHitsAsia.sg.id"
+		"origin": "IDX.id",
+		"channel_name": "IDX",
+		"channel_id": "IDX.id"
 	},
 	{
-		"origin": "HBO Hits HD",
-		"channel_name": "ID: HBO Hits",
-		"channel_id": "HBOHitsAsia.sg.id"
-	},
-	{
-		"origin": "HBO Signature",
-		"channel_name": "ID: HBO Signature",
-		"channel_id": "HBOSignatureAsia.sg.id"
+		"origin": "IMC (Indonesia Movie Channel).id",
+		"channel_name": "IMC",
+		"channel_id": "IMC.id"
 	},
 	{
 		"origin": "HBO Signature HD",
