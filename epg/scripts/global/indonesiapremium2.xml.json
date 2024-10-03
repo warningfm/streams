@@ -1,42 +1,42 @@
 [
 	{
-		"origin": "ABC Australia",
-		"channel_name": "ID: ABC Australia",
+		"origin": "ABC.id",
+		"channel_name": "ABC Australia",
 		"channel_id": "ABCAustralia.au.id"
 	},
 	{
 		"origin": "Al Jazeera Arabic",
-		"channel_name": "ID: Al Jazeera Arabic",
+		"channel_name": "Al Jazeera Arabic",
 		"channel_id": "AlJazeera.qa.id"
 	},
 	{
-		"origin": "Al Jazeera International",
-		"channel_name": "ID: Al Jazeera English",
+		"origin": "Aljazeera.id",
+		"channel_name": "Al Jazeera English",
 		"channel_id": "AlJazeeraEnglish.qa.id"
 	},
 	{
-		"origin": "Al Quran Al Kareem",
-		"channel_name": "ID: Al-Qur'an Al-Kareem TV",
-		"channel_id": "AlQuranAlKareemTV.sa.id"
+		"origin": "Al Quran Al Kareem.id",
+		"channel_name": "AlQuran Kareem",
+		"channel_id": "AlQuranKareem.id"
 	},
 	{
 		"origin": "Animal Planet",
-		"channel_name": "ID: Animal Planet",
+		"channel_name": "Animal Planet",
 		"channel_id": "AnimalPlanetSoutheastAsia.sg.id"
 	},
 	{
-		"origin": "Animax",
-		"channel_name": "ID: Animax",
+		"origin": "Animax.id",
+		"channel_name": "Animax",
 		"channel_id": "AnimaxAsia.sg.id"
 	},
 	{
-		"origin": "ANTV",
-		"channel_name": "ID: ANTV",
+		"origin": "ANTV.id",
+		"channel_name": "ANTV",
 		"channel_id": "ANTV.id"
 	},
 	{
-		"origin": "Arirang",
-		"channel_name": "ID: Arirang TV",
+		"origin": "Arirang.id",
+		"channel_name": "Arirang TV",
 		"channel_id": "ArirangTV.kr.id"
 	},
 	{
@@ -45,28 +45,28 @@
 		"channel_id": "AsianFoodNetwork.sg.id"
 	},
 	{
-		"origin": "AXN",
-		"channel_name": "ID: AXN",
+		"origin": "AXN.id",
+		"channel_name": "AXN",
 		"channel_id": "AXNIndonesia.sg.id"
 	},
 	{
-		"origin": "Balai Kota Bandung",
-		"channel_name": "ID: Balai Kota Bandung",
-		"channel_id": "BalaiKotaBdg.id"
+		"origin": "Bali TV.id",
+		"channel_name": "Bali TV",
+		"channel_id": "BaliTV.id"
 	},
 	{
-		"origin": "Balai Kota Channel",
-		"channel_name": "ID: Balai Kota Channel",
-		"channel_id": "BalaiKotaChannel.id"
+		"origin": "Bandung TV.id",
+		"channel_name": "Bandung TV",
+		"channel_id": "BandungTV.id"
 	},
 	{
-		"origin": "BBC World News",
-		"channel_name": "ID: BBC World News",
+		"origin": "BBC World news.id",
+		"channel_name": "BBC World News",
 		"channel_id": "BBCWorldNewsAsiaPacific.uk.id"
 	},
 	{
-		"origin": "Berita Satu",
-		"channel_name": "ID: BTV",
+		"origin": "BTV.id",
+		"channel_name": "BTV",
 		"channel_id": "BTV.id"
 	},
 	{
@@ -80,8 +80,8 @@
 		"channel_id": "BeritaSatuWorld.id"
 	},
 	{
-		"origin": "Bloomberg",
-		"channel_name": "ID: Bloomberg",
+		"origin": "Bloomberg.id",
+		"channel_name": "Bloomberg",
 		"channel_id": "BloombergTVAsia.hk.id"
 	},
 	{
@@ -91,12 +91,12 @@
 	},
 	{
 		"origin": "CCTV 4",
-		"channel_name": "ID: CCTV-4",
+		"channel_name": "CCTV-4",
 		"channel_id": "CCTV4Asia.cn.id"
 	},
 	{
-		"origin": "Celestial Movie",
-		"channel_name": "ID: Celestial Movies",
+		"origin": "Celestial Movies.id",
+		"channel_name": "Celestial Movies",
 		"channel_id": "CelestialMoviesIndonesia.hk.id"
 	},
 	{
@@ -250,8 +250,8 @@
 		"channel_id": "GMSChannel.id"
 	},
 	{
-		"origin": "GTV",
-		"channel_name": "ID: GTV",
+		"origin": "GTV.id",
+		"channel_name": "GTV",
 		"channel_id": "GTV.id"
 	},
 	{
@@ -320,8 +320,8 @@
 		"channel_id": "Indosiar.id"
 	},
 	{
-		"origin": "iNews",
-		"channel_name": "ID: iNews",
+		"origin": "iNews.id",
+		"channel_name": "iNews",
 		"channel_id": "iNews.id"
 	},
 	{
@@ -335,13 +335,13 @@
 		"channel_id": "JakartaGlobeNews.id"
 	},
 	{
-		"origin": "Jakarta TV - Jak TV",
-		"channel_name": "ID: Jak TV",
+		"origin": "JAK TV.id",
+		"channel_name": "Jak TV",
 		"channel_id": "JakTV.id"
 	},
 	{
-		"origin": "Jawa Pos Media Televisi - JTV",
-		"channel_name": "ID: JTV",
+		"origin": "JTV.id",
+		"channel_name": "JTV",
 		"channel_id": "JTV.id"
 	},
 	{
@@ -360,8 +360,8 @@
 		"channel_id": "KBSWorld.kr.id"
 	},
 	{
-		"origin": "Kompas TV",
-		"channel_name": "ID: Kompas TV",
+		"origin": "Kompas TV.id",
+		"channel_name": "Kompas TV",
 		"channel_id": "KompasTV.id"
 	},
 	{
@@ -380,13 +380,13 @@
 		"channel_id": "MetroGlobeNetwork.id"
 	},
 	{
-		"origin": "Metro TV",
-		"channel_name": "ID: Metro TV",
+		"origin": "Metro TV.id",
+		"channel_name": "Metro TV",
 		"channel_id": "MetroTV.id"
 	},
 	{
-		"origin": "MNC News",
-		"channel_name": "ID: SindoNews TV",
+		"origin": "SindoNews.id",
+		"channel_name": "SindoNews TV",
 		"channel_id": "SindoNews.id"
 	},
 	{
@@ -405,8 +405,8 @@
 		"channel_id": "NationalGeographicWildIndonesia.us.id"
 	},
 	{
-		"origin": "NET.",
-		"channel_name": "ID: NET.",
+		"origin": "Net TV.id",
+		"channel_name": "NET.",
 		"channel_id": "NetTV.id"
 	},
 	{
@@ -421,7 +421,7 @@
 	},
 	{
 		"origin": "Nickelodeon",
-		"channel_name": "ID: Nickelodeon",
+		"channel_name": "Nickelodeon",
 		"channel_id": "NickelodeonAsia.sg.id"
 	},
 	{
@@ -471,7 +471,7 @@
 	},
 	{
 		"origin": "Rajawali TV",
-		"channel_name": "ID: RTV",
+		"channel_name": "RTV",
 		"channel_id": "RajawaliTV.id"
 	},
 	{
@@ -480,8 +480,8 @@
 		"channel_id": "Reformed21.id"
 	},
 	{
-		"origin": "Rock Extreme",
-		"channel_name": "ID: Rock Action",
+		"origin": "Rock Action.id",
+		"channel_name": "Rock Action",
 		"channel_id": "RockAction.sg.id"
 	},
 	{
@@ -491,7 +491,7 @@
 	},
 	{
 		"origin": "SCTV",
-		"channel_name": "ID: SCTV",
+		"channel_name": "SCTV",
 		"channel_id": "SCTV.id"
 	},
 	{
@@ -510,13 +510,13 @@
 		"channel_id": "Shine.id"
 	},
 	{
-		"origin": "SPOTV",
-		"channel_name": "ID: SPOTV",
+		"origin": "SpoTV 1.id",
+		"channel_name": "SPOTV",
 		"channel_id": "SPOTV.kr.id"
 	},
 	{
-		"origin": "SPOTV 2",
-		"channel_name": "ID: SPOTV 2",
+		"origin": "SpoTV 2.id",
+		"channel_name": "SPOTV 2",
 		"channel_id": "SPOTV2.kr.id"
 	},
 	{
@@ -545,39 +545,39 @@
 		"channel_id": "TLCSoutheastAsia.sg.id"
 	},
 	{
-		"origin": "TRANS 7",
-		"channel_name": "ID: Trans 7",
+		"origin": "Trans 7.id",
+		"channel_name": "Trans 7",
 		"channel_id": "Trans7.id"
 	},
 	{
-		"origin": "TRANS TV",
-		"channel_name": "ID: Trans TV",
+		"origin": "Trans TV.id",
+		"channel_name": "Trans TV",
 		"channel_id": "TransTV.id"
 	},
 	{
-		"origin": "TRT World",
-		"channel_name": "ID: TRT World",
+		"origin": "TRT World.id",
+		"channel_name": "TRT World",
 		"channel_id": "TRTWorld.tr.id"
 	},
 	{
-		"origin": "TV One",
-		"channel_name": "ID: tvOne",
+		"origin": "TVOne.id",
+		"channel_name": "tvOne",
 		"channel_id": "tvOne.id"
 	},
 	{
-		"origin": "TV5 Monde",
-		"channel_name": "ID: TV5 Monde",
+		"origin": "TV5Monde.id",
+		"channel_name": "TV5 Monde",
 		"channel_id": "TV5MondeAsia.fr.id"
 	},
 	{
-		"origin": "TV9",
-		"channel_name": "ID: TV9 Nusantara",
+		"origin": "TV 9.id",
+		"channel_name": "TV9 Nusantara",
 		"channel_id": "TV9Nusantara.id"
 	},
 	{
-		"origin": "TVB Xing He",
-		"channel_name": "ID: TVB Xing He",
-		"channel_id": "TVBXingHe.hk.id"
+		"origin": "TV MU.id",
+		"channel_name": "Muhammadiyah TV",
+		"channel_id": "TVMU.id"
 	},
 	{
 		"origin": "TVBS Asia",
@@ -590,8 +590,8 @@
 		"channel_id": "TVBSNews.hk.id"
 	},
 	{
-		"origin": "TVRI Nasional",
-		"channel_name": "ID: TVRI Nasional",
+		"origin": "TVRI.id",
+		"channel_name": "TVRI Nasional",
 		"channel_id": "TVRINasional.id"
 	},
 	{
