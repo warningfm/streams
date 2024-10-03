@@ -155,14 +155,14 @@
 		"channel_id": "DENSFoodChannel.id"
 	},
 	{
-		"origin": "DW Deutsch",
-		"channel_name": "ID: DW Deutsch",
-		"channel_id": "DWDeutsch.de.id"
+		"origin": "DENS Showbizz Channel.id",
+		"channel_name": "DENS Showbizz Channel",
+		"channel_id": "DENSShowbizzChannel.id"
 	},
 	{
-		"origin": "DW English",
-		"channel_name": "ID: DW English",
-		"channel_id": "DWEnglish.de.id"
+		"origin": "DW.id",
+		"channel_name": "DW (English)",
+		"channel_id": "DWEnglish.de"
 	},
 	{
 		"origin": "Eternal Word Television Network (EWTN))",
