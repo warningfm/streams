@@ -825,112 +825,112 @@
 	},
 	{
 		"origin": "TestChannel995",
-		"channel_name": "SG: TestChannel995",
+		"channel_name": "TestChannel995",
 		"channel_id": "TestChannel995"
 	},
 	{
 		"origin": "TestChannel996",
-		"channel_name": "SG: TestChannel996",
+		"channel_name": "TestChannel996",
 		"channel_id": "TestChannel996"
 	},
 	{
 		"origin": "The Filipino Channel.sg",
-		"channel_name": "SG: The Filipino Channel",
+		"channel_name": "The Filipino Channel",
 		"channel_id": "TheFilipinoChannel.ph.sg"
 	},
 	{
 		"origin": "Times Now.sg",
-		"channel_name": "SG: Times Now",
+		"channel_name": "Times Now",
 		"channel_id": "TimesNow.sg"
 	},
 	{
 		"origin": "TLC (HD).sg",
-		"channel_name": "SG: TLC",
+		"channel_name": "TLC",
 		"channel_id": "TLCSoutheastAsia.sg"
 	},
 	{
 		"origin": "TRACE Sports Stars HD.sg",
-		"channel_name": "SG: TRACE Sports Stars",
+		"channel_name": "TRACE Sports Stars",
 		"channel_id": "TRACESportsStars.sg"
 	},
 	{
 		"origin": "Travelxp HD",
-		"channel_name": "SG: Travelxp HD",
+		"channel_name": "Travelxp HD",
 		"channel_id": "Travelxp.in.sg"
 	},
 	{
 		"origin": "TV5MONDE HD",
-		"channel_name": "SG: TV5 Monde",
+		"channel_name": "TV5 Monde",
 		"channel_id": "TV5MondeAsia.fr.sg"
 	},
 	{
 		"origin": "TVB Jade (HD).sg",
-		"channel_name": "SG: TVB Jade",
+		"channel_name": "TVB Jade",
 		"channel_id": "Jade.hk.sg"
 	},
 	{
 		"origin": "TVB Xing He (HD).sg",
-		"channel_name": "SG: TVB Xing He",
+		"channel_name": "TVB Xing He",
 		"channel_id": "TVBXingHe.hk.sg"
 	},
 	{
 		"origin": "TVBS Asia.sg",
-		"channel_name": "SG: TVBS Asia",
+		"channel_name": "TVBS Asia",
 		"channel_id": "TVBSAsia.tw.sg"
 	},
 	{
 		"origin": "TVBS-NEWS.sg",
-		"channel_name": "SG: TVBS News",
+		"channel_name": "TVBS News",
 		"channel_id": "TVBSNews.tw.sg"
 	},
 	{
 		"origin": "tvN HD (Malay).sg",
-		"channel_name": "SG: tvN Malaysia",
+		"channel_name": "tvN Malaysia",
 		"channel_id": "tvNAsia.my.sg"
 	},
 	{
 		"origin": "tvN HD (Mandarin).sg",
-		"channel_name": "SG: tvN",
+		"channel_name": "tvN",
 		"channel_id": "tvNAsia.hk.sg"
 	},
 	{
 		"origin": "Vannathirai (HD).sg",
-		"channel_name": "SG: Vannathirai",
+		"channel_name": "Vannathirai",
 		"channel_id": "ChannelVannathiraiHD.sg"
 	},
 	{
 		"origin": "Vasantham (HD).sg",
-		"channel_name": "SG: Vasantham",
+		"channel_name": "Vasantham",
 		"channel_id": "ChannelVasanthamHD.sg"
 	},
 	{
 		"origin": "Vijay.sg",
-		"channel_name": "SG: Vijay TV",
+		"channel_name": "Vijay TV",
 		"channel_id": "VijayTV.in.sg"
 	},
 	{
 		"origin": "WION.sg",
-		"channel_name": "SG: Wion",
+		"channel_name": "Wion",
 		"channel_id": "Wion.in.sg"
 	}
 	{
 		"origin": "Zee Cinema.sg",
-		"channel_name": "SG: Zee Cinema",
+		"channel_name": "Zee Cinema",
 		"channel_id": "ZeeCinema.in.sg"
 	},
 	{
 		"origin": "Zee Tamil.sg",
-		"channel_name": "SG: Zee Tamil",
+		"channel_name": "Zee Tamil",
 		"channel_id": "ZeeTamil.in.sg"
 	},
 	{
 		"origin": "Zee Thirai.sg",
-		"channel_name": "SG: Zee Thirai",
+		"channel_name": "Zee Thirai",
 		"channel_id": "ZeeThirai.in.sg"
 	},
 	{
 		"origin": "Zee TV.sg",
-		"channel_name": "SG: Zee TV",
+		"channel_name": "Zee TV",
 		"channel_id": "ZeeTV.in.sg"
 	}
 ]
