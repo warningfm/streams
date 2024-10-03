@@ -5,9 +5,9 @@
 		"channel_id": "ABCAustralia.au.id"
 	},
 	{
-		"origin": "Al Jazeera Arabic",
-		"channel_name": "Al Jazeera Arabic",
-		"channel_id": "AlJazeera.qa.id"
+		"origin": "Al Quran Al Kareem.id",
+		"channel_name": "AlQuran Kareem",
+		"channel_id": "AlQuranKareem.id"
 	},
 	{
 		"origin": "Aljazeera.id",
@@ -15,14 +15,9 @@
 		"channel_id": "AlJazeeraEnglish.qa.id"
 	},
 	{
-		"origin": "Al Quran Al Kareem.id",
-		"channel_name": "AlQuran Kareem",
-		"channel_id": "AlQuranKareem.id"
-	},
-	{
-		"origin": "Animal Planet",
-		"channel_name": "Animal Planet",
-		"channel_id": "AnimalPlanetSoutheastAsia.sg.id"
+		"origin": "Anhui.id",
+		"channel_name": "Anhui",
+		"channel_id": "Anhui.id"
 	},
 	{
 		"origin": "Animax.id",
@@ -38,11 +33,6 @@
 		"origin": "Arirang.id",
 		"channel_name": "Arirang TV",
 		"channel_id": "ArirangTV.kr.id"
-	},
-	{
-		"origin": "Asian Food Network",
-		"channel_name": "ID: Asian Food Network",
-		"channel_id": "AsianFoodNetwork.sg.id"
 	},
 	{
 		"origin": "AXN.id",
@@ -70,14 +60,9 @@
 		"channel_id": "BTV.id"
 	},
 	{
-		"origin": "Berita Satu World",
-		"channel_name": "ID: BeritaSatu World",
-		"channel_id": "BeritaSatuWorld.id"
-	},
-	{
-		"origin": "Berita Satu World HD",
-		"channel_name": "ID: BeritaSatu World",
-		"channel_id": "BeritaSatuWorld.id"
+		"origin": "BBC Earth.id",
+		"channel_name": "BBC Earth",
+		"channel_id": "BBCEarth.id"
 	},
 	{
 		"origin": "Bloomberg.id",
@@ -110,58 +95,58 @@
 		"channel_id": "CGTN.cn.id"
 	},
 	{
-		"origin": "Champions TV 1",
-		"channel_name": "ID: Champions TV 1",
-		"channel_id": "ChampionsTV1.id"
+		"origin": "Cbeebies.id",
+		"channel_name": "Cbeebies",
+		"channel_id": "Cbeebies.id"
 	},
 	{
-		"origin": "Champions TV 1 HD",
-		"channel_name": "ID: Champions TV 1",
-		"channel_id": "ChampionsTV1.id"
+		"origin": "Celebrities TV.id",
+		"channel_name": "Celebrities TV",
+		"channel_id": "CelebritiesTV.id"
 	},
 	{
-		"origin": "Champions TV 2",
-		"channel_name": "ID: Champions TV 2",
-		"channel_id": "ChampionsTV2.id"
+		"origin": "Celestial Movies.id",
+		"channel_name": "Celestial Movies",
+		"channel_id": "CelestialMovies.id"
 	},
 	{
-		"origin": "Champions TV 2 HD",
-		"channel_name": "ID: Champions TV 2",
-		"channel_id": "ChampionsTV2.id"
+		"origin": "CCM.id",
+		"channel_name": "Celestial Classic Movies",
+		"channel_id": "CCM.id"
 	},
 	{
-		"origin": "Champions TV 3",
-		"channel_name": "ID: Champions TV 3",
-		"channel_id": "ChampionsTV3.id"
+		"origin": "CGTN Documentary.id",
+		"channel_name": "CGTN Documentary.id",
+		"channel_id": "CGTNDocumentary.id"
 	},
 	{
-		"origin": "Champions TV 3 HD",
-		"channel_name": "ID: Champions TV 3",
-		"channel_id": "ChampionsTV3.id"
+		"origin": "CGTN.id",
+		"channel_name": "CGTN",
+		"channel_id": "CGTN.id"
 	},
 	{
-		"origin": "Channel News Asia",
-		"channel_name": "ID: CNA",
+		"origin": "Channel News Asia.id",
+		"channel_name": "CNA",
 		"channel_id": "CNAInternational.sg.id"
 	},
 	{
-		"origin": "Cinemax",
-		"channel_name": "ID: Cinemax",
-		"channel_id": "CinemaxAsia.sg.id"
+		"origin": "CINEMA WORLD.id",
+		"channel_name": "Cinema World",
+		"channel_id": "Cinemaworld.id"
 	},
 	{
-		"origin": "Cinemax HD",
-		"channel_name": "ID: Cinemax",
-		"channel_id": "CinemaxAsia.sg.id"
+		"origin": "Cinemachi Action.id",
+		"channel_name": "Cinemachi Action",
+		"channel_id": "CinemachiAction.id"
 	},
 	{
-		"origin": "CNN International",
-		"channel_name": "ID: CNN International",
-		"channel_id": "CNNInternationalAsiaPacific.hk.id"
+		"origin": "Cinemachi Kids.id",
+		"channel_name": "Cinemachi Kids",
+		"channel_id": "CinemachiKids.id"
 	},
 	{
-		"origin": "DAAI TV",
-		"channel_name": "ID: DAAITV",
+		"origin": "DAAI TV.id",
+		"channel_name": "DAAITV",
 		"channel_id": "DAAITV.id"
 	},
 	{
