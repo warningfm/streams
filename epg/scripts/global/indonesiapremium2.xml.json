@@ -75,14 +75,14 @@
 		"channel_id": "CelestialMovies.id"
 	},
 	{
-		"origin": "Celestial Movie HD",
-		"channel_name": "ID: Celestial Movies",
-		"channel_id": "CelestialMovies.id"
+		"origin": "CGTN Documentary.id",
+		"channel_name": "CGTN Documentary",
+		"channel_id": "CGTNDocumentary.id"
 	},
 	{
-		"origin": "CGTN",
+		"origin": "CGTN.id",
 		"channel_name": "CGTN",
-		"channel_id": "CGTN.cn.id"
+		"channel_id": "CGTN.id"
 	},
 	{
 		"origin": "Cbeebies.id",
