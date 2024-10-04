@@ -2,7 +2,7 @@
 	{
 		"origin": "ABC.id",
 		"channel_name": "ABC Australia",
-		"channel_id": "ABCAustralia.au.id"
+		"channel_id": "ABCAustralia.id"
 	},
 	{
 		"origin": "Al Quran Al Kareem.id",
@@ -12,7 +12,7 @@
 	{
 		"origin": "Aljazeera.id",
 		"channel_name": "Al Jazeera English",
-		"channel_id": "AlJazeeraEnglish.qa.id"
+		"channel_id": "AlJazeeraEnglish.id"
 	},
 	{
 		"origin": "Anhui.id",
@@ -22,7 +22,7 @@
 	{
 		"origin": "Animax.id",
 		"channel_name": "Animax",
-		"channel_id": "AnimaxAsia.sg.id"
+		"channel_id": "AnimaxAsia.id"
 	},
 	{
 		"origin": "ANTV.id",
@@ -32,12 +32,12 @@
 	{
 		"origin": "Arirang.id",
 		"channel_name": "Arirang TV",
-		"channel_id": "ArirangTV.kr.id"
+		"channel_id": "ArirangTV.id"
 	},
 	{
 		"origin": "AXN.id",
 		"channel_name": "AXN",
-		"channel_id": "AXNIndonesia.sg.id"
+		"channel_id": "AXN.id"
 	},
 	{
 		"origin": "Bali TV.id",
@@ -52,7 +52,7 @@
 	{
 		"origin": "BBC World news.id",
 		"channel_name": "BBC World News",
-		"channel_id": "BBCWorldNewsAsiaPacific.uk.id"
+		"channel_id": "BBCWorldNews.id"
 	},
 	{
 		"origin": "BTV.id",
@@ -67,27 +67,17 @@
 	{
 		"origin": "Bloomberg.id",
 		"channel_name": "Bloomberg",
-		"channel_id": "BloombergTVAsia.hk.id"
-	},
-	{
-		"origin": "Cartoon Network",
-		"channel_name": "ID: Cartoon Network",
-		"channel_id": "CartoonNetworkAsia.sg.id"
-	},
-	{
-		"origin": "CCTV 4",
-		"channel_name": "CCTV-4",
-		"channel_id": "CCTV4Asia.cn.id"
+		"channel_id": "Bloomberg.id"
 	},
 	{
 		"origin": "Celestial Movies.id",
 		"channel_name": "Celestial Movies",
-		"channel_id": "CelestialMoviesIndonesia.hk.id"
+		"channel_id": "CelestialMovies.id"
 	},
 	{
 		"origin": "Celestial Movie HD",
 		"channel_name": "ID: Celestial Movies",
-		"channel_id": "CelestialMoviesIndonesia.hk.id"
+		"channel_id": "CelestialMovies.id"
 	},
 	{
 		"origin": "CGTN",
@@ -96,7 +86,7 @@
 	},
 	{
 		"origin": "Cbeebies.id",
-		"channel_name": "Cbeebies",
+		"channel_name": "CBeebies (HD)",
 		"channel_id": "Cbeebies.id"
 	},
 	{
@@ -475,7 +465,7 @@
 		"channel_id": "RussiaToday.ru.id"
 	},
 	{
-		"origin": "SCTV",
+		"origin": "SCTV.id",
 		"channel_name": "SCTV",
 		"channel_id": "SCTV.id"
 	},
@@ -508,6 +498,16 @@
 		"origin": "Star Chinese Channel HD",
 		"channel_name": "ID: Star Chinese Channel",
 		"channel_id": "StarChineseChannel.hk.id"
+	},
+	{
+		"origin": "Cartoon Network",
+		"channel_name": "ID: Cartoon Network",
+		"channel_id": "CartoonNetworkAsia.sg.id"
+	},
+	{
+		"origin": "CCTV 4",
+		"channel_name": "CCTV-4",
+		"channel_id": "CCTV4Asia.cn.id"
 	},
 	{
 		"origin": "Star Plus",
