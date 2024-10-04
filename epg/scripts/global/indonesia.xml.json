@@ -40,11 +40,6 @@
 		"channel_id": "AXN.id"
 	},
 	{
-		"origin": "Moonbug - [Channel 40].id",
-		"channel_name": "Moonbug",
-		"channel_id": "Moonbug.id"
-	},
-	{
 		"origin": "BBC Earth - [Channel 200].id",
 		"channel_name": "BBC Earth",
 		"channel_id": "BBCEarth.id"
@@ -323,6 +318,11 @@
 		"origin": "Metro TV - [Channel 107].id",
 		"channel_name": "Metro TV",
 		"channel_id": "MetroTV.id"
+	},
+	{
+		"origin": "Moonbug - [Channel 40].id",
+		"channel_name": "Moonbug",
+		"channel_id": "Moonbug.id"
 	},
 	{
 		"origin": "Miao Mi - [Channel 38].id",
