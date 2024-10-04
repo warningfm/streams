@@ -165,29 +165,9 @@
 		"channel_id": "EuroNewsEnglish.id"
 	},
 	{
-		"origin": "Eurosport",
-		"channel_name": "ID: EuroSport",
-		"channel_id": "EuroSportAsia.fr.id"
-	},
-	{
-		"origin": "Eurosport HD",
-		"channel_name": "ID: EuroSport",
-		"channel_id": "EuroSportAsia.fr.id"
-	},
-	{
-		"origin": "Fashion TV",
-		"channel_name": "ID: Fashion TV",
-		"channel_id": "FashionTV.fr.id"
-	},
-	{
-		"origin": "First Atmos HD",
-		"channel_name": "ID: First Atmos",
-		"channel_id": "FirstAtmos.id"
-	},
-	{
-		"origin": "First Football",
-		"channel_name": "ID: First Football",
-		"channel_id": "FirstFootball.id"
+		"origin": "Entertainment.id",
+		"channel_name": "Ent",
+		"channel_id": "Entertainment.id"
 	},
 	{
 		"origin": "Fight Sports.id",
@@ -445,13 +425,13 @@
 		"channel_id": "RCTI.id"
 	},
 	{
-		"origin": "Rajawali TV",
+		"origin": "RTV.id",
 		"channel_name": "RTV",
-		"channel_id": "RajawaliTV.id"
+		"channel_id": "RTV.id"
 	},
 	{
-		"origin": "Reformed 21",
-		"channel_name": "ID: Reformed 21",
+		"origin": "Reformed 21.id",
+		"channel_name": "Reformed 21",
 		"channel_id": "Reformed21.id"
 	},
 	{
@@ -460,9 +440,9 @@
 		"channel_id": "RockAction.sg.id"
 	},
 	{
-		"origin": "Russia Today",
+		"origin": "RT.id",
 		"channel_name": "ID: Russia Today",
-		"channel_id": "RussiaToday.ru.id"
+		"channel_id": "RT.id"
 	},
 	{
 		"origin": "SCTV.id",
@@ -470,19 +450,19 @@
 		"channel_id": "SCTV.id"
 	},
 	{
-		"origin": "Sekolah Pelita Harapan Channel - SPH",
-		"channel_name": "ID: SPH Channel",
-		"channel_id": "SPHChannel.id"
+		"origin": "SEA Today.id",
+		"channel_name": "SEA Today",
+		"channel_id": "SEAToday.id"
 	},
 	{
-		"origin": "Shenzen TV",
-		"channel_name": "ID: Shenzen TV",
-		"channel_id": "ShenzenTV.cn.id"
+		"origin": "SindoNews.id",
+		"channel_name": "SindoNews TV",
+		"channel_id": "SindoNews.id"
 	},
 	{
-		"origin": "Shine",
-		"channel_name": "ID: Shine",
-		"channel_id": "Shine.id"
+		"origin": "Soccer Channel.id",
+		"channel_name": "Soccer Channel",
+		"channel_id": "SoccerChannel.id"
 	},
 	{
 		"origin": "SpoTV 1.id",
@@ -495,19 +475,19 @@
 		"channel_id": "SPOTV2.kr.id"
 	},
 	{
-		"origin": "Star Chinese Channel HD",
-		"channel_name": "ID: Star Chinese Channel",
-		"channel_id": "StarChineseChannel.hk.id"
+		"origin": "Sportstars.id",
+		"channel_name": "Sportstars",
+		"channel_id": "Sportstars.id"
 	},
 	{
-		"origin": "Cartoon Network",
-		"channel_name": "ID: Cartoon Network",
-		"channel_id": "CartoonNetworkAsia.sg.id"
+		"origin": "Sportstars 2.id",
+		"channel_name": "Sportstars 2",
+		"channel_id": "Sportstars2.id"
 	},
 	{
-		"origin": "CCTV 4",
-		"channel_name": "CCTV-4",
-		"channel_id": "CCTV4Asia.cn.id"
+		"origin": "Sportstars 3.id",
+		"channel_name": "Sportstars 3",
+		"channel_id": "Sportstars3.id"
 	},
 	{
 		"origin": "Star Plus",
@@ -552,7 +532,7 @@
 	{
 		"origin": "TV5Monde.id",
 		"channel_name": "TV5 Monde",
-		"channel_id": "TV5MondeAsia.fr.id"
+		"channel_id": "TV5Monde.id"
 	},
 	{
 		"origin": "TV 9.id",
@@ -565,14 +545,14 @@
 		"channel_id": "TVMU.id"
 	},
 	{
-		"origin": "TVBS Asia",
-		"channel_name": "ID: TVBS Asia",
-		"channel_id": "TVBSAsia.hk.id"
+		"origin": "TVN Movies.id",
+		"channel_name": "TVN Movies",
+		"channel_id": "TVNMovies.id"
 	},
 	{
-		"origin": "TVBS News",
-		"channel_name": "ID: TVBS News",
-		"channel_id": "TVBSNews.hk.id"
+		"origin": "TVN.id",
+		"channel_name": "TVN",
+		"channel_id": "TVN.id"
 	},
 	{
 		"origin": "TVRI.id",
@@ -580,33 +560,23 @@
 		"channel_id": "TVRINasional.id"
 	},
 	{
-		"origin": "West Java Network",
-		"channel_name": "ID: West Java Network",
-		"channel_id": "WestJavaNetwork.id"
+		"origin": "Vision Prime.id",
+		"channel_name": "Vision Prime",
+		"channel_id": "VisionPrime.id"
 	},
 	{
-		"origin": "Wion",
-		"channel_name": "ID: Wion",
-		"channel_id": "Wion.in.id"
+		"origin": "Xing kong TV.id",
+		"channel_name": "Xing kong TV",
+		"channel_id": "XingkongTV.id"
 	},
 	{
-		"origin": "Zee Action",
-		"channel_name": "ID: Zee Action",
-		"channel_id": "ZeeAction.in.id"
+		"origin": "Zee Bioskop.id",
+		"channel_name": "Zee Bioskop",
+		"channel_id": "ZeeBioskop.id"
 	},
 	{
-		"origin": "Zee Cinema",
-		"channel_name": "ID: Zee Cinema",
-		"channel_id": "ZeeCinema.in.id"
-	},
-	{
-		"origin": "ZEE TV",
-		"channel_name": "ID: Zee TV",
-		"channel_id": "ZeeTV.in.id"
-	},
-	{
-		"origin": "Zhejiang TV",
-		"channel_name": "ID: Zhejiang Satellite TV",
-		"channel_id": "ZhejiangSatelliteTV.cn.id"
+		"origin": "Zoo Moo.id",
+		"channel_name": "Zoo Moo",
+		"channel_id": "ZooMoo.id"
 	}
 ]
