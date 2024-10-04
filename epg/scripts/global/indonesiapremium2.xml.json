@@ -155,14 +155,14 @@
 		"channel_id": "DWEnglish.de"
 	},
 	{
-		"origin": "Eternal Word Television Network (EWTN))",
-		"channel_name": "ID: EWTN",
-		"channel_id": "EWTN.us.id"
+		"origin": "EWTN.id",
+		"channel_name": "EWTN",
+		"channel_id": "EWTN.id"
 	},
 	{
-		"origin": "Euronews",
-		"channel_name": "ID: EuroNews English",
-		"channel_id": "EuroNewsEnglish.fr.id"
+		"origin": "EURONEWS.id",
+		"channel_name": "EuroNews English",
+		"channel_id": "EuroNewsEnglish.id"
 	},
 	{
 		"origin": "Eurosport",
@@ -190,19 +190,19 @@
 		"channel_id": "FirstFootball.id"
 	},
 	{
-		"origin": "FIRST LIFESTYLE",
-		"channel_name": "ID: First Lifestyle",
-		"channel_id": "FirstLifestyle.id"
+		"origin": "Fight Sports.id",
+		"channel_name": "Fight Sports",
+		"channel_id": "FightSports.id"
 	},
 	{
-		"origin": "First Lifestyle HD",
-		"channel_name": "ID: First Lifestyle",
-		"channel_id": "FirstLifestyle.id"
+		"origin": "FMN.id",
+		"channel_name": "FMN",
+		"channel_id": "FMN.id"
 	},
 	{
 		"origin": "FOX News.id",
 		"channel_name": "FOX News Channel",
-		"channel_id": "FoxNewsChannel.us.id"
+		"channel_id": "FoxNewsChannel.id"
 	},
 	{
 		"origin": "France 24.id",
@@ -231,7 +231,7 @@
 	},
 	{
 		"origin": "GTV Malaysia.id",
-		"channel_name": "GTV",
+		"channel_name": "GTVᴴᴰ",
 		"channel_id": "GTV.id"
 	},
 	{
@@ -325,11 +325,6 @@
 		"channel_id": "Kairos.id"
 	},
 	{
-		"origin": "Karaoke",
-		"channel_name": "ID: Karaoke",
-		"channel_id": "KaraokeChannel.id"
-	},
-	{
 		"origin": "KBS World",
 		"channel_name": "ID: KBS World",
 		"channel_id": "KBSWorld.kr.id"
@@ -340,13 +335,18 @@
 		"channel_id": "KompasTV.id"
 	},
 	{
-		"origin": "Liga Mahasiswa",
-		"channel_name": "ID: Liga Mahasiswa",
-		"channel_id": "LigaMahasiswa.id"
+		"origin": "Lifetime.id",
+		"channel_name": "Lifetime",
+		"channel_id": "Lifetime.id"
+	},
+	{
+		"origin": "Love Nature.id",
+		"channel_name": "Love Nature",
+		"channel_id": "LoveNature.id"
 	},
 	{
 		"origin": "MNCTV Malaysia.id",
-		"channel_name": "MNCTV",
+		"channel_name": "MNCTVᴴᴰ",
 		"channel_id": "MNCTV.id"
 	},
 	{
@@ -436,7 +436,7 @@
 	},
 	{
 		"origin": "RCTI Malaysia.id",
-		"channel_name": "RCTI",
+		"channel_name": "RCTIᴴᴰ",
 		"channel_id": "RCTI.id"
 	},
 	{
