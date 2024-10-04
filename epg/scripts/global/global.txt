@@ -64,6 +64,9 @@ https://i.mjh.nz/SamsungTVPlus/all.xml
 spain.xml
 https://www.bevy.be/bevyfiles/spain.xml
 
+uaepremium2.xml.txt
+https://www.bevy.be/bevyfiles/uaepremium2.xml.txt
+
 uaepremium3.xml
 https://www.bevy.be/bevyfiles/uaepremium3.xml
 
