@@ -41,17 +41,17 @@
 	{
 		"origin": "Animax (HD).sg",
 		"channel_name": "Animax",
-		"channel_id": "AnimaxAsia.sg"
+		"channel_id": "Animax.id"
 	},
 	{
 		"origin": "ANIPLUS (HD).sg",
 		"channel_name": "Aniplus",
-		"channel_id": "Aniplus.th.sg"
+		"channel_id": "Aniplus.id"
 	},
 	{
 		"origin": "Arirang TV HD",
 		"channel_name": "Arirang TV",
-		"channel_id": "ArirangTV.kr.sg"
+		"channel_id": "ArirangTV.id"
 	},
 	{
 		"origin": "Asia Travel HD",
@@ -136,7 +136,7 @@
 	{
 		"origin": "Bloomberg Television (HD).sg",
 		"channel_name": "Bloomberg",
-		"channel_id": "BloombergTVAsia.hk.sg"
+		"channel_id": "Bloomberg.id"
 	},
 	{
 		"origin": "BRTV International.sg",
@@ -146,12 +146,12 @@
 	{
 		"origin": "Cartoonito (HD).sg",
 		"channel_name": "Cartoonito (HD)",
-		"channel_id": "CartoonitoSoutheastAsia.us.sg"
+		"channel_id": "Cartoonito.sg"
 	},
 	{
 		"origin": "Cartoon Network (HD).sg",
 		"channel_name": "Cartoon Network (HD)",
-		"channel_id": "CartoonNetworkAsia.sg"
+		"channel_id": "CartoonNetwork.sg"
 	},
 	{
 		"origin": "CBeebies (HD).sg",
@@ -166,7 +166,7 @@
 	{
 		"origin": "CCTV-4 (HD).sg",
 		"channel_name": "CCTV-4",
-		"channel_id": "CCTV4Asia.cn.sg"
+		"channel_id": "CCTV4.id"
 	},
 	{
 		"origin": "CCTV Entertainment.sg",
