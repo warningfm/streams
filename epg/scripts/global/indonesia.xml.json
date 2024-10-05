@@ -330,6 +330,11 @@
 		"channel_id": "MiaoMi.hk.id"
 	},
 	{
+		"origin": "NET TV - [Channel 116].id",
+		"channel_name": "Net TV",
+		"channel_id": "NET.id"
+	},
+	{
 		"origin": "Sindo News TV - [Channel 84].id",
 		"channel_name": "SindoNews TV",
 		"channel_id": "SindoNews.id"
