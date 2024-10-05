@@ -291,7 +291,7 @@
 	},
 	{
 		"origin": "JAK TV.id",
-		"channel_name": "Jak TV",
+		"channel_name": "JakTV",
 		"channel_id": "JakTV.id"
 	},
 	{
@@ -361,38 +361,43 @@
 	},
 	{
 		"origin": "Net TV.id",
-		"channel_name": "NET.",
-		"channel_id": "NetTV.id"
+		"channel_name": "Net TV",
+		"channel_id": "NET.id"
 	},
 	{
-		"origin": "NHK World Premium",
-		"channel_name": "ID: NHK World Premium",
-		"channel_id": "NHKWorldPremium.jp.id"
+		"origin": "NHK World Premium.id",
+		"channel_name": "NHK World Premium",
+		"channel_id": "NHKWorldPremium.id"
 	},
 	{
-		"origin": "Nick jr.",
-		"channel_name": "ID: Nick Jr.",
-		"channel_id": "NickJrAsia.sg.id"
+		"origin": "NHK.id",
+		"channel_name": "NHK World",
+		"channel_id": "NHKWorld.id"
 	},
 	{
-		"origin": "Nickelodeon",
+		"origin": "Nick Jr.id",
+		"channel_name": "Nick Jr.",
+		"channel_id": "NickJr.id"
+	},
+	{
+		"origin": "Nick.id",
 		"channel_name": "Nickelodeon",
-		"channel_id": "NickelodeonAsia.sg.id"
+		"channel_id": "Nickelodeon.id"
 	},
 	{
-		"origin": "O Channel",
-		"channel_name": "ID: Moji",
-		"channel_id": "Moji.id"
+		"origin": "Okezone TV.id",
+		"channel_name": "Okezone TV",
+		"channel_id": "OkezoneTV.id"
 	},
 	{
-		"origin": "ONE",
-		"channel_name": "ID: ONE",
-		"channel_id": "OneTVAsia.sg.id"
+		"origin": "One.id",
+		"channel_name": "ONE",
+		"channel_id": "One.id"
 	},
 	{
-		"origin": "Paramount Network HD",
-		"channel_name": "ID: Paramount Network",
-		"channel_id": "ParamountNetworkIndonesia.us.id"
+		"origin": "Outdoor Channel.id",
+		"channel_name": "Outdoor Channel",
+		"channel_id": "OutdoorChannel.id"
 	},
 	{
 		"origin": "Phoenix Chinese Channel",
