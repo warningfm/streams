@@ -345,19 +345,19 @@
 		"channel_id": "SindoNews.id"
 	},
 	{
-		"origin": "MTV Asia",
-		"channel_name": "ID: MTV",
-		"channel_id": "MTV.uk.id"
+		"origin": "Music TV.id",
+		"channel_name": "Music TV",
+		"channel_id": "MusicTV.id"
 	},
 	{
-		"origin": "National Geographic Channel",
-		"channel_name": "ID: National Geographic Channel",
-		"channel_id": "NationalGeographicIndonesia.us.id"
+		"origin": "Muslim TV.id",
+		"channel_name": "Muslim TV",
+		"channel_id": "MuslimTV.id"
 	},
 	{
-		"origin": "National Geographic Wild",
-		"channel_name": "ID: National Geographic Wild",
-		"channel_id": "NationalGeographicWildIndonesia.us.id"
+		"origin": "My Cinema Asia.id",
+		"channel_name": "My Cinema Asia.id",
+		"channel_id": "MyCinemaAsia.id"
 	},
 	{
 		"origin": "Net TV.id",
