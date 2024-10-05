@@ -160,6 +160,11 @@
 		"channel_id": "CrimePlusInvestigation.id"
 	},
 	{
+		"origin": "Dreamworks HD - [Channel 473].id",
+		"channel_name": "DreamWorks Channel",
+		"channel_id": "DreamWorksChannel.id"
+	},
+	{
 		"origin": "Dreamworks - [Channel 47].id",
 		"channel_name": "DreamWorks Channel",
 		"channel_id": "DreamWorksChannel.id"
