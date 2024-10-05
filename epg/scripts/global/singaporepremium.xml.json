@@ -161,7 +161,7 @@
 	{
 		"origin": "CCM.sg",
 		"channel_name": "Celestial Classic Movies",
-		"channel_id": "CCM.hk.sg"
+		"channel_id": "CCM.id"
 	},
 	{
 		"origin": "CCTV-4 (HD).sg",
@@ -176,7 +176,7 @@
 	{
 		"origin": "Celestial Movies (HD).sg",
 		"channel_name": "Celestial Movies",
-		"channel_id": "CelestialMoviesIndonesia.hk.sg"
+		"channel_id": "CelestialMovies.id"
 	},
 	{
 		"origin": "CM+.sg",
