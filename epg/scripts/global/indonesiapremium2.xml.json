@@ -442,7 +442,12 @@
 	{
 		"origin": "Rock Action.id",
 		"channel_name": "Rock Action",
-		"channel_id": "RockAction.sg.id"
+		"channel_id": "RockAction.id"
+	},
+	{
+		"origin": "Rock Entertainment.id",
+		"channel_name": "Rock Entertainment",
+		"channel_id": "RockEntertainment.id"
 	},
 	{
 		"origin": "RT.id",
