@@ -62,7 +62,7 @@
 	{
 		"origin": "Boomerang",
 		"channel_name": "Cartoonito (HD)",
-		"channel_id": "CartoonitoSoutheastAsia.us.sg"
+		"channel_id": "Cartoonito.sg"
 	},
 	{
 		"origin": "Bioskop Indonesia",
@@ -72,7 +72,7 @@
 	{
 		"origin": "CCTV4",
 		"channel_name": "CCTV-4",
-		"channel_id": "CCTV4Asia.cn.id"
+		"channel_id": "CCTV4.id"
 	},
 	{
 		"origin": "CGTN Documentary",
@@ -112,17 +112,17 @@
 	{
 		"origin": "Discovery Channel",
 		"channel_name": "Discovery Ch",
-		"channel_id": "DiscoveryChannelIndonesia.sg"
+		"channel_id": "DiscoveryChannel.sg"
 	},
 	{
 		"origin": "Euronews",
 		"channel_name": "EuroNews English",
-		"channel_id": "EuroNewsEnglish.fr.id"
+		"channel_id": "EuroNewsEnglish.id"
 	},
 	{
 		"origin": "FashionTV",
 		"channel_name": "Fashion TV",
-		"channel_id": "FashionTV.fr.id"
+		"channel_id": "FashionTV.id"
 	},
 	{
 		"origin": "Flik",
