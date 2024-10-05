@@ -720,8 +720,8 @@
 	},
 	{
 		"origin": "SEA Today.sg",
-		"channel_name": "SG: SEA Today",
-		"channel_id": "SEAToday.id.sg"
+		"channel_name": "SEA Today",
+		"channel_id": "SEAToday.id"
 	},
 	{
 		"origin": "Sky News HD.sg",
