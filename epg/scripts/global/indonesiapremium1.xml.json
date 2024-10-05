@@ -122,12 +122,12 @@
 	{
 		"origin": "News Asia",
 		"channel_name": "CNA",
-		"channel_id": "CNAInternational.sg.id"
+		"channel_id": "CNA.id"
 	},
 	{
 		"origin": "NHK World Japan",
 		"channel_name": "NHK World Japan",
-		"channel_id": "NHKWorldJapan.jp.id"
+		"channel_id": "NHKWorld.id"
 	},
 	{
 		"origin": "Nusantara TV",
@@ -147,12 +147,12 @@
 	{
 		"origin": "Rock Action",
 		"channel_name": "Rock Action",
-		"channel_id": "RockAction.sg.id"
+		"channel_id": "RockAction.id"
 	},
 	{
 		"origin": "RTV",
 		"channel_name": "RTV",
-		"channel_id": "RajawaliTV.id"
+		"channel_id": "RTV.id"
 	},
 	{
 		"origin": "SCTV",
@@ -197,6 +197,6 @@
 	{
 		"origin": "Zee Bioskop",
 		"channel_name": "Zee Bioskop",
-		"channel_id": "ZeeBioskop.in.id"
+		"channel_id": "ZeeBioskop.id"
 	}
 ]
