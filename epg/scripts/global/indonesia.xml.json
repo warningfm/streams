@@ -281,7 +281,7 @@
 	},
 	{
 		"origin": "JAKTV - [Channel 113].id",
-		"channel_name": "Jak TV",
+		"channel_name": "JakTV",
 		"channel_id": "JakTV.id"
 	},
 	{
@@ -328,6 +328,16 @@
 		"origin": "Miao Mi - [Channel 38].id",
 		"channel_name": "Miao Mi",
 		"channel_id": "MiaoMi.hk.id"
+	},
+	{
+		"origin": "MTV LIVE - [Channel 148].id",
+		"channel_name": "MTV Live",
+		"channel_id": "MTVLive.id"
+	},
+	{
+		"origin": "MTV 90s - [Channel 149].id",
+		"channel_name": "MTV 90s",
+		"channel_id": "MTV90s.id"
 	},
 	{
 		"origin": "NET TV - [Channel 116].id",
