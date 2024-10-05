@@ -280,14 +280,9 @@
 		"channel_id": "iNews.id"
 	},
 	{
-		"origin": "Jakarta Globe News Channel",
-		"channel_name": "ID: Jakarta Globe News Channel",
-		"channel_id": "JakartaGlobeNews.id"
-	},
-	{
-		"origin": "Jakarta Globe News Channel HD",
-		"channel_name": "ID: Jakarta Globe News Channel",
-		"channel_id": "JakartaGlobeNews.id"
+		"origin": "Jiangsu TV.id",
+		"channel_name": "Jiangsu TV",
+		"channel_id": "JiangsuTV.id"
 	},
 	{
 		"origin": "JAK TV.id",
@@ -300,14 +295,14 @@
 		"channel_id": "JTV.id"
 	},
 	{
-		"origin": "Kairos",
-		"channel_name": "ID: Kairos",
-		"channel_id": "Kairos.id"
+		"origin": "Kidz.id",
+		"channel_name": "Kidz",
+		"channel_id": "Kidz.id"
 	},
 	{
-		"origin": "KBS World",
-		"channel_name": "ID: KBS World",
-		"channel_id": "KBSWorld.kr.id"
+		"origin": "Kids TV.id",
+		"channel_name": "Kids TV",
+		"channel_id": "KidsTV.id"
 	},
 	{
 		"origin": "Kompas TV.id",
@@ -400,24 +395,24 @@
 		"channel_id": "OutdoorChannel.id"
 	},
 	{
-		"origin": "Phoenix Chinese Channel",
-		"channel_name": "ID: Phoenix Chinese Channel",
-		"channel_id": "PhoenixChineseChannel.hk.id"
+		"origin": "OK TV.id",
+		"channel_name": "Food Travel",
+		"channel_id": "FoodTravel.id"
 	},
 	{
-		"origin": "Phoenix Info News",
-		"channel_name": "ID: Phoenix InfoNews Channel",
-		"channel_id": "PhoenixInfoNewsChannel.hk.id"
+		"origin": "My Cinema.id",
+		"channel_name": "My Cinema",
+		"channel_id": "MyCinema.id"
 	},
 	{
-		"origin": "Praise",
-		"channel_name": "ID: Praise",
-		"channel_id": "Praise.id"
+		"origin": "My Family Channel.id",
+		"channel_name": "My Family Channel",
+		"channel_id": "MyFamilyChannel.id"
 	},
 	{
-		"origin": "Premier Sports",
-		"channel_name": "ID: Premier Sports",
-		"channel_id": "PremierSports.ir.id"
+		"origin": "My Kidz.id",
+		"channel_name": "My Kidz",
+		"channel_id": "MyKidz.id"
 	},
 	{
 		"origin": "RCTI Malaysia.id",
