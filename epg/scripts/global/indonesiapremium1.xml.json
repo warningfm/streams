@@ -17,12 +17,12 @@
 	{
 		"origin": "Bein 1",
 		"channel_name": "beIN Sports 1",
-		"channel_id": "beinSports1.qa.id"
+		"channel_id": "beinSports1.id"
 	},
 	{
 		"origin": "Bein 3",
 		"channel_name": "beIN Sports 3",
-		"channel_id": "beinSports3.qa.id"
+		"channel_id": "beinSports3.id"
 	},
 	{
 		"origin": "BTV",
@@ -76,12 +76,12 @@
 	},
 	{
 		"origin": "Indosiar",
-		"channel_name": "Indosiar HD",
+		"channel_name": "Indosiar",
 		"channel_id": "Indosiar.id"
 	},
 	{
 		"origin": "Jaktv",
-		"channel_name": "Jak TV",
+		"channel_name": "JAKTV",
 		"channel_id": "JakTV.id"
 	},
 	{
@@ -97,7 +97,7 @@
 	{
 		"origin": "Makkah TV",
 		"channel_name": "Makkah TV",
-		"channel_id": "MakkahTV.sa.id"
+		"channel_id": "MakkahTV.id"
 	},
 	{
 		"origin": "Mentari TV",
@@ -106,7 +106,7 @@
 	},
 	{
 		"origin": "Metro TV",
-		"channel_name": "Metro TV HD",
+		"channel_name": "Metro TV",
 		"channel_id": "MetroTV.id"
 	},
 	{
@@ -116,8 +116,8 @@
 	},
 	{
 		"origin": "NET TV",
-		"channel_name": "NET.",
-		"channel_id": "NetTV.id"
+		"channel_name": "Net TV",
+		"channel_id": "NET.id"
 	},
 	{
 		"origin": "News Asia",
