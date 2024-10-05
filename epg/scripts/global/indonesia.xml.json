@@ -252,12 +252,12 @@
 	{
 		"origin": "IDX - [Channel 100].id",
 		"channel_name": "IDX",
-		"channel_id": "IDXC.id"
+		"channel_id": "IDX.id"
 	},
 	{
 		"origin": "IDX HD - [Channel 436].id",
 		"channel_name": "IDX",
-		"channel_id": "IDXC.id"
+		"channel_id": "IDX.id"
 	},
 	{
 		"origin": "IMC - [Channel 14].id",
@@ -266,6 +266,11 @@
 	},
 	{
 		"origin": "Indosiar - [Channel 78].id",
+		"channel_name": "Indosiar",
+		"channel_id": "Indosiar.id"
+	},
+	{
+		"origin": "Indosiar HD - [Channel 438].id",
 		"channel_name": "Indosiar",
 		"channel_id": "Indosiar.id"
 	},
