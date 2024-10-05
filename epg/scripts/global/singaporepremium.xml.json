@@ -36,7 +36,7 @@
 	{
 		"origin": "Animal Planet (HD).sg",
 		"channel_name": "Animal Planet",
-		"channel_id": "AnimalPlanetSoutheastAsia.sg"
+		"channel_id": "AnimalPlanet.id"
 	},
 	{
 		"origin": "Animax (HD).sg",
@@ -231,7 +231,7 @@
 	{
 		"origin": "CinemaWorld (HD).sg",
 		"channel_name": "CinemaWorld",
-		"channel_id": "CinemaWorld.my.sg"
+		"channel_id": "CinemaWorld.id"
 	},
 	{
 		"origin": "CINEMAX (HD).sg",
@@ -241,12 +241,12 @@
 	{
 		"origin": "Citra Drama (HD).sg",
 		"channel_name": "Citra Drama",
-		"channel_id": "CitraDrama.id.sg"
+		"channel_id": "CitraDrama.id"
 	},
 	{
 		"origin": "Citra Entertainment (HD).sg",
 		"channel_name": "Citra Entertainment",
-		"channel_id": "CitraEntertainment.id.sg"
+		"channel_id": "CitraEntertainment.id"
 	},
 	{
 		"origin": "CNBC Asia.sg",
@@ -296,7 +296,7 @@
 	{
 		"origin": "Discovery Channel (HD).sg",
 		"channel_name": "Discovery Ch",
-		"channel_id": "DiscoveryChannelIndonesia.sg"
+		"channel_id": "DiscoveryChannel.sg"
 	},
 	{
 		"origin": "Dragon TV Intl.sg",
@@ -311,7 +311,7 @@
 	{
 		"origin": "DreamWorks (HD).sg",
 		"channel_name": "DreamWorks Channel",
-		"channel_id": "DreamWorksChannelAsia.us.sg"
+		"channel_id": "DreamWorksChannel.id"
 	},
 	{
 		"origin": "Deutsche Welle (English).sg",
