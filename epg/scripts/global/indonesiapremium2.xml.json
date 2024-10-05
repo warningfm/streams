@@ -305,6 +305,11 @@
 		"channel_id": "KidsTV.id"
 	},
 	{
+		"origin": "Kix.id",
+		"channel_name": "Kix",
+		"channel_id": "Kix.id"
+	},
+	{
 		"origin": "Kompas TV.id",
 		"channel_name": "Kompas TV",
 		"channel_id": "KompasTV.id"
@@ -490,24 +495,19 @@
 		"channel_id": "Sportstars3.id"
 	},
 	{
-		"origin": "Star Plus",
-		"channel_name": "ID: Star Plus",
-		"channel_id": "StarPlusChannel.hk.id"
+		"origin": "Sportstars 4.id",
+		"channel_name": "Sportstars 4",
+		"channel_id": "Sportstars4.id"
 	},
 	{
-		"origin": "Sunnah TV",
-		"channel_name": "ID: Sunnah TV",
-		"channel_id": "SunnahTV.id"
+		"origin": "Tawaf.id",
+		"channel_name": "Tawaf TV",
+		"channel_id": "Tawaf.id"
 	},
 	{
-		"origin": "TBN Asia",
-		"channel_name": "ID: TBN Asia",
-		"channel_id": "TBNAsia.us.id"
-	},
-	{
-		"origin": "The Learning Channel - TLC",
-		"channel_name": "ID: TLC",
-		"channel_id": "TLCSoutheastAsia.sg.id"
+		"origin": "Thrill.id",
+		"channel_name": "Thrill",
+		"channel_id": "Thrill.id"
 	},
 	{
 		"origin": "Trans 7.id",
