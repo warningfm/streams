@@ -477,12 +477,12 @@
 	{
 		"origin": "SpoTV 1.id",
 		"channel_name": "SPOTV",
-		"channel_id": "SPOTV.kr.id"
+		"channel_id": "SPOTV.id"
 	},
 	{
 		"origin": "SpoTV 2.id",
 		"channel_name": "SPOTV 2",
-		"channel_id": "SPOTV2.kr.id"
+		"channel_id": "SPOTV2.id"
 	},
 	{
 		"origin": "Sportstars.id",
@@ -546,7 +546,7 @@
 	},
 	{
 		"origin": "TV MU.id",
-		"channel_name": "Muhammadiyah TV",
+		"channel_name": "TVMU",
 		"channel_id": "TVMU.id"
 	},
 	{
