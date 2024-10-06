@@ -212,7 +212,7 @@
 	{
 		"origin": "GTV Malaysia.id",
 		"channel_name": "GTVᴴᴰ",
-		"channel_id": "GTV.id"
+		"channel_id": "GTV.my.id"
 	},
 	{
 		"origin": "Global Trekker.id",
@@ -243,36 +243,6 @@
 		"origin": "IMC (Indonesia Movie Channel).id",
 		"channel_name": "IMC",
 		"channel_id": "IMC.id"
-	},
-	{
-		"origin": "HBO Signature HD",
-		"channel_name": "ID: HBO Signature",
-		"channel_id": "HBOSignatureAsia.sg.id"
-	},
-	{
-		"origin": "HITS HD",
-		"channel_name": "ID: HITS",
-		"channel_id": "HITS.sg.id"
-	},
-	{
-		"origin": "HITS MOVIES HD",
-		"channel_name": "ID: HITS Movies",
-		"channel_id": "HITSMovies.sg.id"
-	},
-	{
-		"origin": "HITS NOW HD",
-		"channel_name": "ID: HITS Now",
-		"channel_id": "HITSNow.sg.id"
-	},
-	{
-		"origin": "IMC",
-		"channel_name": "ID: IMC",
-		"channel_id": "IMC.id"
-	},
-	{
-		"origin": "Indosiar",
-		"channel_name": "ID: Indosiar",
-		"channel_id": "Indosiar.id"
 	},
 	{
 		"origin": "iNews.id",
@@ -327,7 +297,7 @@
 	{
 		"origin": "MNCTV Malaysia.id",
 		"channel_name": "MNCTVᴴᴰ",
-		"channel_id": "MNCTV.id"
+		"channel_id": "MNCTV.my.id"
 	},
 	{
 		"origin": "MNCTV.id",
@@ -422,7 +392,7 @@
 	{
 		"origin": "RCTI Malaysia.id",
 		"channel_name": "RCTIᴴᴰ",
-		"channel_id": "RCTI.id"
+		"channel_id": "RCTI.my.id"
 	},
 	{
 		"origin": "RCTI.id",
@@ -451,7 +421,7 @@
 	},
 	{
 		"origin": "RT.id",
-		"channel_name": "ID: Russia Today",
+		"channel_name": "Russia Today",
 		"channel_id": "RT.id"
 	},
 	{
