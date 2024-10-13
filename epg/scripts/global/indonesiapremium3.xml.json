@@ -245,14 +245,9 @@
 		"channel_id": "MyKids.id"
 	},
 	{
-		"origin": "Nat Geo",
-		"channel_name": "ID: National Geographic Channel",
-		"channel_id": "NationalGeographicIndonesia.us.id"
-	},
-	{
 		"origin": "Net.",
 		"channel_name": "NET.",
-		"channel_id": "NetTV.id"
+		"channel_id": "Net.id"
 	},
 	{
 		"origin": "News Asia",
@@ -352,7 +347,7 @@
 	{
 		"origin": "Warner",
 		"channel_name": "Warner TV",
-		"channel_id": "warnertv.sg"
+		"channel_id": "warnertv.id"
 	},
 	{
 		"origin": "ZBioskop",
