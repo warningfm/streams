@@ -111,8 +111,18 @@
 	},
 	{
 		"origin": "Discovery Channel",
-		"channel_name": "Discovery Ch",
-		"channel_id": "DiscoveryChannel.sg"
+		"channel_name": "Discovery Channel",
+		"channel_id": "DiscoveryChannel.id"
+	},
+	{
+		"origin": "Dunia anak",
+		"channel_name": "Dunia anak",
+		"channel_id": "DuniaAnak.id"
+	},
+	{
+		"origin": "Dunia Lain",
+		"channel_name": "Dunia Lain",
+		"channel_id": "DuniaLain.id"
 	},
 	{
 		"origin": "Euronews",
@@ -151,7 +161,7 @@
 	},
 	{
 		"origin": "IDX",
-		"channel_name": "IDX Channel",
+		"channel_name": "IDX",
 		"channel_id": "IDXChannel.id"
 	},
 	{
@@ -247,7 +257,7 @@
 	{
 		"origin": "Net.",
 		"channel_name": "NET.",
-		"channel_id": "Net.id"
+		"channel_id": "NET.id"
 	},
 	{
 		"origin": "News Asia",
