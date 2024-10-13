@@ -150,6 +150,31 @@
 		"channel_id": "GTV.id"
 	},
 	{
+		"origin": "HGTV",
+		"channel_name": "HGTV",
+		"channel_id": "HGTV.id"
+	},
+	{
+		"origin": "History",
+		"channel_name": "History",
+		"channel_id": "History.id"
+	},
+	{
+		"origin": "Hits",
+		"channel_name": "HITS",
+		"channel_id": "HITS.id"
+	},
+	{
+		"origin": "HIts Movie",
+		"channel_name": "Hits Movies",
+		"channel_id": "HITSMovies.id"
+	},
+	{
+		"origin": "HITS Now",
+		"channel_name": "HITS Now",
+		"channel_id": "HITSNow.id"
+	},
+	{
 		"origin": "Horee",
 		"channel_name": "Horee",
 		"channel_id": "Horee.id"
@@ -162,7 +187,7 @@
 	{
 		"origin": "IDX",
 		"channel_name": "IDX",
-		"channel_id": "IDXChannel.id"
+		"channel_id": "IDX.id"
 	},
 	{
 		"origin": "IndiKids",
