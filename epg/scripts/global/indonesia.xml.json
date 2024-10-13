@@ -71,7 +71,7 @@
 	},
 	{
 		"origin": "CBeebies - [Channel 41].id",
-		"channel_name": "CBeebies (HD)",
+		"channel_name": "CBeebies HD",
 		"channel_id": "Cbeebies.id"
 	},
 	{
@@ -106,7 +106,7 @@
 	},
 	{
 		"origin": "CINEMACHI ACTION - [Channel 8].id",
-		"channel_name": "Cinemachi",
+		"channel_name": "Cinemachi Action",
 		"channel_id": "CineachiAction.id"
 	},
 	{
@@ -161,13 +161,13 @@
 	},
 	{
 		"origin": "Dreamworks HD - [Channel 473].id",
-		"channel_name": "DreamWorks Channel",
-		"channel_id": "DreamWorksChannel.id"
+		"channel_name": "Dreamworks HD",
+		"channel_id": "DreamWorks.id"
 	},
 	{
 		"origin": "Dreamworks - [Channel 47].id",
-		"channel_name": "DreamWorks Channel",
-		"channel_id": "DreamWorksChannel.id"
+		"channel_name": "Dreamworks HD",
+		"channel_id": "DreamWorks.id"
 	},
 	{
 		"origin": "DW English - [Channel 357].id",
