@@ -105,6 +105,11 @@
 		"channel_id": "Cinemachi.id"
 	},
 	{
+		"origin": "CINEMACHI HD - [Channel 401].id",
+		"channel_name": "Cinemachi",
+		"channel_id": "Cinemachi.id"
+	},
+	{
 		"origin": "CINEMACHI ACTION - [Channel 8].id",
 		"channel_name": "Cinemachi Action",
 		"channel_id": "CineachiAction.id"
@@ -113,11 +118,6 @@
 		"origin": "CINEMACHI ACTION HD - [Channel 402].id",
 		"channel_name": "Cinemachi Action",
 		"channel_id": "CineachiAction.id"
-	},
-	{
-		"origin": "CINEMACHI HD - [Channel 401].id",
-		"channel_name": "Cinemachi",
-		"channel_id": "Cinemachi.id"
 	},
 	{
 		"origin": "CINEMACHI KIDS - [Channel 9].id",
@@ -490,14 +490,14 @@
 		"channel_id": "NickJr.id"
 	},
 	{
-		"origin": "Nickelodeon - [Channel 49].id",
-		"channel_name": "Nickelodeon",
-		"channel_id": "Nickelodeon.id"
-	},
-	{
 		"origin": "Nickelodeon Jr - [Channel 37].id",
 		"channel_name": "Nick Jr.",
 		"channel_id": "NickJr.id"
+	},
+	{
+		"origin": "Nickelodeon - [Channel 49].id",
+		"channel_name": "Nickelodeon",
+		"channel_id": "Nickelodeon.id"
 	},
 	{
 		"origin": "FOOD TRAVEL - [Channel 95].id",
