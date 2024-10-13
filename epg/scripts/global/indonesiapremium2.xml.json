@@ -86,7 +86,7 @@
 	},
 	{
 		"origin": "Cbeebies.id",
-		"channel_name": "CBeebies (HD)",
+		"channel_name": "CBeebies HD",
 		"channel_id": "Cbeebies.id"
 	},
 	{
@@ -106,7 +106,7 @@
 	},
 	{
 		"origin": "CGTN Documentary.id",
-		"channel_name": "CGTN Documentary.id",
+		"channel_name": "CGTN Documentary",
 		"channel_id": "CGTNDocumentary.id"
 	},
 	{
@@ -153,6 +153,11 @@
 		"origin": "DW.id",
 		"channel_name": "DW (English)",
 		"channel_id": "DWEnglish.de"
+	},
+	{
+		"origin": "Dream Works.id",
+		"channel_name": "Dreamworks HD",
+		"channel_id": "DreamWorks.id"
 	},
 	{
 		"origin": "EWTN.id",
@@ -326,12 +331,12 @@
 	},
 	{
 		"origin": "My Cinema Asia.id",
-		"channel_name": "My Cinema Asia.id",
+		"channel_name": "My Cinema Asia",
 		"channel_id": "MyCinemaAsia.id"
 	},
 	{
 		"origin": "Net TV.id",
-		"channel_name": "Net TV",
+		"channel_name": "NET.",
 		"channel_id": "NET.id"
 	},
 	{
