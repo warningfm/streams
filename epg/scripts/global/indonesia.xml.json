@@ -55,6 +55,36 @@
 		"channel_id": "BBCWorldNews.id"
 	},
 	{
+		"origin": "beIN Sports 1 - [Channel 309].id",
+		"channel_name": "beIN Sports 1",
+		"channel_id": "beINSports1.id"
+	},
+	{
+		"origin": "beIN Sports 1 HD - [Channel 417].id",
+		"channel_name": "beIN Sports 1",
+		"channel_id": "beINSports1.id"
+	},
+	{
+		"origin": "beIN Sports 2 - [Channel 310].id",
+		"channel_name": "beIN Sports 2",
+		"channel_id": "beINSports2.id"
+	},
+	{
+		"origin": "beIN Sports 2 HD - [Channel 418].id",
+		"channel_name": "beIN Sports 2",
+		"channel_id": "beINSports2.id"
+	},
+	{
+		"origin": "beIN Sports 3 - [Channel 311].id",
+		"channel_name": "beIN Sports 3",
+		"channel_id": "beINSports3.id"
+	},
+	{
+		"origin": "beIN Sports 3 HD - [Channel 419].id",
+		"channel_name": "beIN Sports 3",
+		"channel_id": "beINSports3.id"
+	},
+	{
 		"origin": "BTV - [Channel 103].id",
 		"channel_name": "BTV",
 		"channel_id": "BTV.id"
