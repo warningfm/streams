@@ -280,6 +280,11 @@
 		"channel_id": "MyKids.id"
 	},
 	{
+		"origin": "NBA",
+		"channel_name": "NBA TV",
+		"channel_id": "NBATV.id"
+	},
+	{
 		"origin": "Net.",
 		"channel_name": "NET.",
 		"channel_id": "NET.id"
