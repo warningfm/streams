@@ -600,6 +600,11 @@
 		"channel_id": "SPOTV.id"
 	},
 	{
+		"origin": "SPOTV HD - [Channel 427].id",
+		"channel_name": "SPOTV",
+		"channel_id": "SPOTV.id"
+	},
+	{
 		"origin": "SPOTV 2 - [Channel 308].id",
 		"channel_name": "SPOTV 2",
 		"channel_id": "SPOTV2.id"
@@ -610,9 +615,19 @@
 		"channel_id": "SPOTV2.id"
 	},
 	{
-		"origin": "SPOTV HD - [Channel 427].id",
-		"channel_name": "ID: SPOTV",
-		"channel_id": "SPOTV.id"
+		"origin": "Sportstars - [Channel 102].id",
+		"channel_name": "Sportstars",
+		"channel_id": "Sportstars.id"
+	},
+	{
+		"origin": "Sportstars 2 - [Channel 98].id",
+		"channel_name": "Sportstars 2",
+		"channel_id": "Sportstars2.id"
+	},
+	{
+		"origin": "Sportstars 2 HD - [Channel 422].id",
+		"channel_name": "Sportstars 2",
+		"channel_id": "Sportstars2.id"
 	},
 	{
 		"origin": "Tawaf TV - [Channel 105].id",
