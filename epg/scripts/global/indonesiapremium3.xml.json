@@ -342,7 +342,12 @@
 	{
 		"origin": "Thrill",
 		"channel_name": "Thrill",
-		"channel_id": "Thrill.hk.id"
+		"channel_id": "Thrill.id"
+	},
+	{
+		"origin": "TLC",
+		"channel_name": "TLC",
+		"channel_id": "TLC.id"
 	},
 	{
 		"origin": "Trans7",
