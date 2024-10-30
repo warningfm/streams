@@ -95,6 +95,36 @@
 		"channel_id": "CitraDrama.id"
 	},
 	{
+		"origin": "CNBC Asia",
+		"channel_name": "CNBC Asia",
+		"channel_id": "CNBCAsia.id"
+	},
+	{
+		"origin": "CNBC Indonesia",
+		"channel_name": "CNBC Indonesia",
+		"channel_id": "CNBCIndonesia.id"
+	},
+	{
+		"origin": "CNN Indonesia",
+		"channel_name": "CNN Indonesia",
+		"channel_id": "CNNIndonesia.id"
+	},
+	{
+		"origin": "CNN International",
+		"channel_name": "CNN International",
+		"channel_id": "CNNInternational.id"
+	},
+	{
+		"origin": "Crime Investigation",
+		"channel_name": "Crime Investigation",
+		"channel_id": "CrimePlusInvestigation.id"
+	},
+	{
+		"origin": "CTI Asia",
+		"channel_name": "CTI Asia",
+		"channel_id": "CTIAsia.id"
+	},
+	{
 		"origin": "Daai TV",
 		"channel_name": "DAAITV",
 		"channel_id": "DAAITV.id"
@@ -102,7 +132,7 @@
 	{
 		"origin": "DW (English)",
 		"channel_name": "DW English",
-		"channel_id": "DWEnglish.de.id"
+		"channel_id": "DWEnglish.de"
 	},
 	{
 		"origin": "Da Vinci Learning",
@@ -292,7 +322,7 @@
 	{
 		"origin": "News Asia",
 		"channel_name": "CNA",
-		"channel_id": "CNAInternational.sg.id"
+		"channel_id": "CNA.id"
 	},
 	{
 		"origin": "Nusantara TV",
@@ -346,7 +376,7 @@
 	},
 	{
 		"origin": "TLC",
-		"channel_name": "TLC",
+		"channel_name": "TLC (id)",
 		"channel_id": "TLC.id"
 	},
 	{
