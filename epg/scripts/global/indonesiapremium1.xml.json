@@ -81,7 +81,7 @@
 	},
 	{
 		"origin": "Jaktv",
-		"channel_name": "JAKTV",
+		"channel_name": "Jak TV",
 		"channel_id": "JakTV.id"
 	},
 	{
@@ -156,7 +156,7 @@
 	},
 	{
 		"origin": "SCTV",
-		"channel_name": "SCTV HD",
+		"channel_name": "SCTV",
 		"channel_id": "SCTV.id"
 	},
 	{
@@ -172,7 +172,7 @@
 	{
 		"origin": "TVN",
 		"channel_name": "tvN",
-		"channel_id": "tvNAsia.hk.id"
+		"channel_id": "tvN.id"
 	},
 	{
 		"origin": "TVOne",

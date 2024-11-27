@@ -41,12 +41,12 @@
 	},
 	{
 		"origin": "BBC Earth - [Channel 200].id",
-		"channel_name": "BBC Earth",
+		"channel_name": "BBC Earth (v+)",
 		"channel_id": "BBCEarth.id"
 	},
 	{
 		"origin": "BBC Earth HD - [Channel 461].id",
-		"channel_name": "BBC Earth",
+		"channel_name": "BBC Earth (v+)",
 		"channel_id": "BBCEarth.id"
 	},
 	{
@@ -113,6 +113,11 @@
 		"origin": "Celestial Movies - [Channel 20].id",
 		"channel_name": "Celestial Movies",
 		"channel_id": "CelestialMovies.id"
+	},
+	{
+		"origin": "Celebrities TV - [Channel 96].id",
+		"channel_name": "Celebrities TV",
+		"channel_id": "CelebritiesTV.id"
 	},
 	{
 		"origin": "CGTN - [Channel 353].id",
@@ -201,8 +206,8 @@
 	},
 	{
 		"origin": "DW English - [Channel 357].id",
-		"channel_name": "DW English",
-		"channel_id": "DWEnglish.id"
+		"channel_name": "DW (English)",
+		"channel_id": "DWEnglish.de"
 	},
 	{
 		"origin": "Entertainment - [Channel 86].id",
@@ -261,7 +266,7 @@
 	},
 	{
 		"origin": "History - [Channel 206].id",
-		"channel_name": "History",
+		"channel_name": "History (v+)",
 		"channel_id": "History.id"
 	},
 	{
@@ -315,13 +320,8 @@
 		"channel_id": "iNews.id"
 	},
 	{
-		"origin": "Celebrities TV - [Channel 96].id",
-		"channel_name": "Celebrities TV",
-		"channel_id": "CelebritiesTV.id"
-	},
-	{
 		"origin": "JAKTV - [Channel 113].id",
-		"channel_name": "JakTV",
+		"channel_name": "Jak TV",
 		"channel_id": "JakTV.id"
 	},
 	{
@@ -380,6 +380,21 @@
 		"channel_id": "MTV90s.id"
 	},
 	{
+		"origin": "Music TV HD - [Channel 444].id",
+		"channel_name": "Music TV",
+		"channel_id": "MusicTV.id"
+	},
+	{
+		"origin": "Music TV - [Channel 111].id",
+		"channel_name": "Music TV",
+		"channel_id": "MusicTV.id"
+	},
+	{
+		"origin": "Muslim TV - [Channel 92].id",
+		"channel_name": "Muslim TV",
+		"channel_id": "MuslimTV.id"
+	},
+	{
 		"origin": "NET TV - [Channel 116].id",
 		"channel_name": "Net TV",
 		"channel_id": "NET.id"
@@ -393,6 +408,16 @@
 		"origin": "Sindo News TV HD - [Channel 434].id",
 		"channel_name": "SindoNews TV",
 		"channel_id": "SindoNews.id"
+	},
+	{
+		"origin": "Soccer Channel - [Channel 101].id",
+		"channel_name": "Soccer Channel",
+		"channel_id": "SoccerChannel.id"
+	},
+	{
+		"origin": "Soccer Channel HD - [Channel 420].id",
+		"channel_name": "Soccer Channel",
+		"channel_id": "SoccerChannel.id"
 	},
 	{
 		"origin": "Sportstars - [Channel 102].id",
@@ -546,12 +571,12 @@
 	},
 	{
 		"origin": "PARAMOUNT - [Channel 163].id",
-		"channel_name": "ID: Paramount Network",
+		"channel_name": "Paramount Network",
 		"channel_id": "ParamountNetworkIndonesia.us.id"
 	},
 	{
 		"origin": "PARAMOUNT HD - [Channel 441].id",
-		"channel_name": "ID: Paramount Network",
+		"channel_name": "Paramount Network",
 		"channel_id": "ParamountNetworkIndonesia.us.id"
 	},
 	{
@@ -697,6 +722,6 @@
 	{
 		"origin": "Zoomoo - [Channel 39].id",
 		"channel_name": "ZooMoo",
-		"channel_id": "ZooMoo.sg.id"
+		"channel_id": "ZooMoo.id"
 	}
 ]

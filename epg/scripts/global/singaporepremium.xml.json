@@ -90,8 +90,8 @@
 	},
 	{
 		"origin": "BBC Earth (HD).sg",
-		"channel_name": "BBC Earth",
-		"channel_id": "BBCEarthAsia.uk.sg"
+		"channel_name": "BBC Earth (v+)",
+		"channel_id": "BBCEarth.id"
 	},
 	{
 		"origin": "BBC Lifestyle (HD).sg",
@@ -101,7 +101,7 @@
 	{
 		"origin": "BBC News.sg",
 		"channel_name": "BBC World News",
-		"channel_id": "BBCWorldNewsAsiaPacific.uk.sg"
+		"channel_id": "BBCWorldNews.id"
 	},
 	{
 		"origin": "beIN SPORTS 2 (HD).sg",
@@ -191,7 +191,7 @@
 	{
 		"origin": "CGTN-Documentary.sg",
 		"channel_name": "CGTN Documentary",
-		"channel_id": "CGTNDocumentary.cn.sg"
+		"channel_id": "CGTNDocumentary.id"
 	},
 	{
 		"origin": "Ch 5 (HD).sg",
@@ -230,7 +230,7 @@
 	},
 	{
 		"origin": "CinemaWorld (HD).sg",
-		"channel_name": "CinemaWorld",
+		"channel_name": "Cinema World",
 		"channel_id": "CinemaWorld.id"
 	},
 	{
@@ -295,7 +295,7 @@
 	},
 	{
 		"origin": "Discovery Channel (HD).sg",
-		"channel_name": "Discovery Ch",
+		"channel_name": "Discovery Channel",
 		"channel_id": "DiscoveryChannel.sg"
 	},
 	{
@@ -310,8 +310,8 @@
 	},
 	{
 		"origin": "DreamWorks (HD).sg",
-		"channel_name": "DreamWorks Channel",
-		"channel_id": "DreamWorksChannel.id"
+		"channel_name": "Dreamworks HD",
+		"channel_id": "DreamWorks.id"
 	},
 	{
 		"origin": "Deutsche Welle (English).sg",

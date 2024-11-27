@@ -61,7 +61,7 @@
 	},
 	{
 		"origin": "BBC Earth.id",
-		"channel_name": "BBC Earth",
+		"channel_name": "BBC Earth (v+)",
 		"channel_id": "BBCEarth.id"
 	},
 	{
@@ -226,7 +226,7 @@
 	},
 	{
 		"origin": "History.id",
-		"channel_name": "History",
+		"channel_name": "History (v+)",
 		"channel_id": "History.id"
 	},
 	{
@@ -261,7 +261,7 @@
 	},
 	{
 		"origin": "JAK TV.id",
-		"channel_name": "JakTV",
+		"channel_name": "Jak TV",
 		"channel_id": "JakTV.id"
 	},
 	{
@@ -556,7 +556,7 @@
 	},
 	{
 		"origin": "Zoo Moo.id",
-		"channel_name": "Zoo Moo",
+		"channel_name": "ZooMoo",
 		"channel_id": "ZooMoo.id"
 	}
 ]
