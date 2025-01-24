@@ -120,3 +120,6 @@ https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/visionplus.id.xm
 
 firstmedia.xml
 https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/firstmedia.xml
+
+cubmu.xml
+https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/cubmu.xml
