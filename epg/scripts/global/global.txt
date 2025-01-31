@@ -43,8 +43,8 @@ https://www.open-epg.com/files/indonesia4.xml
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
-unifi_epg.xml
-https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
+unifitv.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml
 
 i.mjh.nz.xml
 https://i.mjh.nz/all/epg.xml
