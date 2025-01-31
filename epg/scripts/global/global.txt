@@ -1,3 +1,6 @@
+AqFad2811epg.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
+
 cubmu.com.xml
 https://xmltv.tvkaista.net/guides/cubmu.com.xml
 
@@ -49,5 +52,20 @@ https://i.mjh.nz/SamsungTVPlus/all.xml
 us.xml
 https://i.mjh.nz/PlutoTV/us.xml
 
-AqFad2811epg.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
+uaepremium2.xml
+https://www.open-epg.com/files/uaepremium2.xml
+
+uaepremium3.xml
+https://www.open-epg.com/files/uaepremium3.xml
+
+unitedkingdom1.xml
+https://www.open-epg.com/files/unitedkingdom1.xml
+
+unitedkingdom2.xml
+https://www.open-epg.com/files/unitedkingdom2.xml
+
+unitedstates1.xml
+https://www.open-epg.com/files/unitedstates1.xml
+
+unitedstates4.xml
+https://www.open-epg.com/files/unitedstates4.xml
