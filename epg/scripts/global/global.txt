@@ -30,3 +30,6 @@ https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml
 
 singtel.com.xml
 https://xmltv.tvkaista.net/guides/singtel.com.xml
+
+i.mjh.nz.xml
+https://i.mjh.nz/all/epg.xml
