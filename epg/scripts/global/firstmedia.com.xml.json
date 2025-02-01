@@ -211,7 +211,7 @@
 	},
 	{
 		"origin": "IDTV.id",
-		"channel_name": "Berita Satu HD",
+		"channel_name": "Berita Satu",
 		"channel_id": "IDTV.my.id"
 	},
 	{
@@ -275,7 +275,7 @@
 		"channel_id": "MentariTV.id"
 	},
 	{
-		"origin": "MetroTV.id",
+		"origin": "Metro TV.id",
 		"channel_name": "Metro TV",
 		"channel_id": "MetroTV.id"
 	},
@@ -297,7 +297,7 @@
 	{
 		"origin": "RajawaliTV.id",
 		"channel_name": "RTV",
-		"channel_id": "RTV.my.id"
+		"channel_id": "RTV.id"
 	},
 	{
 		"origin": "ROCKExtreme.sg",
@@ -310,16 +310,6 @@
 		"channel_id": "RockEntertainment.id"
 	},
 	{
-		"origin": "Rodja TV.id",
-		"channel_name": "Rodja TV",
-		"channel_id": "RodjaTV.id"
-	},
-	{
-		"origin": "RRI NET.id",
-		"channel_name": "RRI NET",
-		"channel_id": "RRINet.id"
-	},
-	{
 		"origin": "SindoNewsTV.id",
 		"channel_name": "SindoNews TV",
 		"channel_id": "SindoNews.id"
@@ -330,7 +320,7 @@
 		"channel_id": "SCTV.my.id"
 	},
 	{
-		"origin": "SEA Today.id",
+		"origin": "SEAToday.id",
 		"channel_name": "SEA Today",
 		"channel_id": "SEAToday.id"
 	},
@@ -395,14 +385,14 @@
 		"channel_id": "tvOne.id"
 	},
 	{
-		"origin": "TV9Nusantara.id",
+		"origin": "TV9",
 		"channel_name": "TV9 Nusantara",
 		"channel_id": "TV9Nusantara.id"
 	},
 	{
 		"origin": "TVRINasional.id",
-		"channel_name": "TVRI Nasional HD",
-		"channel_id": "TVRI.id"
+		"channel_name": "TVRI Nasional",
+		"channel_id": "TVRINasional.id"
 	},
 	{
 		"origin": "TRTWorld.tr",

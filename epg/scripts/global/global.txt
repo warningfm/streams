@@ -34,6 +34,9 @@ https://xmltv.tvkaista.net/guides/singtel.com.xml
 indonesia1.xml
 https://www.open-epg.com/files/indonesia1.xml
 
+indonesia2.xml
+https://www.open-epg.com/files/indonesia2.xml
+
 indonesia3.xml
 https://www.open-epg.com/files/indonesia3.xml
 
