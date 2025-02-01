@@ -72,7 +72,7 @@
         {
 		"origin": "ElshintaTV.id",
 		"channel_name": "ElshintaTV",
-		"channel_id": "ElshintaTV,my.id"
+		"channel_id": "ElshintaTV.my.id"
 	},
 	{
 		"origin": "Horee.id",
@@ -146,8 +146,8 @@
 	},
         {
 		"origin": "Rajawali TV.id",
-		"channel_name": "RTVᴴᴰ",
-		"channel_id": "RTV.id"
+		"channel_name": "RTV ᴴᴰ",
+		"channel_id": "RTV.ind"
 	},
 	{
 		"origin": "Premier League TV.id",
@@ -191,8 +191,8 @@
 	},
 	{
 		"origin": "Trans7.id",
-		"channel_name": "Trans 7",
-		"channel_id": "Trans7.id"
+		"channel_name": "Trans 7 HD",
+		"channel_id": "Trans7.ind"
 	},
 	{
 		"origin": "tvNAsia.hk",
