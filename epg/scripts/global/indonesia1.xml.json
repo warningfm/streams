@@ -76,8 +76,8 @@
 	},
 	{
 		"origin": "Indosiar.id",
-		"channel_name": "Indosiar",
-		"channel_id": "Indosiar.id"
+		"channel_name": "Indosiar HD",
+		"channel_id": "Indosiar.ind"
 	},
 	{
 		"origin": "Jaktv.id",
@@ -106,8 +106,8 @@
 	},
 	{
 		"origin": "Metro TV.id",
-		"channel_name": "Metro TV",
-		"channel_id": "MetroTV.id"
+		"channel_name": "Metro TV HD",
+		"channel_id": "MetroTV.ind"
 	},
 	{
 		"origin": "Moji.id",
@@ -156,8 +156,8 @@
 	},
 	{
 		"origin": "SCTV.id",
-		"channel_name": "SCTV",
-		"channel_id": "SCTV.id"
+		"channel_name": "SCTV HD",
+		"channel_id": "SCTV.ind"
 	},
 	{
 		"origin": "SPOTV 2.id",
@@ -186,17 +186,12 @@
 	},
 	{
 		"origin": "TVOne.id",
-		"channel_name": "tvOne",
-		"channel_id": "tvOne.id"
+		"channel_name": "tvOne HD",
+		"channel_id": "tvOne.ind"
 	},
 	{
 		"origin": "TVRI.id",
 		"channel_name": "TVRI Nasional HD",
 		"channel_id": "TVRI.id"
-	},
-	{
-		"origin": "Zee Bioskop",
-		"channel_name": "Zee Bioskop",
-		"channel_id": "ZeeBioskop.id"
 	}
 ]
