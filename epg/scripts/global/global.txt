@@ -6,6 +6,7 @@ https://xmltv.tvkaista.net/guides/cubmu.com.xml
 
 dens.tv.xml
 https://xmltv.tvkaista.net/guides/dens.tv.xml
+https://raw.githubusercontent.com/warningfm/v2/cloud/dens.tv.xml
 
 firstmedia.com.xml
 https://xmltv.tvkaista.net/guides/firstmedia.com.xml
