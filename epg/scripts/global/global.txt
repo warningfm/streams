@@ -1,2 +1,4 @@
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
+aqfindonesia.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
