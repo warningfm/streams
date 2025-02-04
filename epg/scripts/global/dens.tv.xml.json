@@ -56,8 +56,8 @@
 	},
 	{
 		"origin": "DAAITV.id",
-		"channel_name": "DAAITV",
-		"channel_id": "DAAITV.id"
+		"channel_name": "DAAITV.",
+		"channel_id": "DAAITV.ids"
 	},
 	{
 		"origin": "DeluxeLoungeHD.de",
@@ -98,6 +98,11 @@
 		"origin": "DIM.ua",
 		"channel_name": "DIM TV",
 		"channel_id": "DIM.ua"
+	},
+        {
+		"origin": "ElshintaTV.id",
+		"channel_name": "Elshinta TV",
+		"channel_id": "ElshintaTV.el"
 	},
 	{
 		"origin": "FightSports.us",
