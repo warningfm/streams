@@ -1,5 +1,35 @@
-AqFad2811epg.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
+cubmu.com.xml
+https://xmltv.tvkaista.net/guides/cubmu.com.xml
+
+dens.tv.xml
+https://xmltv.tvkaista.net/guides/dens.tv.xml
+
+firstmedia.com.xml
+https://xmltv.tvkaista.net/guides/firstmedia.com.xml
+
+indihometv.com.xml
+https://xmltv.tvkaista.net/guides/indihometv.com.xml
+
+mncvision.id.xml
+https://xmltv.tvkaista.net/guides/mncvision.id.xml
+
+vidio.com.xml
+https://xmltv.tvkaista.net/guides/vidio.com.xml
+
+visionplus.id.xml
+https://xmltv.tvkaista.net/guides/visionplus.id.xml
+
+astro.com.my.xml
+https://xmltv.tvkaista.net/guides/content.astro.com.my.xml
+
+mewatch.sg.xml
+https://xmltv.tvkaista.net/guides/mewatch.sg.xml
+
+starhubtvplus.com.xml
+https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml
+
+singtel.com.xml
+https://xmltv.tvkaista.net/guides/singtel.com.xml
 
 indonesia1.xml
 https://www.open-epg.com/files/indonesia1.xml
@@ -25,6 +55,9 @@ https://www.open-epg.com/files/singapore2.xml
 singapore3.xml
 https://www.open-epg.com/files/singapore3.xml
 
+AqFad2811epg.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
+
 unifi_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
 
@@ -42,15 +75,6 @@ https://i.mjh.nz/SamsungTVPlus/all.xml
 
 us.xml
 https://i.mjh.nz/PlutoTV/us.xml
-
-firstmedia.com.xml
-https://xmltv.tvkaista.net/guides/firstmedia.com.xml
-
-indihometv.com.xml
-https://xmltv.tvkaista.net/guides/indihometv.com.xml
-
-vidio.com.xml
-https://xmltv.tvkaista.net/guides/vidio.com.xml
 
 uaepremium2.xml
 https://www.open-epg.com/files/uaepremium2.xml
