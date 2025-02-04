@@ -52,3 +52,26 @@ https://xmltv.tvkaista.net/guides/indihometv.com.xml
 vidio.com.xml
 https://xmltv.tvkaista.net/guides/vidio.com.xml
 
+uaepremium2.xml
+https://www.open-epg.com/files/uaepremium2.xml
+
+uaepremium3.xml
+https://www.open-epg.com/files/uaepremium3.xml
+
+unitedkingdom1.xml
+https://www.open-epg.com/files/unitedkingdom1.xml
+
+unitedkingdom2.xml
+https://www.open-epg.com/files/unitedkingdom2.xml
+
+unitedstates1.xml
+https://www.open-epg.com/files/unitedstates1.xml
+
+unitedstates4.xml
+https://www.open-epg.com/files/unitedstates4.xml
+
+czech2.xml
+https://www.open-epg.com/files/czech2.xml
+
+turkey1.xml
+https://www.open-epg.com/files/turkey1.xml
