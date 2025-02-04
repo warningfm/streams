@@ -1,3 +1,6 @@
+aqfindonesia.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
+
 cubmu.com.xml
 https://xmltv.tvkaista.net/guides/cubmu.com.xml
 
@@ -55,9 +58,6 @@ https://www.open-epg.com/files/singapore2.xml
 singapore3.xml
 https://www.open-epg.com/files/singapore3.xml
 
-aqfindonesia.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
-
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
@@ -65,10 +65,13 @@ unifi_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
 
 astro_epg.xml
-https://raw.githubusercontent.com/azimabid00/epg/refs/heads/main/astro_epg.xml
+https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
 
 i.mjh.nz.xml
 https://i.mjh.nz/all/epg.xml
+
+Singtelepg.xml
+https://i.mjh.nz/Singtel/epg.xml
 
 SamsungTVPlusall.xml
 https://i.mjh.nz/SamsungTVPlus/all.xml
