@@ -42,3 +42,13 @@ https://i.mjh.nz/SamsungTVPlus/all.xml
 
 us.xml
 https://i.mjh.nz/PlutoTV/us.xml
+
+firstmedia.com.xml
+https://xmltv.tvkaista.net/guides/firstmedia.com.xml
+
+indihometv.com.xml
+https://xmltv.tvkaista.net/guides/indihometv.com.xml
+
+vidio.com.xml
+https://xmltv.tvkaista.net/guides/vidio.com.xml
+
