@@ -11,7 +11,7 @@
 	},
 	{
 		"origin": "(HD) Outdoor Channel.sg",
-		"channel_name": "Outdoor Channel",
+		"channel_name": "Outdoor Channel HD",
 		"channel_id": "OutdoorChannel.id"
 	},
 	{
@@ -40,7 +40,7 @@
 	},
 	{
 		"origin": "Animax (HD).sg",
-		"channel_name": "Animax",
+		"channel_name": "Animax HD",
 		"channel_id": "Animax.id"
 	},
 	{
@@ -85,12 +85,12 @@
 	},
 	{
 		"origin": "AXN (HD).sg",
-		"channel_name": "AXN id",
+		"channel_name": "AXN Asia",
 		"channel_id": "AXN.id"
 	},
 	{
 		"origin": "BBC Earth (HD).sg",
-		"channel_name": "BBC Earth (v+)",
+		"channel_name": "BBC Earth Asia",
 		"channel_id": "BBCEarth.id"
 	},
 	{
@@ -105,27 +105,27 @@
 	},
 	{
 		"origin": "beIN SPORTS 2 (HD).sg",
-		"channel_name": "beIN Sports 2",
+		"channel_name": "beIN Sports 2 HD",
 		"channel_id": "beINSports2.id"
 	},
 	{
 		"origin": "beIN SPORTS 3 (HD).sg",
-		"channel_name": "beIN Sports 3",
+		"channel_name": "beIN Sports 3 HD",
 		"channel_id": "beINSports3.id"
 	},
 	{
 		"origin": "beIN SPORTS 4 (HD).sg",
-		"channel_name": "beIN Sports 4",
+		"channel_name": "beIN Sports 4 HD",
 		"channel_id": "beINSports4.id"
 	},
 	{
 		"origin": "beIN SPORTS 5 (HD).sg",
-		"channel_name": "beIN Sports 5",
+		"channel_name": "beIN Sports 5 HD",
 		"channel_id": "beINSports5.id"
 	},
 	{
 		"origin": "beIN SPORTS (HD).sg",
-		"channel_name": "beIN Sports 1",
+		"channel_name": "beIN Sports 1 HD",
 		"channel_id": "beINSports1.id"
 	},
 	{
@@ -205,7 +205,7 @@
 	},
 	{
 		"origin": "CNA (HD).sg",
-		"channel_name": "CNA",
+		"channel_name": "CNA HD",
 		"channel_id": "CNA.sg"
 	},
 	{
@@ -245,7 +245,7 @@
 	},
 	{
 		"origin": "CNBC Asia.sg",
-		"channel_name": "CNBC Asia",
+		"channel_name": "CNBC Asia HD",
 		"channel_id": "CNBCAsia.sg"
 	},
 	{
@@ -279,18 +279,13 @@
 		"channel_id": "CTIAsia.tw.sg"
 	},
 	{
-		"origin": "CuriosityStream HD",
-		"channel_name": "Curiosity",
-		"channel_id": "CuriosityStreamHD.us.sg"
-	},
-	{
 		"origin": "Discovery Asia (HD).sg",
 		"channel_name": "Discovery Asia",
 		"channel_id": "DiscoveryAsia.sg"
 	},
 	{
 		"origin": "Discovery Channel (HD).sg",
-		"channel_name": "Discovery Channel HD",
+		"channel_name": "Discovery Channel",
 		"channel_id": "DiscoveryChannel.sg"
 	},
 	{
@@ -310,21 +305,11 @@
 	},
 	{
 		"origin": "Deutsche Welle (English).sg",
-		"channel_name": "DW English",
-		"channel_id": "DWEnglish.de.sg"
+		"channel_name": "DW (English)",
+		"channel_id": "DWEnglish.de"
 	},
 	{
 		"origin": "e-Le (HD).sg",
-		"channel_name": "",
-		"channel_id": ""
-	},
-	{
-		"origin": "ETTV Asia (HD).sg",
-		"channel_name": "",
-		"channel_id": ""
-	},
-	{
-		"origin": "ETTV Asia News.sg",
 		"channel_name": "",
 		"channel_id": ""
 	},
@@ -370,7 +355,7 @@
 	},
 	{
 		"origin": "GMA News TV.sg",
-		"channel_name": "SG: GMA News TV",
+		"channel_name": "GMA News TV",
 		"channel_id": "GMANewsTV.ph.sg"
 	},
 	{
@@ -635,7 +620,7 @@
 	},
 	{
 		"origin": "Nickelodeon Asia HD.sg",
-		"channel_name": "Nickelodeon",
+		"channel_name": "Nickelodeon HD",
 		"channel_id": "NickelodeonAsia.sg"
 	},
 	{
@@ -645,12 +630,12 @@
 	},
 	{
 		"origin": "ONE HD (Malay).sg",
-		"channel_name": "ONE Malaysia",
+		"channel_name": "ONE HD",
 		"channel_id": "OneTVAsia.my.sg"
 	},
 	{
 		"origin": "ONE HD (Mandarin).sg",
-		"channel_name": "ONE",
+		"channel_name": "ONE HD",
 		"channel_id": "OneTVAsia.sg"
 	},
 	{
@@ -699,11 +684,6 @@
 		"channel_id": "SonySAB.in.sg"
 	},
 	{
-		"origin": "SCM HD",
-		"channel_name": "Star Chinese Movies",
-		"channel_id": "StarChineseMovies.hk.sg"
-	},
-	{
 		"origin": "SEA Today.sg",
 		"channel_name": "SEA Today",
 		"channel_id": "SEAToday.id"
@@ -721,7 +701,7 @@
 	{
 		"origin": "SONY MAX.sg",
 		"channel_name": "Sony Max",
-		"channel_id": "SonyMax.in.sg"
+		"channel_id": "SonyMax.in"
 	},
 	{
 		"origin": "Sony YAY!.sg",
@@ -730,12 +710,12 @@
 	},
 	{
 		"origin": "SPOTV (HD).sg",
-		"channel_name": "SPOTV",
+		"channel_name": "SPOTV HD",
 		"channel_id": "SPOTV.id"
 	},
 	{
 		"origin": "SPOTV 2 (HD).sg",
-		"channel_name": "SPOTV 2",
+		"channel_name": "SPOTV 2 HD",
 		"channel_id": "SPOTV2.id"
 	},
 	{
@@ -830,18 +810,18 @@
 	},
 	{
 		"origin": "TLC (HD).sg",
-		"channel_name": "TLC (id)",
-		"channel_id": "TLC.id"
+		"channel_name": "TLC Asia",
+		"channel_id": "TLCSoutheastAsia.sg"
 	},
 	{
 		"origin": "TRACE Sports Stars HD.sg",
-		"channel_name": "TRACE Sports Stars",
+		"channel_name": "RACE Sports Stars HD",
 		"channel_id": "TRACESportsStars.sg"
 	},
 	{
 		"origin": "Travelxp HD",
 		"channel_name": "Travelxp HD",
-		"channel_id": "Travelxp.in.sg"
+		"channel_id": "Travelxp.in"
 	},
 	{
 		"origin": "TV5MONDE HD",
@@ -870,12 +850,12 @@
 	},
 	{
 		"origin": "tvN HD (Malay).sg",
-		"channel_name": "tvN Malaysia",
+		"channel_name": "tvN HD",
 		"channel_id": "tvNAsia.hk"
 	},
 	{
 		"origin": "tvN HD (Mandarin).sg",
-		"channel_name": "tvN",
+		"channel_name": "tvN HD",
 		"channel_id": "tvNAsia.hk"
 	},
 	{
@@ -891,36 +871,36 @@
 	{
 		"origin": "Vijay.sg",
 		"channel_name": "Vijay TV",
-		"channel_id": "VijayTV.in.sg"
+		"channel_id": "VijayTV.ing"
 	},
 	{
 		"origin": "WION.sg",
 		"channel_name": "Wion",
-		"channel_id": "Wion.in.sg"
+		"channel_id": "Wion.in"
 	}
 	{
 		"origin": "Zee Cinema.sg",
 		"channel_name": "Zee Cinema",
-		"channel_id": "ZeeCinema.in.sg"
+		"channel_id": "ZeeCinema.in"
 	},
 	{
 		"origin": "Zee Tamil.sg",
 		"channel_name": "Zee Tamil",
-		"channel_id": "ZeeTamil.in.sg"
+		"channel_id": "ZeeTamil.in"
 	},
 	{
 		"origin": "Zee Thirai.sg",
 		"channel_name": "Zee Thirai",
-		"channel_id": "ZeeThirai.in.sg"
+		"channel_id": "ZeeThirai.in"
 	},
 	{
 		"origin": "Zoom TV.sg",
 		"channel_name": "Zoom TV",
-		"channel_id": "ZoomTV.sg"
+		"channel_id": "ZoomTV.in"
 	},
 	{
 		"origin": "Zee TV.sg",
 		"channel_name": "Zee TV",
-		"channel_id": "ZeeTV.in.sg"
+		"channel_id": "ZeeTV.in"
 	}
 ]
