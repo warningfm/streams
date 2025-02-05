@@ -1,3 +1,15 @@
+indonesia1.xml
+https://www.open-epg.com/files/indonesia1.xml
+
+indonesia2.xml
+https://www.open-epg.com/files/indonesia2.xml
+
+indonesia3.xml
+https://www.open-epg.com/files/indonesia3.xml
+
+indonesia4.xml
+https://www.open-epg.com/files/indonesia4.xml
+
 cubmu.com.xml
 https://xmltv.tvkaista.net/guides/cubmu.com.xml
 
@@ -30,18 +42,6 @@ https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml
 
 singtel.com.xml
 https://xmltv.tvkaista.net/guides/singtel.com.xml
-
-indonesia1.xml
-https://www.open-epg.com/files/indonesia1.xml
-
-indonesia2.xml
-https://www.open-epg.com/files/indonesia2.xml
-
-indonesia3.xml
-https://www.open-epg.com/files/indonesia3.xml
-
-indonesia4.xml
-https://www.open-epg.com/files/indonesia4.xml
 
 philippines3.xml
 https://www.open-epg.com/files/philippines3.xml
