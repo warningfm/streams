@@ -21,17 +21,17 @@
 	},
 	{
 		"origin": "beIN SPORTS 1.th",
-		"channel_name": "beIN Sports 1",
+		"channel_name": "beIN Sports 1 HD",
 		"channel_id": "beinSports1.id"
 	},
 	{
 		"origin": "beIN SPORTS 2.th",
-		"channel_name": "beIN Sports 2",
+		"channel_name": "beIN Sports 2 HD",
 		"channel_id": "beinSports2.id"
 	},
 	{
 		"origin": "beIN SPORTS 3.th",
-		"channel_name": "beIN Sports 3",
+		"channel_name": "beIN Sports 3 HD",
 		"channel_id": "beinSports3.id"
 	},
 	{
@@ -51,7 +51,7 @@
 	},
   {
 		"origin": "Channel News Asia.th",
-		"channel_name": "CNA",
+		"channel_name": "CNA HD",
 		"channel_id": "CNA.id"
 	},
   {
@@ -61,7 +61,7 @@
 	},
 	{
 		"origin": "Discovery.th",
-		"channel_name": "Discovery Channel HD",
+		"channel_name": "Discovery Channel",
 		"channel_id": "DiscoveryChannel.id"
 	},
 	{
@@ -77,7 +77,7 @@
 	{
 		"origin": "France 24.th",
 		"channel_name": "France 24 English",
-		"channel_id": "France24English.fr.id"
+		"channel_id": "France24English.fr"
 	},
 	{
 		"origin": "Global Trekker.th",
