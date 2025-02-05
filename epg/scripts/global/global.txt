@@ -21,6 +21,7 @@ https://xmltv.tvkaista.net/guides/firstmedia.com.xml
 
 indihometv.com.xml
 https://xmltv.tvkaista.net/guides/indihometv.com.xml
+https://raw.githubusercontent.com/warningfm/v2/cloud/ndihometv.com.xml
 
 mncvision.id.xml
 https://xmltv.tvkaista.net/guides/mncvision.id.xml
@@ -102,5 +103,3 @@ https://www.open-epg.com/files/czech2.xml
 
 turkey1.xml
 https://www.open-epg.com/files/turkey1.xml
-
-https://raw.githubusercontent.com/warningfm/v2/cloud/ndihometv.com.xml
