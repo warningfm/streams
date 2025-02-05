@@ -81,7 +81,7 @@
 	},
 	{
 		"origin": "CartoonNetworkAsia.sg",
-		"channel_name": "Cartoon Network",
+		"channel_name": "Cartoon Network HD",
 		"channel_id": "CartoonNetwork.id"
 	},
 	{
@@ -126,7 +126,7 @@
 	},
 	{
 		"origin": "CNBCAsia.sg",
-		"channel_name": "CNBC Asia",
+		"channel_name": "CNBC Asia HD",
 		"channel_id": "CNBCAsia.id"
 	},
 	{
@@ -181,7 +181,7 @@
 	},
 	{
 		"origin": "DiscoveryChannel.id",
-		"channel_name": "Discovery Channel HD",
+		"channel_name": "Discovery Channel",
 		"channel_id": "DiscoveryChannel.id"
 	},
 	{
@@ -231,7 +231,7 @@
 	},
 	{
 		"origin": "HGTVAsia.us",
-		"channel_name": "HGTV HD",
+		"channel_name": "HGTV Asia",
 		"channel_id": "HGTV.id"
 	},
 	{
@@ -281,8 +281,8 @@
 	},
 	{
 		"origin": "Indosiar.id",
-		"channel_name": "Indosiar",
-		"channel_id": "Indosiar.id"
+		"channel_name": "Indosiar HD",
+		"channel_id": "Indosiar.ind"
 	},
 	{
 		"origin": "iNews.id",
@@ -387,7 +387,7 @@
 	},
 	{
 		"origin": "MyKidz.id",
-		"channel_name": "My Kidz",
+		"channel_name": "My Kidz HD",
 		"channel_id": "MyKidz.id"
 	},
 	{
@@ -402,7 +402,7 @@
 	},
 	{
 		"origin": "CNA.sg",
-		"channel_name": "CNA",
+		"channel_name": "CNA HD",
 		"channel_id": "CNA.id"
 	},
 	{
@@ -467,17 +467,17 @@
 	},
 	{
 		"origin": "SPOTV2.id",
-		"channel_name": "SPOTV 2",
+		"channel_name": "SPOTV 2 HD",
 		"channel_id": "SPOTV2.id"
 	},
 	{
 		"origin": "SPOTV.id",
-		"channel_name": "SPOTV",
+		"channel_name": "SPOTV HD",
 		"channel_id": "SPOTV.id"
 	},
 	{
 		"origin": "ONE.sg",
-		"channel_name": "ONE",
+		"channel_name": "ONE HD",
 		"channel_id": "One.id"
 	},
 	{
@@ -507,7 +507,7 @@
 	},
         {
 		"origin": "tvNAsia.hk",
-		"channel_name": "tvN",
+		"channel_name": "tvN HD",
 		"channel_id": "tvN.id"
 	},
 	{
