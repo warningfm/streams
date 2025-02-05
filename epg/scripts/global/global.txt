@@ -31,6 +31,9 @@ https://xmltv.tvkaista.net/guides/vidio.com.xml
 visionplus.id.xml
 https://xmltv.tvkaista.net/guides/visionplus.id.xml
 
+AqFad2811epg.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
+
 astro.com.my.xml
 https://xmltv.tvkaista.net/guides/content.astro.com.my.xml
 
