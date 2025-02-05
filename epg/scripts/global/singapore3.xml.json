@@ -36,7 +36,7 @@
 	},
 	{
 		"origin": "BBC Earth HD.sg",
-		"channel_name": "BBC Earth (v+)",
+		"channel_name": "BBC Earth Asia",
 		"channel_id": "BBCEarth.id"
 	},
 	{
@@ -46,27 +46,27 @@
 	},
 	{
 		"origin": "beIN Sports HD.sg",
-		"channel_name": "beIN Sports 1",
+		"channel_name": "beIN Sports 1 HD",
 		"channel_id": "beINSports1.id"
 	},
 	{
 		"origin": "beIN Sports 2 HD.sg",
-		"channel_name": "beIN Sports 2",
+		"channel_name": "beIN Sports 2 HD",
 		"channel_id": "beINSports2.id"
 	},
 	{
 		"origin": "beIN Sports 3.sg",
-		"channel_name": "beIN Sports 3",
+		"channel_name": "beIN Sports 3 HD",
 		"channel_id": "beINSports3.id"
 	},
 	{
 		"origin": "beIN Sports 4.sg",
-		"channel_name": "beIN Sports 4",
+		"channel_name": "beIN Sports 4 HD",
 		"channel_id": "beINSports4.id"
 	},
 	{
 		"origin": "beIN Sports 5.sg",
-		"channel_name": "beIN Sports 5",
+		"channel_name": "beIN Sports 5 HD",
 		"channel_id": "beINSports5.id"
 	},
 	{
@@ -131,7 +131,7 @@
 	},
 	{
 		"origin": "Discovery HD.sg",
-		"channel_name": "Discovery Channel HD",
+		"channel_name": "Discovery Channel",
 		"channel_id": "DiscoveryChannel.id"
 	},
 	{
@@ -251,12 +251,12 @@
 	},
 	{
 		"origin": "ONE HD (Malay).sg",
-		"channel_name": "ONE Malaysia",
+		"channel_name": "ONE HD",
 		"channel_id": "OneTVAsia.my.sg"
 	},
 	{
 		"origin": "ONE HD.s",
-		"channel_name": "ONE",
+		"channel_name": "ONE HD",
 		"channel_id": "OneTVAsia.sg"
 	},
 	{
@@ -287,7 +287,7 @@
 	{
 		"origin": "SONY MAX.sg",
 		"channel_name": "Sony Max",
-		"channel_id": "SonyMax.in.sg"
+		"channel_id": "SonyMax.in"
 	},
 	{
 		"origin": "Sony Entertainment Television.sg",
@@ -296,37 +296,32 @@
 	},
 	{
 		"origin": "SPOTV.sg",
-		"channel_name": "SPOTV",
+		"channel_name": "SPOTV HD",
 		"channel_id": "SPOTV.id"
 	},
 	{
 		"origin": "SPOTV2.sg",
-		"channel_name": "SPOTV 2",
-		"channel_id": "SPOTV2.id"
-	},
-	{
-		"origin": "SPOTV 2 HD - [Channel 428].id",
-		"channel_name": "SPOTV 2",
+		"channel_name": "SPOTV 2 HD",
 		"channel_id": "SPOTV2.id"
 	},
 	{
 		"origin": "Zee Cinema.sg",
 		"channel_name": "Zee Cinema",
-		"channel_id": "ZeeCinema.id"
+		"channel_id": "ZeeCinema.iN"
 	},
 	{
 		"origin": "Zee Tamil.sg",
 		"channel_name": "Zee Tamil",
-		"channel_id": "ZeeTamil.in.sg"
+		"channel_id": "ZeeTamil.in"
 	},
 	{
 		"origin": "Zee Thirai.sg",
 		"channel_name": "Zee Thirai",
-		"channel_id": "ZeeThirai.in.sg"
+		"channel_id": "ZeeThirai.in"
 	},
 	{
 		"origin": "Zee TV.sg",
 		"channel_name": "Zee TV",
-		"channel_id": "ZeeTV.in.sg"
+		"channel_id": "ZeeTV.in"
 	}
 ]
