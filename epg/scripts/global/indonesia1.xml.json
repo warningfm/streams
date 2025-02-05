@@ -121,7 +121,7 @@
 	},
 	{
 		"origin": "News Asia.id",
-		"channel_name": "CNA",
+		"channel_name": "CNA HD",
 		"channel_id": "CNA.id"
 	},
 	{
@@ -141,12 +141,12 @@
 	},
 	{
 		"origin": "Rock Action.id",
-		"channel_name": "Rock Action",
+		"channel_name": "Rock Action HD",
 		"channel_id": "RockAction.id"
 	},
 	{
 		"origin": "ROCK Entertainment.id",
-		"channel_name": "Rock Entertainment",
+		"channel_name": "Rock Entertainment HD",
 		"channel_id": "RockEntertainment.id"
 	},
 	{
@@ -161,12 +161,12 @@
 	},
 	{
 		"origin": "SPOTV 2.id",
-		"channel_name": "SPOTV 2",
+		"channel_name": "SPOTV 2 HD",
 		"channel_id": "SPOTV2.id"
 	},
 	{
 		"origin": "SPOTV.id",
-		"channel_name": "SPOTV",
+		"channel_name": "SPOTV HD",
 		"channel_id": "SPOTV.id"
 	},
 	{
