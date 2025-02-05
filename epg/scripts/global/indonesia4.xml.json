@@ -56,22 +56,22 @@
 	},
 	{
 		"origin": "beIN Sports 1 - [Channel 309].id",
-		"channel_name": "beIN Sports 1",
+		"channel_name": "beIN Sports 1 HD",
 		"channel_id": "beINSports1.id"
 	},
 	{
 		"origin": "beIN Sports 1 HD - [Channel 417].id",
-		"channel_name": "beIN Sports 1",
+		"channel_name": "beIN Sports 1 HD",
 		"channel_id": "beINSports1.id"
 	},
 	{
 		"origin": "beIN Sports 2 - [Channel 310].id",
-		"channel_name": "beIN Sports 2",
+		"channel_name": "beIN Sports 2 HD",
 		"channel_id": "beINSports2.id"
 	},
 	{
 		"origin": "beIN Sports 2 HD - [Channel 418].id",
-		"channel_name": "beIN Sports 2",
+		"channel_name": "beIN Sports 2 HD",
 		"channel_id": "beINSports2.id"
 	},
 	{
@@ -81,7 +81,7 @@
 	},
 	{
 		"origin": "beIN Sports 3 HD - [Channel 419].id",
-		"channel_name": "beIN Sports 3",
+		"channel_name": "beIN Sports 3 HD",
 		"channel_id": "beINSports3.id"
 	},
 	{
@@ -131,7 +131,7 @@
 	},
 	{
 		"origin": "Channel News Asia - [Channel 330].id",
-		"channel_name": "CNA",
+		"channel_name": "CNA HD",
 		"channel_id": "CNA.id"
 	},
 	{
@@ -186,7 +186,7 @@
 	},
 	{
 		"origin": "CNBC - [Channel 337].id",
-		"channel_name": "CNBC Asia",
+		"channel_name": "CNBC Asia HD",
 		"channel_id": "CNBCAsia.id"
 	},
 	{
@@ -551,12 +551,12 @@
 	},
 	{
 		"origin": "Outdoor Channel - [Channel 202].id",
-		"channel_name": "Outdoor Channel",
+		"channel_name": "Outdoor Channel HD",
 		"channel_id": "OutdoorChannel.id"
 	},
 	{
 		"origin": "Outdoor channel HD - [Channel 460].id",
-		"channel_name": "Outdoor Channel",
+		"channel_name": "Outdoor Channel HD",
 		"channel_id": "OutdoorChannel.id"
 	},
 	{
@@ -586,7 +586,7 @@
 	},
 	{
 		"origin": "Nickelodeon - [Channel 49].id",
-		"channel_name": "Nickelodeon",
+		"channel_name": "Nickelodeon HD",
 		"channel_id": "Nickelodeon.id"
 	},
 	{
@@ -596,12 +596,12 @@
 	},
 	{
 		"origin": "ONE - [Channel 164].id",
-		"channel_name": "ONE",
+		"channel_name": "ONE HD",
 		"channel_id": "One.id"
 	},
 	{
 		"origin": "ONE HD - [Channel 445].id",
-		"channel_name": "ONE",
+		"channel_name": "ONE HD",
 		"channel_id": "One.id"
 	},
 	{
@@ -656,22 +656,22 @@
 	},
 	{
 		"origin": "SPOTV - [Channel 307].id",
-		"channel_name": "SPOTV",
+		"channel_name": "SPOTV HD",
 		"channel_id": "SPOTV.id"
 	},
 	{
 		"origin": "SPOTV HD - [Channel 427].id",
-		"channel_name": "SPOTV",
+		"channel_name": "SPOTV" HD,
 		"channel_id": "SPOTV.id"
 	},
 	{
 		"origin": "SPOTV 2 - [Channel 308].id",
-		"channel_name": "SPOTV 2",
+		"channel_name": "SPOTV 2 HD",
 		"channel_id": "SPOTV2.id"
 	},
 	{
 		"origin": "SPOTV 2 HD - [Channel 428].id",
-		"channel_name": "SPOTV 2",
+		"channel_name": "SPOTV 2 HD",
 		"channel_id": "SPOTV2.id"
 	},
 	{
@@ -716,7 +716,7 @@
 	},
 	{
 		"origin": "tvN HD - [Channel 446].id",
-		"channel_name": "tvN",
+		"channel_name": "tvN HD",
 		"channel_id": "tvN.id"
 	},
 	{
