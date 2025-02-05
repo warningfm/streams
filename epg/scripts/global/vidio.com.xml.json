@@ -21,17 +21,17 @@
 	},
 	{
 		"origin": "beINSports1.id",
-		"channel_name": "beIN Sports 1",
+		"channel_name": "beIN Sports 1 HD",
 		"channel_id": "beinSports1.id"
 	},
 	{
 		"origin": "17875",
-		"channel_name": "beIN Sports 2",
+		"channel_name": "beIN Sports 2 HR",
 		"channel_id": "beinSports2.id"
 	},
 	{
 		"origin": "beINSports3.id",
-		"channel_name": "beIN Sports 3",
+		"channel_name": "beIN Sports 3 HD",
 		"channel_id": "beinSports3.id"
 	},
 	{
@@ -136,7 +136,7 @@
 	},
 	{
 		"origin": "News Asia.id",
-		"channel_name": "CNA",
+		"channel_name": "CNA HD",
 		"channel_id": "CNA.id"
 	},
 	{
@@ -176,12 +176,12 @@
 	},
 	{
 		"origin": "SPOTV2.id",
-		"channel_name": "SPOTV 2",
+		"channel_name": "SPOTV 2 HD",
 		"channel_id": "SPOTV2.id"
 	},
 	{
 		"origin": "SPOTV.id",
-		"channel_name": "SPOTV",
+		"channel_name": "SPOTV HD",
 		"channel_id": "SPOTV.id"
 	},
 	{
@@ -196,7 +196,7 @@
 	},
 	{
 		"origin": "tvNAsia.hk",
-		"channel_name": "tvN",
+		"channel_name": "tvN HD",
 		"channel_id": "tvN.id"
 	},
 	{
