@@ -43,6 +43,9 @@ https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml
 singtel.com.xml
 https://xmltv.tvkaista.net/guides/singtel.com.xml
 
+Singtelepg.xml
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/2d5e088b869dd5eeccf22dff023c8a6f54e9083a/Singtel/epg.xml
+
 philippines3.xml
 https://www.open-epg.com/files/philippines3.xml
 
@@ -55,9 +58,6 @@ https://www.open-epg.com/files/singapore2.xml
 singapore3.xml
 https://www.open-epg.com/files/singapore3.xml
 
-AqFad2811epg.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
-
 unifi_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
 
@@ -66,9 +66,6 @@ https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
 
 i.mjh.nz.xml
 https://i.mjh.nz/all/epg.xml
-
-Singtelepg.xml
-https://i.mjh.nz/Singtel/epg.xml
 
 SamsungTVPlusall.xml
 https://i.mjh.nz/SamsungTVPlus/all.xml
