@@ -111,3 +111,6 @@ https://www.open-epg.com/files/turkey1.xml
 
 mysky.com.ph.xml
 https://xmltv.tvkaista.net/guides/mysky.com.ph.xml
+
+shahid.mbc.net.xml
+https://xmltv.tvkaista.net/guides/shahid.mbc.net.xml
