@@ -73,6 +73,9 @@ https://www.open-epg.com/files/singapore3.xml
 i.mjh.nz.xml
 https://i.mjh.nz/all/epg.xml
 
+DStvza.xml
+https://i.mjh.nz/DStv/za.xml
+
 SamsungTVPlusall.xml
 https://i.mjh.nz/SamsungTVPlus/all.xml
 
