@@ -130,16 +130,6 @@
 		"channel_id": "CCM.id"
 	},
 	{
-		"origin": "CGTN Documentary.id",
-		"channel_name": "CGTN Documentary",
-		"channel_id": "CGTNDocumentary.id"
-	},
-	{
-		"origin": "CGTN.id",
-		"channel_name": "CGTN",
-		"channel_id": "CGTN.id"
-	},
-	{
 		"origin": "Channel News Asia.id",
 		"channel_name": "CNA HD",
 		"channel_id": "CNA.id"
@@ -202,7 +192,7 @@
 	{
 		"origin": "Fight Sports.id",
 		"channel_name": "Fight Sports",
-		"channel_id": "FightSports.id"
+		"channel_id": "FightSports.us"
 	},
 	{
 		"origin": "FMN.id",
@@ -557,7 +547,7 @@
 	{
 		"origin": "TVRI.id",
 		"channel_name": "TVRI Nasional",
-		"channel_id": "TVRI.id"
+		"channel_id": "TVRI.my.id"
 	},
 	{
 		"origin": "Vision Prime.id",

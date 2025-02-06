@@ -2,7 +2,7 @@
 	{
 		"origin": "ABC Australia.id",
 		"channel_name": "ABC Australia",
-		"channel_id": "ABCAustralia.au.id"
+		"channel_id": "ABCAustralia.id"
 	},
 	{
 		"origin": "Aljazeera.id",
@@ -22,12 +22,12 @@
 	{
 		"origin": "Arirang.id",
 		"channel_name": "Arirang TV",
-		"channel_id": "ArirangTV.kr.id"
+		"channel_id": "ArirangTV.kr"
 	},
 	{
 		"origin": "Asian Food Network.id",
 		"channel_name": "Asian Food Network",
-		"channel_id": "AsianFoodNetwork.sg.id"
+		"channel_id": "AsianFoodNetwork.sg"
 	},
 	{
 		"origin": "Antara.id",
@@ -207,7 +207,7 @@
 	{
 		"origin": "Fight Sport.id",
 		"channel_name": "Fight Sports",
-		"channel_id": "FightSports.id"
+		"channel_id": "FightSports.us"
 	},
 	{
 		"origin": "Flik.id",
@@ -306,7 +306,7 @@
 	},
 	{
 		"origin": "KBS World.id",
-		"channel_name": "KBS World HD",
+		"channel_name": "KBS World",
 		"channel_id": "KBSWorld.id"
 	},
 	{
@@ -347,7 +347,7 @@
 	{
 		"origin": "Metro TV.id",
 		"channel_name": "Metro TV HD",
-		"channel_id": "MetroTV.ind"
+		"channel_id": "MetroTV.my.id"
 	},
         {
 		"origin": "MOJI.id",
@@ -359,7 +359,6 @@
 		"channel_name": "Maxstream",
 		"channel_id": "Maxstream.id"
 	},
-	
 	{
 		"origin": "MQTV.id",
 		"channel_name": "MQTV",
@@ -447,8 +446,8 @@
 	},
 	{
 		"origin": "SCTV.id",
-		"channel_name": "SCTV HD",
-		"channel_id": "SCTV.ind"
+		"channel_name": "SCTV",
+		"channel_id": "SCTV.id"
 	},
 	{
 		"origin": "SEA Today.id",
@@ -523,7 +522,7 @@
 	{
 		"origin": "TVRI.id",
 		"channel_name": "TVRI Nasional",
-		"channel_id": "TVRI.id"
+		"channel_id": "TVRI.my.id"
 	},
 	{
 		"origin": "UChannel.id",
