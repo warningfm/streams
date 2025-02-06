@@ -55,6 +55,9 @@ https://www.open-epg.com/files/india1.xml
 india4.xml
 https://www.open-epg.com/files/india4.xml
 
+philippines2.xml
+https://www.open-epg.com/files/philippines2.xml
+
 philippines3.xml
 https://www.open-epg.com/files/philippines3.xml
 
