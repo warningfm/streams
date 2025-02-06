@@ -141,12 +141,12 @@
 	},
 	{
 		"origin": "Rock Action.id",
-		"channel_name": "Rock Action",
+		"channel_name": "Rock Action HD",
 		"channel_id": "RockAction.id"
 	},
 	{
 		"origin": "ROCK Entertainment.id",
-		"channel_name": "Rock Entertainment",
+		"channel_name": "Rock Entertainment HD",
 		"channel_id": "RockEntertainment.id"
 	},
 	{
@@ -176,12 +176,12 @@
 	},
 	{
 		"origin": "Trans7.id",
-		"channel_name": "Trans 7 ᴴᴰ",
+		"channel_name": "Trans7 ᴴᴰ",
 		"channel_id": "Trans7.my.id"
 	},
 	{
 		"origin": "TVN.id",
-		"channel_name": "tvN",
+		"channel_name": "tvN HD",
 		"channel_id": "tvN.id"
 	},
 	{
