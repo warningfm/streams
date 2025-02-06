@@ -21,7 +21,9 @@ https://xmltv.tvkaista.net/guides/firstmedia.com.xml
 
 indihometv.com.xml
 https://xmltv.tvkaista.net/guides/indihometv.com.xml
-https://raw.githubusercontent.com/warningfm/v2/cloud/ndihometv.com.xml
+
+indihometv.com.xml
+https://raw.githubusercontent.com/warningfm/v2/cloud/indihometv.com.xml
 
 mncvision.id.xml
 https://xmltv.tvkaista.net/guides/mncvision.id.xml
