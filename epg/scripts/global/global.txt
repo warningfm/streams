@@ -22,17 +22,17 @@ https://xmltv.tvkaista.net/guides/firstmedia.com.xml
 indihometv.com.xml
 https://xmltv.tvkaista.net/guides/indihometv.com.xml
 
-mncvision.id.xml
-https://xmltv.tvkaista.net/guides/mncvision.id.xml
-
 vidio.com.xml
 https://xmltv.tvkaista.net/guides/vidio.com.xml
 
-visionplus.id.xml
-https://xmltv.tvkaista.net/guides/visionplus.id.xml
-
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
+
+unifi_epg.xml
+https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
+
+astro_epg.xml
+https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
 
 astro.com.my.xml
 https://xmltv.tvkaista.net/guides/content.astro.com.my.xml
@@ -49,6 +49,15 @@ https://xmltv.tvkaista.net/guides/singtel.com.xml
 Singtelepg.xml
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/2d5e088b869dd5eeccf22dff023c8a6f54e9083a/Singtel/epg.xml
 
+hongkong1.xml
+https://www.open-epg.com/files/hongkong1.xml
+
+india1.xml
+https://www.open-epg.com/files/india1.xml
+
+india4.xml
+https://www.open-epg.com/files/india4.xml
+
 philippines3.xml
 https://www.open-epg.com/files/philippines3.xml
 
@@ -60,12 +69,6 @@ https://www.open-epg.com/files/singapore2.xml
 
 singapore3.xml
 https://www.open-epg.com/files/singapore3.xml
-
-unifi_epg.xml
-https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
-
-astro_epg.xml
-https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
 
 i.mjh.nz.xml
 https://i.mjh.nz/all/epg.xml
@@ -99,6 +102,9 @@ https://www.open-epg.com/files/unitedstates4.xml
 
 czech2.xml
 https://www.open-epg.com/files/czech2.xml
+
+france1.xml
+https://www.open-epg.com/files/france1.xml
 
 turkey1.xml
 https://www.open-epg.com/files/turkey1.xml
