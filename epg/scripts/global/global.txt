@@ -122,4 +122,4 @@ indonesia.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
 
 iptvx.one
-https://iptvx.one/EPG
+https://iptvx.one/epg/epg_lite.xml.gz
