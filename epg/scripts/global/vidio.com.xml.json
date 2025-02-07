@@ -5,11 +5,6 @@
 		"channel_id": "ABCAustralia.id"
 	},
 	{
-		"origin": "AJWA TV.id",
-		"channel_name": "Ajwa TV",
-		"channel_id": "AjwaTV.id"
-	},
-	{
 		"origin": "ArirangWorld.kr",
 		"channel_name": "Arirang TV",
 		"channel_id": "ArirangTV.id"
@@ -82,7 +77,7 @@
 	{
 		"origin": "Indosiar.id",
 		"channel_name": "Indosiar HD",
-		"channel_id": "Indosiar.ind"
+		"channel_id": "Indosiar.my.id"
 	},
 	{
 		"origin": "Jaktv.id",
@@ -117,7 +112,7 @@
 	{
 		"origin": "MetroTV.id",
 		"channel_name": "Metro TV HD",
-		"channel_id": "MetroTV.ind"
+		"channel_id": "MetroTV.my.id"
 	},
 	{
 		"origin": "Moji.id",
@@ -172,7 +167,7 @@
 	{
 		"origin": "SCTV.id",
 		"channel_name": "SCTV HD",
-		"channel_id": "SCTV.ind"
+		"channel_id": "SCTV.my.id"
 	},
 	{
 		"origin": "SPOTV2.id",
@@ -191,7 +186,7 @@
 	},
 	{
 		"origin": "Trans7.id",
-		"channel_name": "Trans 7 ᴴᴰ",
+		"channel_name": "Trans7 ᴴᴰ",
 		"channel_id": "Trans7.ind"
 	},
 	{
@@ -202,12 +197,12 @@
 	{
 		"origin": "TVOne.id",
 		"channel_name": "tvOne HD",
-		"channel_id": "tvOne.ind"
+		"channel_id": "tvOne.my.id"
 	},
 	{
 		"origin": "TVRINasional.id",
-		"channel_name": "TVRI Nasional HD",
-		"channel_id": "TVRI.ind"
+		"channel_name": "TVRI Nasional",
+		"channel_id": "TVRI.my.id"
 	},
 	{
 		"origin": "Zee Bioskop",
