@@ -121,5 +121,5 @@ https://xmltv.tvkaista.net/guides/shahid.mbc.net.xml
 indonesia.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
 
-iptvx.one
+epg_lite.xml.gz
 https://iptvx.one/epg/epg_lite.xml.gz
