@@ -17,7 +17,7 @@ dens.tv.xml
 https://xmltv.tvkaista.net/guides/dens.tv.xml
 
 firstmedia.com.xml
-https://xmltv.tvkaista.net/guides/firstmedia.com.xml
+https://raw.githubusercontent.com/warningfm/v2/cloud/firstmedia.com.xml
 
 indihometv.com.xml
 https://xmltv.tvkaista.net/guides/indihometv.com.xml
@@ -126,3 +126,6 @@ https://www.open-epg.com/files/russia3.xml
 
 vidioguide.xml
 https://raw.githubusercontent.com/warningfm/v2/cloud/live/epg/vidio/guide.xml
+
+indihometvguide.xml
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/epg/indihometv/guide.xml
