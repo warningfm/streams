@@ -123,3 +123,5 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
 
 russia3.xml
 https://www.open-epg.com/files/russia3.xml
+
+https://raw.githubusercontent.com/warningfm/v2/cloud/vidio.com.xml
