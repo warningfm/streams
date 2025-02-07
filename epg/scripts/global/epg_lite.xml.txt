@@ -1,0 +1,22 @@
+[
+	{
+		"origin": "tvplay-sports",
+		"channel_name": "Go3 Sport 1",
+		"channel_id": "Go3Sport1.id"
+	},
+	{
+		"origin": "tvplay-sports-plus",
+		"channel_name": "Go3 Sport 2",
+		"channel_id": "Go3Sport2.id"
+	},
+	{
+		"origin": "tv3-sport-3",
+		"channel_name": "Go3 Sport 3",
+		"channel_id": "tv3-sport-3.id"
+	},
+	{
+		"origin": "tv3-sport-open",
+		"channel_name": "GO3 Sport OPEN",
+		"channel_id": "tv3-sport-open.id"
+	}
+]
