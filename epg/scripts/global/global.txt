@@ -1,14 +1,14 @@
 indonesia1.xml
-https://www.open-epg.com/files/indonesia1.xml
+https://www.open-epg.com/files/indonesia1.xml.gz
 
 indonesia2.xml
-https://www.open-epg.com/files/indonesia2.xml
+https://www.open-epg.com/files/indonesia2.xml.gz
 
 indonesia3.xml
-https://www.open-epg.com/files/indonesia3.xml
+https://www.open-epg.com/files/indonesia3.xml.gz
 
 indonesia4.xml
-https://www.open-epg.com/files/indonesia4.xml
+https://www.open-epg.com/files/indonesia4.xml.gz
 
 cubmu.com.xml
 https://xmltv.tvkaista.net/guides/cubmu.com.xml
