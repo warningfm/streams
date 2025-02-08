@@ -71,7 +71,7 @@
 	},
 	{
 		"origin": "BTV.id",
-		"channel_name": "BTV",
+		"channel_name": "BTV ᴴᴰ",
 		"channel_id": "BTV.id"
 	},
 	{
@@ -281,7 +281,7 @@
 	},
 	{
 		"origin": "Indosiar.id",
-		"channel_name": "Indosiar HD",
+		"channel_name": "Indosiar",
 		"channel_id": "Indosiar.ind"
 	},
 	{
@@ -321,7 +321,7 @@
 	},
 	{
 		"origin": "Kplus.id",
-		"channel_name": "Kplus",
+		"channel_name": "KPlus",
 		"channel_id": "KPlus.sg"
 	},
 	{
@@ -346,12 +346,12 @@
 	},
 	{
 		"origin": "Metro TV.id",
-		"channel_name": "Metro TV HD",
-		"channel_id": "MetroTV.my.id"
+		"channel_name": "Metro TV",
+		"channel_id": "MetroTV.id"
 	},
         {
 		"origin": "MOJI.id",
-		"channel_name": "MOJI HD",
+		"channel_name": "MOJI",
 		"channel_id": "Moji.id"
 	},
 	{
@@ -371,8 +371,8 @@
 	},
 	{
 		"origin": "Muhammadiyah TV.id",
-		"channel_name": "tvMu",
-		"channel_id": "tvMu.id"
+		"channel_name": "TVMU",
+		"channel_id": "TVMU.id"
 	},
 	{
 		"origin": "MUI TV.id",
@@ -505,11 +505,6 @@
 		"channel_id": "TransTV.id"
 	},
 	{
-		"origin": "TVN Movies.id",
-		"channel_name": "TVN Movies",
-		"channel_id": "tvNMovies.id"
-	},
-	{
 		"origin": "TV One.id",
 		"channel_name": "tvOne",
 		"channel_id": "tvOne.id"
@@ -518,6 +513,16 @@
 		"origin": "TV9 NU.id",
 		"channel_name": "TV9 Nusantara",
 		"channel_id": "TV9Nusantara.id"
+	},
+        {
+		"origin": "TVN Movies.id",
+		"channel_name": "TVN Movies",
+		"channel_id": "tvNMovies.id"
+	},
+        {
+		"origin": "TVN.id",
+		"channel_name": "tvN",
+		"channel_id": "tvN.id"
 	},
 	{
 		"origin": "TVRI.id",

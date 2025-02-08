@@ -91,7 +91,7 @@
 	},
 	{
 		"origin": "BTV.id",
-		"channel_name": "BTV",
+		"channel_name": "BTV ᴴᴰ",
 		"channel_id": "BTV.id"
 	},
 	{
@@ -361,18 +361,18 @@
 	},
 	{
 		"origin": "My Cinema Asia.id",
-		"channel_name": "My Cinema Asia (v+)",
-		"channel_id": "MyCinemaAsia.idn"
+		"channel_name": "My Cinema Asia",
+		"channel_id": "MyCinemaAsia.id"
 	},
         {
 		"origin": "My Cinema.id",
-		"channel_name": "My Cinema (v+)",
-		"channel_id": "MyCinema.idn"
+		"channel_name": "My Cinema",
+		"channel_id": "MyCinema.id"
 	},
 	{
 		"origin": "My Family Channel.id",
-		"channel_name": "My Family Channel (v+)",
-		"channel_id": "MyFamilyChannel.idn"
+		"channel_name": "My Family Channel",
+		"channel_id": "MyFamilyChannel.id"
 	},
 	{
 		"origin": "My Kidz.id",
@@ -546,7 +546,7 @@
 	},
 	{
 		"origin": "TVN.id",
-		"channel_name": "tvN HD",
+		"channel_name": "tvN",
 		"channel_id": "tvN.id"
 	},
         {

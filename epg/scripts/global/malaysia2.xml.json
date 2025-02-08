@@ -66,7 +66,7 @@
 	},
 	{
 		"origin": "EUROSPORT.my",
-		"channel_name": "Eurosport HD",
+		"channel_name": "Eurosport",
 		"channel_id": "Eurosport.id"
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"origin": "KPLUS.my",
-		"channel_name": "Kplus",
+		"channel_name": "KPlus",
 		"channel_id": "KPlus.sg"
 	},
 	{
@@ -126,7 +126,7 @@
 	},
 	{
 		"origin": "tvN.my",
-		"channel_name": "tvN HD",
+		"channel_name": "tvN",
 		"channel_id": "tvN.id"
 	},
 	{

@@ -71,7 +71,7 @@
 	},
 	{
 		"origin": "BTV.id",
-		"channel_name": "BTV",
+		"channel_name": "BTV ᴴᴰ",
 		"channel_id": "BTV.id"
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"origin": "Cartoonito.uk",
-		"channel_name": "Cartoonito (HD)",
+		"channel_name": "Cartoonito ᴴᴰ",
 		"channel_id": "Cartoonito.sg"
 	},
 	{
@@ -171,7 +171,7 @@
 	},
 	{
 		"origin": "DaVinciAsia.de",
-		"channel_name": "Da Vinci Learning",
+		"channel_name": "Da Vinci Asia",
 		"channel_id": "DaVinciLearning.sg"
 	},
 	{
@@ -207,7 +207,7 @@
 	{
 		"origin": "FightSports.us",
 		"channel_name": "Fight Sports",
-		"channel_id": "FightSports.id"
+		"channel_id": "FightSports.us"
 	},
 	{
 		"origin": "Flik.id",
@@ -223,11 +223,6 @@
 		"origin": "IndiKids.id",
 		"channel_name": "Fun Planet",
 		"channel_id": "FunPlanet.id"
-	},
-	{
-		"origin": "GTV",
-		"channel_name": "GTV",
-		"channel_id": "GTV.id"
 	},
 	{
 		"origin": "HGTVAsia.us",
@@ -281,8 +276,8 @@
 	},
 	{
 		"origin": "Indosiar.id",
-		"channel_name": "Indosiar HD",
-		"channel_id": "Indosiar.my.id"
+		"channel_name": "Indosiar",
+		"channel_id": "Indosiar.id"
 	},
 	{
 		"origin": "iNews.id",
@@ -321,7 +316,7 @@
 	},
 	{
 		"origin": "Kplus.sg",
-		"channel_name": "Kplus",
+		"channel_name": "KPlus",
 		"channel_id": "KPlus.sg"
 	},
 	{
@@ -351,7 +346,7 @@
 	},
         {
 		"origin": "Moji.id",
-		"channel_name": "MOJI HD",
+		"channel_name": "MOJI",
 		"channel_id": "Moji.id"
 	},
 	{
@@ -393,7 +388,7 @@
 	{
 		"origin": "NBATV.us",
 		"channel_name": "NBA TV",
-		"channel_id": "NBATV.id"
+		"channel_id": "NBATV.us"
 	},
 	{
 		"origin": "NET.id",
@@ -507,7 +502,7 @@
 	},
         {
 		"origin": "tvNAsia.hk",
-		"channel_name": "tvN HD",
+		"channel_name": "tvN",
 		"channel_id": "tvN.id"
 	},
 	{

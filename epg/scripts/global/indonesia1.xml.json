@@ -9,15 +9,15 @@
 		"channel_name": "Ajwa TV",
 		"channel_id": "AjwaTV.id"
 	},
+        {
+		"origin": "ANTV.id",
+		"channel_name": "ANTV ᴴᴰ",
+		"channel_id": "ANTV.my.id"
+	},
 	{
 		"origin": "Arirang.id",
 		"channel_name": "Arirang TV",
 		"channel_id": "ArirangTV.id"
-	},
-	{
-		"origin": "ANTV.id",
-		"channel_name": "ANTV ᴴᴰ",
-		"channel_id": "ANTV.my.id"
 	},
 	{
 		"origin": "Bein 1.id",
@@ -36,7 +36,7 @@
 	},
 	{
 		"origin": "BTV.id",
-		"channel_name": "BTV",
+		"channel_name": "BTV ᴴᴰ",
 		"channel_id": "BTV.id"
 	},
 	{
@@ -111,8 +111,13 @@
 	},
 	{
 		"origin": "Moji.id",
-		"channel_name": "MOJI HD",
+		"channel_name": "MOJI",
 		"channel_id": "Moji.id"
+	},
+        {
+		"origin": "NBATV.us",
+		"channel_name": "NBA TV",
+		"channel_id": "NBATV.us"
 	},
 	{
 		"origin": "NET TV.id",
@@ -141,12 +146,12 @@
 	},
 	{
 		"origin": "Rock Action.id",
-		"channel_name": "Rock Action HD",
+		"channel_name": "Rock Action",
 		"channel_id": "RockAction.id"
 	},
 	{
 		"origin": "ROCK Entertainment.id",
-		"channel_name": "Rock Entertainment HD",
+		"channel_name": "Rock Entertainment",
 		"channel_id": "RockEntertainment.id"
 	},
 	{
@@ -181,7 +186,7 @@
 	},
 	{
 		"origin": "TVN.id",
-		"channel_name": "tvN HD",
+		"channel_name": "tvN",
 		"channel_id": "tvN.id"
 	},
 	{
