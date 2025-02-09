@@ -86,8 +86,8 @@
 	},
 	{
 		"origin": "Celestial Movies HD.sg",
-		"channel_name": "Celestial Movies (HD)",
-		"channel_id": "CelestialMovies.sg"
+		"channel_name": "Celestial Movies",
+		"channel_id": "CelestialMovies.id"
 	},
 	{
 		"origin": "Cartoon Network.id",
@@ -96,7 +96,7 @@
 	},
 	{
 		"origin": "Cartoonito.id",
-		"channel_name": "Cartoonito (HD)",
+		"channel_name": "Cartoonito ᴴᴰ",
 		"channel_id": "Cartoonito.sg"
 	},
 	{
@@ -186,7 +186,7 @@
 	},
 	{
 		"origin": "HISTORY HD.sg",
-		"channel_name": "History (v+)",
+		"channel_name": "History",
 		"channel_id": "History.id"
 	},
 	{
@@ -202,7 +202,7 @@
 	{
 		"origin": "KBS World HD.sg",
 		"channel_name": "KBS World",
-		"channel_id": "KBSWorld.kr.sg"
+		"channel_id": "KBSWorld.kr"
 	},
 	{
 		"origin": "KTV HD.sg",

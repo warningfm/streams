@@ -41,7 +41,7 @@
 	},
 	{
 		"origin": "Cartoonito.th",
-		"channel_name": "Cartoonito (HD)",
+		"channel_name": "Cartoonito ᴴᴰ",
 		"channel_id": "Cartoonito.sg"
 	},
 	{
@@ -56,7 +56,7 @@
 	},
   {
 		"origin": "Discovery Asia.th",
-		"channel_name": "Discovery Asia",
+		"channel_name": "Discovery Asia HD",
 		"channel_id": "DiscoveryAsia.id"
 	},
 	{
@@ -125,4 +125,3 @@
 		"channel_id": "WhiteChannel.th"
 	}
 ]
-

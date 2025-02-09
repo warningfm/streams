@@ -175,8 +175,8 @@
 	},
 	{
 		"origin": "Celestial Movies (HD).sg",
-		"channel_name": "Celestial Movies (HD)",
-		"channel_id": "CelestialMovies.sg"
+		"channel_name": "Celestial Movies",
+		"channel_id": "CelestialMovies.id"
 	},
 	{
 		"origin": "CM+.sg",
@@ -280,7 +280,7 @@
 	},
 	{
 		"origin": "Discovery Asia (HD).sg",
-		"channel_name": "Discovery Asia",
+		"channel_name": "Discovery Asia HD",
 		"channel_id": "DiscoveryAsia.sg"
 	},
 	{
@@ -307,11 +307,6 @@
 		"origin": "Deutsche Welle (English).sg",
 		"channel_name": "DW (English)",
 		"channel_id": "DWEnglish.de"
-	},
-	{
-		"origin": "e-Le (HD).sg",
-		"channel_name": "",
-		"channel_id": ""
 	},
 	{
 		"origin": "EUROSPORT (HD).sg",
@@ -521,7 +516,7 @@
 	{
 		"origin": "KBS World (Mandarin) (HD).sg",
 		"channel_name": "KBS World",
-		"channel_id": "KBSWorld.kr.sg"
+		"channel_id": "KBSWorld.kr"
 	},
 	{
 		"origin": "KTV HD.sg",
