@@ -60,6 +60,11 @@
 		"channel_id": "CNA.id"
 	},
 	{
+		"origin": "Drama Hebat.my",
+		"channel_name": "Drama Hebat HD",
+		"channel_id": "DramaHebat.my"
+	},
+	{
 		"origin": "Dreamworks.my",
 		"channel_name": "Dreamworks HD",
 		"channel_id": "DreamWorks.id"
@@ -68,6 +73,16 @@
 		"origin": "EUROSPORT.my",
 		"channel_name": "Eurosport",
 		"channel_id": "Eurosport.id"
+	},
+	{
+		"origin": "Filem Mantap.my",
+		"channel_name": "Filem Mantap HD",
+		"channel_id": "FilemMantap.my"
+	},
+	{
+		"origin": "Global Trekker.my",
+		"channel_name": "Global Trekker",
+		"channel_id": "GlobalTrekker.id"
 	},
 	{
 		"origin": "HITS NOW.my",
