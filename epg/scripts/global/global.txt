@@ -10,8 +10,6 @@ https://www.open-epg.com/files/indonesia3.xml.gz
 indonesia4.xml
 https://www.open-epg.com/files/indonesia4.xml.gz
 
-
-
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
@@ -20,7 +18,6 @@ https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
 
 astro_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
-
 
 hongkong1.xml
 https://www.open-epg.com/files/hongkong1.xml
