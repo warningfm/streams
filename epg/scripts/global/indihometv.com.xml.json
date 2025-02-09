@@ -262,7 +262,7 @@
 	{
 		"origin": "IDTV.id",
 		"channel_name": "Berita Satu HD",
-		"channel_id": "IDTV.ind"
+		"channel_id": "BeritaSatu.ind"
 	},
 	{
 		"origin": "IDXChannel.id",

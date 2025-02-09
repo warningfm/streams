@@ -12,7 +12,7 @@
 	{
 		"origin": "ANTV.id",
 		"channel_name": "ANTV ᴴᴰ",
-		"channel_id": "ANTV.ind"
+		"channel_id": "ANTV.my.id"
 	},
 	{
 		"origin": "beINSports1.id",
@@ -21,7 +21,7 @@
 	},
 	{
 		"origin": "17875",
-		"channel_name": "beIN Sports 2 HR",
+		"channel_name": "beIN Sports 2 HD",
 		"channel_id": "beinSports2.id"
 	},
 	{
@@ -31,7 +31,7 @@
 	},
 	{
 		"origin": "BTV.id",
-		"channel_name": "BTV",
+		"channel_name": "BTV ᴴᴰ",
 		"channel_id": "BTV.id"
 	},
 	{
@@ -111,12 +111,12 @@
 	},
 	{
 		"origin": "MetroTV.id",
-		"channel_name": "Metro TV HD",
+		"channel_name": "Metro TV ᴴᴰ",
 		"channel_id": "MetroTV.my.id"
 	},
 	{
 		"origin": "Moji.id",
-		"channel_name": "MOJI HD",
+		"channel_name": "MOJI",
 		"channel_id": "Moji.id"
 	},
         {
@@ -191,12 +191,12 @@
 	},
 	{
 		"origin": "tvNAsia.hk",
-		"channel_name": "tvN HD",
+		"channel_name": "tvN",
 		"channel_id": "tvN.id"
 	},
 	{
 		"origin": "TVOne.id",
-		"channel_name": "tvOne HD",
+		"channel_name": "tvOne ᴴᴰ",
 		"channel_id": "tvOne.my.id"
 	},
 	{
@@ -207,6 +207,6 @@
 	{
 		"origin": "Zee Bioskop",
 		"channel_name": "Zee Bioskop",
-		"channel_id": "ZeeBioskop.id"
+		"channel_id": "ZeeBioskop.in.id"
 	}
 ]
