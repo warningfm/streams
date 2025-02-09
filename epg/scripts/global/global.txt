@@ -10,11 +10,7 @@ https://www.open-epg.com/files/indonesia3.xml.gz
 indonesia4.xml
 https://www.open-epg.com/files/indonesia4.xml.gz
 
-cubmu.com.xml
-https://xmltv.tvkaista.net/guides/cubmu.com.xml
 
-vidio.com.xml
-https://xmltv.tvkaista.net/guides/vidio.com.xml
 
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
@@ -25,17 +21,6 @@ https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
 astro_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
 
-astro.com.my.xml
-https://xmltv.tvkaista.net/guides/content.astro.com.my.xml
-
-mewatch.sg.xml
-https://xmltv.tvkaista.net/guides/mewatch.sg.xml
-
-starhubtvplus.com.xml
-https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml
-
-singtel.com.xml
-https://xmltv.tvkaista.net/guides/singtel.com.xml
 
 hongkong1.xml
 https://www.open-epg.com/files/hongkong1.xml
@@ -73,6 +58,9 @@ https://i.mjh.nz/Singtel/epg.xml
 us.xml
 https://i.mjh.nz/PlutoTV/us.xml
 
+russia3.xml
+https://www.open-epg.com/files/russia3.xml
+
 uaepremium2.xml
 https://www.open-epg.com/files/uaepremium2.xml
 
@@ -103,17 +91,29 @@ https://www.open-epg.com/files/france1.xml
 turkey1.xml
 https://www.open-epg.com/files/turkey1.xml
 
+astro.com.my.xml
+https://xmltv.tvkaista.net/guides/content.astro.com.my.xml
+
+mewatch.sg.xml
+https://xmltv.tvkaista.net/guides/mewatch.sg.xml
+
+starhubtvplus.com.xml
+https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml
+
+singtel.com.xml
+https://xmltv.tvkaista.net/guides/singtel.com.xml
+
 mysky.com.ph.xml
 https://xmltv.tvkaista.net/guides/mysky.com.ph.xml
 
 shahid.mbc.net.xml
 https://xmltv.tvkaista.net/guides/shahid.mbc.net.xml
 
-indonesia.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
+cubmu.com.xml
+https://xmltv.tvkaista.net/guides/cubmu.com.xml
 
-russia3.xml
-https://www.open-epg.com/files/russia3.xml
+vidio.com.xml
+https://xmltv.tvkaista.net/guides/vidio.com.xml
 
 vidioguide.xml
 https://raw.githubusercontent.com/warningfm/v2/cloud/live/epg/vidio/guide.xml
