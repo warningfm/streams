@@ -107,7 +107,7 @@ shahid.mbc.net.xml
 https://xmltv.tvkaista.net/guides/shahid.mbc.net.xml
 
 cubmu.com.xml
-https://xmltv.tvkaista.net/guides/cubmu.com.xml
+https://raw.githubusercontent.com/warningfm/v2/cloud/cubmu.xml
 
 indihometv.com.xml
 https://raw.githubusercontent.com/warningfm/v2/cloud/indihometv.com.xml
