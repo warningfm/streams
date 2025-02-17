@@ -30,7 +30,7 @@ jobs:
           python3 -m pip install lxml pgzip requests
           echo "Generating EPG..."
           python3 -u index.py -zo guide.xml --source="global/global.txt" --gen-name="iptv.nng.cloudns.us" --gen-url="iptv.nng.cloudns.us"
-          mv -v guide.xml ..
+          mv -v guide.xml.gz ..
           cd ../..
       - name: commit
         run: |
