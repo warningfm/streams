@@ -32,7 +32,13 @@ epg_ripper_ALJAZEERA1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz
 
 i.mjh.nz.xml
-https://i.mjh.nz/all/epg.xml.gz
+https://i.mjh.nz/all/epg.xml
+
+SamsungTVPlusall.xml
+https://i.mjh.nz/SamsungTVPlus/all.xml
+
+us.xml
+https://i.mjh.nz/PlutoTV/us.xml
 
 unifi_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
