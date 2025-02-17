@@ -36,7 +36,7 @@
 	},
 	{
 		"origin": "BTV.id",
-		"channel_name": "BTV ᴴᴰ",
+		"channel_name": "BTV",
 		"channel_id": "BTV.id"
 	},
 	{
@@ -176,7 +176,7 @@
 	},
 	{
 		"origin": "TRANS TV.id",
-		"channel_name": "Trans TV",
+		"channel_name": "TransTV",
 		"channel_id": "TransTV.id"
 	},
 	{
@@ -191,7 +191,7 @@
 	},
 	{
 		"origin": "TVOne.id",
-		"channel_name": "tvOne ᴴᴰ",
+		"channel_name": "TVOne ᴴᴰ",
 		"channel_id": "tvOne.my.id"
 	},
 	{
