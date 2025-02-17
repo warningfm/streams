@@ -30,10 +30,10 @@ jobs:
           python3 -m pip install lxml pgzip requests
           echo "Generating EPG..."
           python3 -u index.py -zo guide.xml --source="global/global.txt" --gen-name="iptv.nng.cloudns.us" --gen-url="iptv.nng.cloudns.us"
-          mv -v guide.xml.gz ..
+          mv -v guide.xml ..
           cd ../..
       - name: commit
         run: |
           git add -A
-          git commit -m "Generate EPG every day"
+          git commit -m "Generate EPG Saben dino"
           git push
