@@ -1,0 +1,14 @@
+indonesia1.xml
+https://www.open-epg.com/files/indonesia1.xml.gz
+
+indonesia2.xml
+https://www.open-epg.com/files/indonesia2.xml.gz
+
+indonesia3.xml
+https://www.open-epg.com/files/indonesia3.xml.gz
+
+indonesia4.xml
+https://www.open-epg.com/files/indonesia4.xml.gz
+
+epg_ripper_ID1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz
