@@ -109,6 +109,26 @@
 		"channel_name": "CGTN",
 		"channel_id": "CGTN.id"
 	},
+        {
+		"origin": "Channel 5 HD.sg",
+		"channel_name": "Channel 5",
+		"channel_id": "Channel5HD.sg"
+	},
+	{
+		"origin": "Channel 8 HD.sg",
+		"channel_name": "Channel 8",
+		"channel_id": "Channel8HD.sg"
+	},
+        {
+		"origin": "Channel News Asia HD.sg",
+		"channel_name": "CNA",
+		"channel_id": "CNA.sg"
+	},
+        {
+		"origin": "Channel U HD.sg",
+		"channel_name": "Channel U",
+		"channel_id": "ChannelUHD.sg"
+	},
 	{
 		"origin": "Citra Entertainment.sg",
 		"channel_name": "Citra Entertainment",
@@ -303,6 +323,21 @@
 		"origin": "SPOTV2.sg",
 		"channel_name": "SPOTV 2 HD",
 		"channel_id": "SPOTV2.id"
+	},
+        {
+		"origin": "Suria HD.sg",
+		"channel_name": "Suria",
+		"channel_id": "SuriaHD.sg"
+	},
+        {
+		"origin": "Travelxp HD.sg",
+		"channel_name": "Travelxp",
+		"channel_id": "TravelxpHD.sg"
+	},
+        {
+		"origin": "Vasantham HD.sg",
+		"channel_name": "Vasantham",
+		"channel_id": "VasanthamHD.sg"
 	},
 	{
 		"origin": "Zee Cinema.sg",
