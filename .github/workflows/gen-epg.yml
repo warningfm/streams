@@ -35,5 +35,5 @@ jobs:
       - name: commit
         run: |
           git add -A
-          git commit -m "Generate EPG Saben dino"
+          git commit -m "Generate EPG every day"
           git push
