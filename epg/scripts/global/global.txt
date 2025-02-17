@@ -30,3 +30,12 @@ https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz
 
 epg_ripper_ALJAZEERA1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz
+
+i.mjh.nz.xml
+https://i.mjh.nz/all/epg.xml.gz
+
+unifi_epg.xml
+https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
+
+astro_epg.xml
+https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
