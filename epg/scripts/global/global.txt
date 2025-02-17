@@ -12,3 +12,9 @@ https://www.open-epg.com/files/indonesia4.xml.gz
 
 epg_ripper_ID1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz
+
+epg_ripper_MY1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz
+
+epg_ripper_ALJAZEERA1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz
