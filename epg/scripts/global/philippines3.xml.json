@@ -60,16 +60,6 @@
 		"channel_id": "CCM.id"
 	},
 	{
-		"origin": "CGTN Documentary.id",
-		"channel_name": "CGTN Documentary",
-		"channel_id": "CGTNDocumentary.id"
-	},
-	{
-		"origin": "Chinese Drama.id",
-		"channel_name": "Chinese Drama",
-		"channel_id": "ChineseDrama.id"
-	},
-	{
 		"origin": "CINEMA WORLD HD.ph",
 		"channel_name": "CinemaWorld",
 		"channel_id": "Cinemaworld.id"
