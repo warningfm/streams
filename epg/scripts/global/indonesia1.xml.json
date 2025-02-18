@@ -11,8 +11,8 @@
 	},
         {
 		"origin": "ANTV.id",
-		"channel_name": "ANTV",
-		"channel_id": "ANTV.id"
+		"channel_name": "ANTV ᴴᴰ",
+		"channel_id": "ANTV.my.id"
 	},
 	{
 		"origin": "Arirang.id",
@@ -156,8 +156,8 @@
 	},
 	{
 		"origin": "RTV.id",
-		"channel_name": "RTV",
-		"channel_id": "RTV.id"
+		"channel_name": "RTV 🇮🇩",
+		"channel_id": "RTV.my.id"
 	},
 	{
 		"origin": "SCTV.id",
@@ -191,7 +191,7 @@
 	},
 	{
 		"origin": "TVOne.id",
-		"channel_name": "TVOne ᴴᴰ",
+		"channel_name": "tvOne ᴴᴰ",
 		"channel_id": "tvOne.my.id"
 	},
 	{
