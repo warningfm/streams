@@ -11,8 +11,8 @@
 	},
         {
 		"origin": "ANTV.id",
-		"channel_name": "ANTV ᴴᴰ",
-		"channel_id": "ANTV.my.id"
+		"channel_name": "ANTV",
+		"channel_id": "ANTV.id"
 	},
 	{
 		"origin": "Arirang.id",
@@ -191,12 +191,12 @@
 	},
 	{
 		"origin": "TVOne.id",
-		"channel_name": "tvOne ᴴᴰ",
+		"channel_name": "TVOne ᴴᴰ",
 		"channel_id": "tvOne.my.id"
 	},
 	{
 		"origin": "TVRI.id",
 		"channel_name": "TVRI Nasional",
-		"channel_id": "TVRI.my.id"
+		"channel_id": "TVRINasional.id"
 	}
 ]
