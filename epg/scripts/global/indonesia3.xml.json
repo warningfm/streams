@@ -2,7 +2,7 @@
 	{
 		"origin": "ABC Australia.id",
 		"channel_name": "ABC Australia",
-		"channel_id": "ABCAustralia.id"
+		"channel_id": "ABC.Australia.id"
 	},
 	{
 		"origin": "Aljazeera.id",
@@ -111,8 +111,8 @@
 	},
 	{
 		"origin": "Cinema World.id",
-		"channel_name": "CinemaWorld",
-		"channel_id": "Cinemaworld.id"
+		"channel_name": "Cinema World",
+		"channel_id": "Cinema.World.id"
 	},
 	{
 		"origin": "Citra Dangdut.id",
@@ -266,8 +266,8 @@
 	},
 	{
 		"origin": "IDTV.id",
-		"channel_name": "Berita Satu HD",
-		"channel_id": "BeritaSatu.ind"
+		"channel_name": "BeritaSatu",
+		"channel_id": "BeritaSatu.id"
 	},
 	{
 		"origin": "IDX.id",
@@ -406,8 +406,8 @@
 	},
 	{
 		"origin": "Nusantara TV.id",
-		"channel_name": "NusantaraTV",
-		"channel_id": "NTV.id"
+		"channel_name": "Nusantara TV",
+		"channel_id": "Nusantara.TV.id"
 	},
 	{
 		"origin": "Prambors.id",

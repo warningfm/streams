@@ -2,7 +2,7 @@
 	{
 		"origin": "ABC.id",
 		"channel_name": "ABC Australia",
-		"channel_id": "ABCAustralia.id"
+		"channel_id": "ABC.Australia.id"
 	},
 	{
 		"origin": "Al Quran Al Kareem.id",
@@ -107,7 +107,7 @@
         {
 		"origin": "Celebrities TV.id",
 		"channel_name": "Celebrities TV",
-		"channel_id": "CelebritiesTV.id"
+		"channel_id": "Celebrities.TV.id"
 	},
 	{
 		"origin": "Celestial Movies.id",
