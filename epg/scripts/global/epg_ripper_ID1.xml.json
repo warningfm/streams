@@ -306,7 +306,7 @@
 	},
 	{
 		"origin": "FashionTV.id",
-		"channel_name": "FashionTV HD",
+		"channel_name": "FashionTV Asia",
 		"channel_id": "FashionTVAsia.fr"
 	},
 	{
@@ -551,8 +551,8 @@
 	},
 	{
 		"origin": "NET.TV.id",
-		"channel_name": "NET.",
-		"channel_id": "NET.id"
+		"channel_name": "MDTV",
+		"channel_id": "MDTV.id"
 	},
 	{
 		"origin": "News.Asia.id",
@@ -721,7 +721,27 @@
 	},
 	{
 		"origin": "TVRI.id",
-		"channel_name": "TVRI",
-		"channel_id": "TVRI.id"
+		"channel_name": "TVRI Nasional",
+		"channel_id": "TVRINasional.id"
+	},
+	{
+		"origin": "Vision.Prime.id",
+		"channel_name": "Vision Prime",
+		"channel_id": "VisionPrime.id"
+	},
+	{
+		"origin": "Vision.Prime.HD.id",
+		"channel_name": "Vision Prime",
+		"channel_id": "VisionPrime.id"
+	},
+	{
+		"origin": "Zee.Bioskop.id",
+		"channel_name": "Zee Bioskop",
+		"channel_id": "ZeeBioskop.in.id"
+	},
+	{
+		"origin": "Zoomoo.id",
+		"channel_name": "ZooMoo",
+		"channel_id": "ZooMoo.id"
 	}
 ]
