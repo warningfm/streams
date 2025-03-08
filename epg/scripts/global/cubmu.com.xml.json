@@ -36,7 +36,7 @@
 	},
 	{
 		"origin": "BTV.id",
-		"channel_name": "BTV ᴴᴰ",
+		"channel_name": "BTV",
 		"channel_id": "BTV.id"
 	},
 	{
@@ -61,7 +61,7 @@
 	},
 	{
 		"origin": "CNA.sg",
-		"channel_name": "CNA HG",
+		"channel_name": "CNA HD",
 		"channel_id": "CNA.id"
 	},
 	{
@@ -122,7 +122,7 @@
 	{
 		"origin": "Indosiar.id",
 		"channel_name": "Indosiar",
-		"channel_id": "Indosiar.in"
+		"channel_id": "Indosiar.id"
 	},
 	{
 		"origin": "JakTV.id",
@@ -201,12 +201,12 @@
 	},
 	{
 		"origin": "Trans7.id",
-		"channel_name": "Trans 7",
+		"channel_name": "Trans7",
 		"channel_id": "Trans7.id"
 	},
 	{
 		"origin": "TransTV.id",
-		"channel_name": "Trans TV",
+		"channel_name": "TransTV",
 		"channel_id": "TransTV.id"
 	},
 	{
