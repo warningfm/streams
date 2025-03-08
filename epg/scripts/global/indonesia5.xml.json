@@ -1,0 +1,251 @@
+[
+	{
+		"origin": "ANTV.id",
+		"channel_name": "ANTV",
+		"channel_id": "ANTV.id"
+	},
+	{
+		"origin": "AXN.id",
+		"channel_name": "AXN Asia",
+		"channel_id": "AXN.id"
+	},
+	{
+		"origin": "beIN Sports 1.id",
+		"channel_name": "beIN Sports 1 HD",
+		"channel_id": "beinSports1.id"
+	},
+	{
+		"origin": "beIN Sports 2.id",
+		"channel_name": "beIN Sports 2 HD",
+		"channel_id": "beinSports2.id"
+	},
+	{
+		"origin": "beIN Sports 3.id",
+		"channel_name": "beIN Sports 3 HD",
+		"channel_id": "beinSports3.id"
+	},
+	{
+		"origin": "BTV.id",
+		"channel_name": "BTV",
+		"channel_id": "BTV.id"
+	},
+	{
+		"origin": "Cinemax.id",
+		"channel_name": "Cinemax",
+		"channel_id": "Cinemax.id"
+	},
+	{
+		"origin": "CNN.id",
+		"channel_name": "CNN Indonesia",
+		"channel_id": "CNNIndonesia.id"
+	},
+	{
+		"origin": "Galaxy Premium.id",
+		"channel_name": "Galaxy Premium",
+		"channel_id": "GalaxyPremium.id"
+	},
+	{
+		"origin": "Galaxy.id",
+		"channel_name": "Galaxy",
+		"channel_id": "Galaxy.id"
+	},
+	{
+		"origin": "Garuda TV.id",
+		"channel_name": "Garuda TV",
+		"channel_id": "GarudaTV.id"
+	},
+	{
+		"origin": "GTV.id",
+		"channel_name": "GTV",
+		"channel_id": "GTV.id"
+	},
+	{
+		"origin": "HBO Family.id",
+		"channel_name": "HBO Family",
+		"channel_id": "HBOFamily.de"
+	},
+	{
+		"origin": "HBO Hits.id",
+		"channel_name": "HBO Hits",
+		"channel_id": "HBOHits.id"
+	},
+	{
+		"origin": "HBO Signature.id",
+		"channel_name": "HBO Signature",
+		"channel_id": "HBOSignature.id"
+	},
+	{
+		"origin": "HBO.id",
+		"channel_name": "HBO",
+		"channel_id": "HBO.id"
+	},
+	{
+		"origin": "HITS.id",
+		"channel_name": "HITS",
+		"channel_id": "HITS.id"
+	},
+	{
+		"origin": "HITS Movies.id",
+		"channel_name": "Hits Movies",
+		"channel_id": "HITSMovies.id"
+	},
+	{
+		"origin": "HITS Now.id",
+		"channel_name": "HITS Now",
+		"channel_id": "HITSNow.id"
+	},
+	{
+		"origin": "Indosiar.id",
+		"channel_name": "Indosiar",
+		"channel_id": "Indosiar.id"
+	},
+	{
+		"origin": "iNews.id",
+		"channel_name": "iNews",
+		"channel_id": "iNews.id"
+	},
+	{
+		"origin": "Kompas TV.id",
+		"channel_name": "Kompas TV",
+		"channel_id": "KompasTV.id"
+	},
+	{
+		"origin": "Lifetime.id",
+		"channel_name": "Lifetime",
+		"channel_id": "Lifetime.id"
+	},
+	{
+		"origin": "MDTV.id",
+		"channel_name": "MDTV",
+		"channel_id": "MDTV.id"
+	},
+	{
+		"origin": "Mentari TV.id",
+		"channel_name": "Mentari TV",
+		"channel_id": "MentariTV.id"
+	},
+	{
+		"origin": "Metro TV.id",
+		"channel_name": "MetroTV",
+		"channel_id": "MetroTV.my.id"
+	},
+	{
+		"origin": "MNC TV.id",
+		"channel_name": "MNCTV",
+		"channel_id": "MNCTV.id"
+	},
+	{
+		"origin": "Moji.id",
+		"channel_name": "MOJI",
+		"channel_id": "Moji.id"
+	},
+	{
+		"origin": "My Cinema Asia.id",
+		"channel_name": "My Cinema Asia",
+		"channel_id": "MyCinemaAsia.id"
+	},
+        {
+		"origin": "My Cinema.id",
+		"channel_name": "My Cinema",
+		"channel_id": "MyCinema.id"
+	},
+	{
+		"origin": "My Family Channel.id",
+		"channel_name": "My Family Channel",
+		"channel_id": "MyFamilyChannel.id"
+	},
+        {
+		"origin": "My Kidz.id",
+		"channel_name": "My Kidz",
+		"channel_id": "MyKidz.id"
+	},
+	{
+		"origin": "Nusantara TV.id",
+		"channel_name": "Nusantara TV",
+		"channel_id": "Nusantara.TV.id"
+	},
+	{
+		"origin": "RCTI.id",
+		"channel_name": "RCTI",
+		"channel_id": "RCTI.id"
+	},
+	{
+		"origin": "Rock Action.id",
+		"channel_name": "Rock Action",
+		"channel_id": "RockAction.id"
+	},
+	{
+		"origin": "Rock Entertainment.id",
+		"channel_name": "Rock Entertainment",
+		"channel_id": "RockEntertainment.id"
+	},
+	{
+		"origin": "RTV.id",
+		"channel_name": "RTV",
+		"channel_id": "RTV.id"
+	},
+	{
+		"origin": "SCTV.id",
+		"channel_name": "SCTV",
+		"channel_id": "SCTV.id"
+	},
+	{
+		"origin": "SEA Today.id",
+		"channel_name": "SEA Today",
+		"channel_id": "SEAToday.id"
+	},
+	{
+		"origin": "Sindonews TV.id",
+		"channel_name": "SindoNews TV",
+		"channel_id": "SindoNews.id"
+	},
+	{
+		"origin": "SpoTV 2.id",
+		"channel_name": "SPOTV 2 HD",
+		"channel_id": "SPOTV2.id"
+	},
+	{
+		"origin": "SpoTV.id",
+		"channel_name": "SPOTV HD",
+		"channel_id": "SPOTV.id"
+	},
+	{
+		"origin": "Trans TV.id",
+		"channel_name": "TransTV",
+		"channel_id": "TransTV.id"
+	},
+	{
+		"origin": "Trans7.id",
+		"channel_name": "Trans7",
+		"channel_id": "Trans7.my.id"
+	},
+	{
+		"origin": "tvN Movies.id",
+		"channel_name": "TVN Movies",
+		"channel_id": "tvNMovies.id"
+	},
+	{
+		"origin": "tvN.id",
+		"channel_name": "tvN",
+		"channel_id": "tvN.id"
+	},
+	{
+		"origin": "TvOne.id",
+		"channel_name": "TVOne ᴴᴰ",
+		"channel_id": "tvOne.my.id"
+	},
+	{
+		"origin": "TVRI.id",
+		"channel_name": "TVRI Nasional",
+		"channel_id": "TVRINasional.id"
+	},
+	{
+		"origin": "VTV.id",
+		"channel_name": "VTV",
+		"channel_id": "VTV.id"
+	},
+	{
+		"origin": "Zee Bioskop.id",
+		"channel_name": "Zee Bioskop",
+		"channel_id": "ZeeBioskop.in.id"
+	}

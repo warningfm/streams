@@ -1,0 +1,50 @@
+ANTV.id;ANTV.id
+AXN.id;AXN.id
+beIN Sports 1.id;beIN Sports 1.id
+beIN Sports 2.id;beIN Sports 2.id
+beIN Sports 3.id;beIN Sports 3.id
+BTV.id;BTV.id
+Cinemax.id;Cinemax.id
+CNN.id;CNN.id
+Galaxy Premium.id;Galaxy Premium.id
+Galaxy.id;Galaxy.id
+Garuda TV.id;Garuda TV.id
+GTV.id;GTV.id
+HBO Family.id;HBO Family.id
+HBO Hits.id;HBO Hits.id
+HBO Signature.id;HBO Signature.id
+HBO.id;HBO.id
+HITS Movies.id;HITS Movies.id
+HITS Now.id;HITS Now.id
+HITS.id;HITS.id
+Indosiar.id;Indosiar.id
+iNews.id;iNews.id
+Kompas TV.id;Kompas TV.id
+Lifetime.id;Lifetime.id
+MDTV.id;MDTV.id
+Mentari TV.id;Mentari TV.id
+Metro TV.id;Metro TV.id
+MNC TV.id;MNC TV.id
+Moji.id;Moji.id
+My Cinema Asia.id;My Cinema Asia.id
+My Cinema.id;My Cinema.id
+My Family Channel.id;My Family Channel.id
+My Kidz.id;My Kidz.id
+Nusantara TV.id;Nusantara TV.id
+RCTI.id;RCTI.id
+Rock Action.id;Rock Action.id
+Rock Entertainment.id;Rock Entertainment.id
+RTV.id;RTV.id
+SCTV.id;SCTV.id
+SEA Today.id;SEA Today.id
+Sindonews TV.id;Sindonews TV.id
+SpoTV 2.id;SpoTV 2.id
+SpoTV.id;SpoTV.id
+Trans TV.id;Trans TV.id
+Trans7.id;Trans7.id
+tvN Movies.id;tvN Movies.id
+tvN.id;tvN.id
+TvOne.id;TvOne.id
+TVRI.id;TVRI.id
+VTV.id;VTV.id
+Zee Bioskop.id;Zee Bioskop.id
