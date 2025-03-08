@@ -1,3 +1,6 @@
+epg_ripper_ID1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz
+
 indonesia1.xml
 https://www.open-epg.com/files/indonesia1.xml.gz
 
@@ -9,6 +12,9 @@ https://www.open-epg.com/files/indonesia3.xml.gz
 
 indonesia4.xml
 https://www.open-epg.com/files/indonesia4.xml.gz
+
+indonesia5.xml
+https://www.open-epg.com/files/indonesia5.xml.gz
 
 malaysia2.xml
 https://www.open-epg.com/files/malaysia2.xml.gz
@@ -55,8 +61,6 @@ https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
 astro_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
 
-epg_ripper_ID1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz
 
 epg_ripper_MY1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz
