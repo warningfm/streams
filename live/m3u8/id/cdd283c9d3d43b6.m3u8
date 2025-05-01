@@ -2,4 +2,4 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2400567,RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio1"
-https://raw.githubusercontent.com/warningfm/kano/main/video/ts/t7.m3u8
+http://cdn.nng.cloudns.us/video/ts/t7.m3u8
