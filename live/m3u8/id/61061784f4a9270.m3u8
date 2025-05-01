@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=991124,FRAME-RATE=25.000,RESOLUTION=960x540
-https://livestream.transtv.co.id/stream/live/ttv.m3u8
+https://raw.githubusercontent.com/warningfm/kano/main/video/ts/ttv.m3u8
