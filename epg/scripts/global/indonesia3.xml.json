@@ -416,8 +416,8 @@
 	},
 	{
 		"origin": "Rajawali TV.id",
-		"channel_name": "RTV",
-		"channel_id": "RTV.id"
+		"channel_name": "RTV 🇮🇩",
+		"channel_id": "RTV.my.id"
 	},
 	{
 		"origin": "Rock Action.id",
@@ -526,8 +526,8 @@
 	},
 	{
 		"origin": "TVRI.id",
-		"channel_name": "TVRI Nasional",
-		"channel_id": "TVRINasional.id"
+		"channel_name": "TVRI Nasional 🇮🇩",
+		"channel_id": "TVRI.my.id"
 	},
 	{
 		"origin": "UChannel.id",

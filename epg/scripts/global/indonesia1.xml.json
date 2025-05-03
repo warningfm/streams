@@ -1,13 +1,13 @@
 [
 	{
-		"origin": "ABC Australia.id",
-		"channel_name": "ABC Australia",
-		"channel_id": "ABC.Australia.id"
-	},
-	{
 		"origin": "AJWA TV.id",
 		"channel_name": "Ajwa TV",
 		"channel_id": "AjwaTV.id"
+	},
+	{
+		"origin": "Aljazeera.id",
+		"channel_name": "Aljazeera",
+		"channel_id": "Aljazeera.id"
 	},
         {
 		"origin": "ANTV.id",
@@ -33,6 +33,11 @@
 		"origin": "Bein 3.id",
 		"channel_name": "beIN Sports 3 HD",
 		"channel_id": "beinSports3.id"
+	},
+        {
+		"origin": "Berita Satu.id",
+		"channel_name": "BeritaSatu",
+		"channel_id": "BeritaSatu.id"
 	},
 	{
 		"origin": "BTV.id",
@@ -65,9 +70,19 @@
 		"channel_id": "ChampionsTV6.id"
 	},
 	{
-		"origin": "DW English.id",
-		"channel_name": "DW (English)",
-		"channel_id": "DWEnglish.de"
+		"origin": "DAAI TV.id",
+		"channel_name": "DAAI TV",
+		"channel_id": "DAAITV.id"
+	},
+        {
+		"origin": "Garuda TV.id",
+		"channel_name": "Garuda TV",
+		"channel_id": "GarudaTV.id"
+	},
+        {
+		"origin": "GGS TV.id",
+		"channel_name": "GGS TV",
+		"channel_id": "GGSTV.id"
 	},
 	{
 		"origin": "Horee.id",
@@ -91,13 +106,18 @@
 	},
 	{
 		"origin": "Kompas TV.id",
-		"channel_name": "Kompas TV",
-		"channel_id": "KompasTV.id"
+		"channel_name": "KompasTV",
+		"channel_id": "KompasTV.my.id"
 	},
 	{
 		"origin": "Makkah TV.id",
 		"channel_name": "Makkah TV",
 		"channel_id": "MakkahTV.id"
+	},
+        {
+		"origin": "MDTV.id",
+		"channel_name": "MDTV",
+		"channel_id": "MDTV.id"
 	},
 	{
 		"origin": "Mentari TV.id",
@@ -115,14 +135,9 @@
 		"channel_id": "Moji.id"
 	},
         {
-		"origin": "NBATV.us",
+		"origin": "NBA TV.id",
 		"channel_name": "NBA TV",
-		"channel_id": "NBATV.us"
-	},
-	{
-		"origin": "NET TV.id",
-		"channel_name": "NET.",
-		"channel_id": "NET.id"
+		"channel_id": "NBATV.id"
 	},
 	{
 		"origin": "News Asia.id",
@@ -135,24 +150,9 @@
 		"channel_id": "Nusantara.TV.id"
 	},
 	{
-		"origin": "Premier League TV.id",
-		"channel_name": "Premier League TV",
-		"channel_id": "PremierLeagueTV.id"
-	},
-	{
-		"origin": "RANS Channel.id",
-		"channel_name": "RANS Channel",
-		"channel_id": "RansChannel.id"
-	},
-	{
 		"origin": "Rock Action.id",
 		"channel_name": "Rock Action",
 		"channel_id": "RockAction.id"
-	},
-	{
-		"origin": "ROCK Entertainment.id",
-		"channel_name": "Rock Entertainment",
-		"channel_id": "RockEntertainment.id"
 	},
 	{
 		"origin": "RTV.id",
@@ -177,12 +177,12 @@
 	{
 		"origin": "TRANS TV.id",
 		"channel_name": "TransTV",
-		"channel_id": "TransTV.id"
+		"channel_id": "TransTV.my.id"
 	},
 	{
 		"origin": "Trans7.id",
-		"channel_name": "Trans7",
-		"channel_id": "Trans7.my.id"
+		"channel_name": "Trans 7",
+		"channel_id": "Trans7.id"
 	},
 	{
 		"origin": "TVN.id",
@@ -196,7 +196,7 @@
 	},
 	{
 		"origin": "TVRI.id",
-		"channel_name": "TVRI Nasional",
-		"channel_id": "TVRINasional.id"
+		"channel_name": "TVRI Nasional 🇮🇩",
+		"channel_id": "TVRI.my.id"
 	}
 ]
