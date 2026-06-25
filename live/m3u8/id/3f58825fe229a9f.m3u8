@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=705720,FRAME-RATE=30.000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x360
-http://op-flashcon-digdayahd-1.dens.tv/s/s11/02.m3u8?app_type=web&userid=lite&chname=TVRI
+http://op-flashcon-digdayahd-1.dens.tv/h/h17/02.m3u8?app_type=web&userid=lite&chname=TVRI
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000,FRAME-RATE=30.000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=1280x720
-http://op-flashcon-digdayahd-1.dens.tv/s/s11/01.m3u8?app_type=web&userid=lite&chname=TVRI
+http://op-flashcon-digdayahd-1.dens.tv/h/h17/01.m3u8?app_type=web&userid=lite&chname=TVRI
