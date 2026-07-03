@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1492000,RESOLUTION=1280x720,FRAME-RATE=25.000
-http://op-flashcon-digdayahd-1.dens.tv/h/h209/02.m3u8?app_type=web&userid=lite&chname=Berita-Satu
+https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/v1/stream.m3u8?app_type=web&userid=lite&chname=Berita-Satu
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=878000,RESOLUTION=640x360,FRAME-RATE=25.000
-http://op-flashcon-digdayahd-1.dens.tv/h/h209/01.m3u8?app_type=web&userid=lite&chname=Berita-Satu
+https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/v0/stream.m3u88?app_type=web&userid=lite&chname=Berita-Satu
