@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200567,FRAME-RATE=25.000,RESOLUTION=854x480
-http://op-flashcon-digdayahd-1.dens.tv/h/h20/01.m3u8
+http://op-flashcon-digdayahd-1.dens.tv/h/h20/01.m3u8?app_type=web&userid=lite&chname=TRT-World
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500567,FRAME-RATE=25.000,RESOLUTION=960x540
-http://op-flashcon-digdayahd-1.dens.tv/h/h20/01.m3u8
+http://op-flashcon-digdayahd-1.dens.tv/h/h20/01.m3u8?app_type=web&userid=lite&chname=TRT-World
