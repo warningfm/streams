@@ -1,7 +1,8 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,FRAME-RATE=25.000,RESOLUTION=320x240
-http://edge.linknetott.swiftserve.com/channelgroup2/cg235production/ch3300/01.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=959819,FRAME-RATE=25.000,RESOLUTION=960x540
-http://edge.linknetott.swiftserve.com/channelgroup2/cg235production/ch3300/02.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,FRAME-RATE=25.000,RESOLUTION=960x540
-http://edge.linknetott.swiftserve.com/channelgroup2/cg235production/ch3300/03.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1800000,CODECS="avc1.4d001f,mp4a.40.2",FRAME-RATE=25.000,RESOLUTION=854x480
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b1800000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=25.000,RESOLUTION=1280x720
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b2500000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=25.000,RESOLUTION=1920x1080
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
