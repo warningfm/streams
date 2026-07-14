@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1492000,FRAME-RATE=25.000,RESOLUTION=1280x720
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w51734171_b744100_sleng.m3u8
+https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w1557662897_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQwMTA2MTc3MDcmd293emF0b2tlbmhhc2g9LVZGVnlwWS1jWnhhSWxPSUtvODlJZXNHX3hkQmVHd0pMUzkzSl85SU9sVT0=.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1128000,FRAME-RATE=25.000,RESOLUTION=854x480
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w51734171_b544100_sleng.m3u8
+https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w1557662897_b544100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQwMTA2MTc3MDcmd293emF0b2tlbmhhc2g9LVZGVnlwWS1jWnhhSWxPSUtvODlJZXNHX3hkQmVHd0pMUzkzSl85SU9sVT0=.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=628000,FRAME-RATE=25.000,RESOLUTION=640x360
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w51734171_b344100_sleng.m3u8
+https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w1557662897_b344100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQwMTA2MTc3MDcmd293emF0b2tlbmhhc2g9LVZGVnlwWS1jWnhhSWxPSUtvODlJZXNHX3hkQmVHd0pMUzkzSl85SU9sVT0=.m3u8
