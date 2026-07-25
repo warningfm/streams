@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=878000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=30.000
-https://d3dlxh2qgfbmej.cloudfront.net/live-out/14268d4d7a1c76c3f806d316fba6c56fd5953236/360p.m3u8
+https://d3dlxh2qgfbmej.cloudfront.net/live-master/14268d4d7a1c76c3f806d316fba6c56fd5953236/360p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1492000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=30.000
-https://d3dlxh2qgfbmej.cloudfront.net/live-out/14268d4d7a1c76c3f806d316fba6c56fd5953236/480p.m3u8
+https://d3dlxh2qgfbmej.cloudfront.net/live-master/14268d4d7a1c76c3f806d316fba6c56fd5953236/480p.m3u8
