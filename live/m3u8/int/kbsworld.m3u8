@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+## Created with Broadpeak BkS350 Origin Packager  (version=1.14.4-30793)
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=1481000,AVERAGE-BANDWIDTH=1346000,CODECS="mp4a.40.2,avc1.4D401E",RESOLUTION=854x480,FRAME-RATE=25,VIDEO-RANGE=SDR
+https://ec04-pop1-hlc.tv360.vn/bpk-token/gtew45ybvf5hpyqotm3dlsloo42ms3tx/bpk-tv/422/output/422-audio_214835_und_iv_3=214800-video_iv_3=1064800.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2434000,AVERAGE-BANDWIDTH=2212000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=1280x720,FRAME-RATE=25,VIDEO-RANGE=SDR
+https://ec04-pop1-hlc.tv360.vn/bpk-token/gtew45ybvf5hpyqotm3dlsloo42ms3tx/bpk-tv/422/output/422-audio_214835_und_iv_3=214800-video_iv_3=1882000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4221000,AVERAGE-BANDWIDTH=3837000,CODECS="mp4a.40.2,avc1.4D4028",RESOLUTION=1920x1080,FRAME-RATE=25,VIDEO-RANGE=SDR
+https://ec04-pop1-hlc.tv360.vn/bpk-token/gtew45ybvf5hpyqotm3dlsloo42ms3tx/bpk-tv/422/output/422-audio_214835_und_iv_3=214800-video_iv_3=3414800.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=6365000,AVERAGE-BANDWIDTH=5787000,CODECS="mp4a.40.2,avc1.4D4028",RESOLUTION=1920x1080,FRAME-RATE=25,VIDEO-RANGE=SDR
+https://ec04-pop1-hlc.tv360.vn/bpk-token/gtew45ybvf5hpyqotm3dlsloo42ms3tx/bpk-tv/422/output/422-audio_214835_und_iv_3=214800-video_iv_3=5254000.m3u8
