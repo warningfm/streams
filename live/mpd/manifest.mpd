@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="urn:mpeg:dash:schema:mpd:2011"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:scte35="https://schemas.scte.org/35/scte_35_20211104.xsd"
+     xsi:schemaLocation="urn:mpeg:DASH:schema:MPD:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
+     profiles="urn:mpeg:dash:profile:isoff-live:2011"
+     type="dynamic"
+     minimumUpdatePeriod="PT2.307S" 
+     publishTime="2026-09-09T12:26:02.289Z" 
+     availabilityStartTime="2026-08-08T16:42:25.028Z" 
+     timeShiftBufferDepth="PT50.48S"
+     suggestedPresentationDelay="PT20.0S" 
+     minBufferTime="PT6.0S">
+<ProgramInformation>
+    <Title>sctv.smil</Title>
+</ProgramInformation>
+<Location>http://livestream.biznetvideo.net/sctv/smil:sctv.smil/manifest_w1223477212.mpd</Location>
+<Period id="0" start="PT0.0S">
+    <AdaptationSet id="0" group="1" mimeType="video/mp4" maxWidth="1920" maxHeight="1080" par="16:9" frameRate="25" segmentAlignment="true" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
+        <SegmentTemplate timescale="90000" media="segment_ctvideo_cfm4s_rid$RepresentationID$_cs$Time$_w1223477212_mpd.m4s" initialization="segment_ctvideo_cfm4s_rid$RepresentationID$_cinit_w1223477212_mpd.m4s">
+            <SegmentTimeline>
+                <S t="247442397300" d="975600"/>
+                <S d="885600"/>
+                <S d="914400"/>
+                <S d="900000"/>
+                <S d="867600"/>
+            </SegmentTimeline>
+        </SegmentTemplate>
+        <Representation id="p0va0br2000000" codecs="avc1.640029" width="1024" height="576" sar="1:1" bandwidth="2000000" />
+        <Representation id="p0va0br4000000" codecs="avc1.640029" width="1280" height="720" sar="1:1" bandwidth="4000000" />
+        <Representation id="p0va0br6000000" codecs="avc1.640029" width="1920" height="1080" sar="1:1" bandwidth="6000000" />
+    </AdaptationSet>
+    <AdaptationSet id="1" group="2" mimeType="audio/mp4" lang="en" segmentAlignment="true" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <SegmentTemplate timescale="48000" media="segment_ctaudio_cfm4s_rid$RepresentationID$_cs$Time$_w1223477212_mpd.m4s" initialization="segment_ctaudio_cfm4s_rid$RepresentationID$_cinit_w1223477212_mpd.m4s">
+            <SegmentTimeline>
+                <S t="131969273808" d="515088"/>
+                <S d="472080"/>
+                <S d="478224"/>
+                <S d="497664"/>
+                <S d="379920"/>
+            </SegmentTimeline>
+        </SegmentTemplate>
+        <Representation id="p0aa0br256000" codecs="mp4a.40.2" audioSamplingRate="48000" bandwidth="256000">
+        </Representation>
+    </AdaptationSet>
+</Period>
+<UTCTiming schemeIdUri="urn:mpeg:dash:utc:direct:2014" value="2026-09-09T12:26:02.289Z"/>
+</MPD>
