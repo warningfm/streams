@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2287000,FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1509459618_b2487000.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1063000,FRAME-RATE=25.000,CODECS="avc1.4d481e,mp4a.40.2",RESOLUTION=640x360
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1647514623_b978000.m3u8 
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1647514623_b978000.m3u8
