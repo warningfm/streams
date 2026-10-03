@@ -1,1 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Low battery. Charging up...</title>
+  <style>
+    :root {
+      --cyan: #00ffe0;
+      --red: #ff0033;
+      --yellow: #ffcc00;
+      --pink: #ff00ff;
+      --white: #ffffff;
+      --dark-blue: #0a0a23;
+      --silver: #cccccc;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      width: 100vw;
+      height: 100vh;
+      background: var(--dark-blue);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      overflow: hidden;
+      font-family: 'Poppins', sans-serif;
+      color: white;
+    }
+
+    .battery-top {
+      width: 30px;
+      height: 10px;
+      background: var(--dark-blue);
+      margin: 0 auto;
+      border: 3px solid var(--silver);
+      border-top-right-radius: 8px;
+      border-top-left-radius: 8px;
+    }
+
+    .battery-content {
+      width: 120px;
+      height: 240px;
+      background: var(--dark-blue);
+      position: relative;
+      margin: 10px auto;
+      border: 3px solid var(--silver);
+      border-radius: 18px;
+      overflow: hidden;
+      box-shadow: 0px 0px 20px rgba(0, 255, 224, 0.4);
+      display: flex;
+      align-items: flex-end;
+      justify-content: center;
+    }
+
+    .charge {
+      width: 100%;
+      height: 0%;
+      position: absolute;
+      bottom: 0;
+      background: linear-gradient(0deg, var(--red), var(--yellow), var(--cyan), var(--pink), var(--white));
+      background-size: 400% 400%;
+      animation:
+        moveGradient 8s linear infinite,
+        growCharge 6s linear infinite;
+      border-radius: 14px;
+    }
+
+    @keyframes moveGradient {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    @keyframes growCharge {
+      0% { height: 0%; }
+      100% { height: 100%; }
+    }
+
+    .percentage {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 24px;
+      font-weight: bold;
+      text-shadow: 0px 0px 8px var(--cyan);
+      z-index: 10;
+    }
+  </style>
+</head>
+<body>
+
+<div class="main">
+  <div class="battery-top"></div>
+  <div class="battery-content">
+    <div class="charge" id="charge"></div>
+    <div class="percentage" id="percentage">0%</div>
+  </div>
+</div>
+
+<!-- Suara Zzzz -->
+<audio id="charging-sound" loop autoplay>
+  <source src="https://cdn.pixabay.com/download/audio/2022/03/15/audio_4ef4b3d3ef.mp3?filename=short-electric-buzz-13882.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<script>
+  let percentage = 0;
+  const percentageText = document.getElementById('percentage');
+
+  function resetPercentage() {
+    percentage = 0;
+  }
+
+  function updatePercentage() {
+    if (percentage < 100) {
+      percentage++;
+    } else {
+      resetPercentage();
+    }
+    percentageText.textContent = percentage + "%";
+  }
+
+  setInterval(updatePercentage, 60); // Update speed, bisa diubah lebih cepat/lambat
+
+  // Volume suara kecil
+  const sound = document.getElementById('charging-sound');
+  sound.volume = 0.1;
+</script>
+
+</body>
+</html>
 
