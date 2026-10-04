@@ -1,7 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-## Created with Broadpeak BkS350 Origin Packager  (version=1.14.4-30793)
-
-# variants
-#EXT-X-STREAM-INF:BANDWIDTH=6365000,AVERAGE-BANDWIDTH=5787000,CODECS="mp4a.40.2,avc1.4D4028",RESOLUTION=1920x1080,FRAME-RATE=25,VIDEO-RANGE=SDR
-https://freem3u.xyz/api/live/play.m3u8?vid=213
