@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1616415,AVERAGE-BANDWIDTH=1378560,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000
-https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network-avc1_2000000=10-mp4a_256000_eng=6.m3u8
+http://202.150.161.212:5000/live/channel27/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2782415,AVERAGE-BANDWIDTH=2438559,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network-avc1_3000000=9-mp4a_256000_eng=6.m3u8
+http://202.150.161.212:5000/live/channel27/playlist.m3u8
 
