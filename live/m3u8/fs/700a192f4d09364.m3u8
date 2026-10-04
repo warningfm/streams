@@ -1,8 +1,14 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-STREAM-INF:BANDWIDTH=1300000,NAME="360p",RESOLUTION=640x360,FRAME-RATE=25.000
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b1300000_t64MzYwcA==.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2550000,NAME="720p",RESOLUTION=1280x720,FRAME-RATE=25.000
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2550000_t64NzIwcA==.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3500000,NAME="1080p",RESOLUTION=1920x1080,FRAME-RATE=25.000
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+#EXT-X-VERSION:6
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6472199,AVERAGE-BANDWIDTH=5817185,FRAME-RATE=30.000,CODECS="avc1.640028, mp4a.40.2",RESOLUTION=1920x1080
+https://ssai.aniview.com/api/v1/hls/streams/sessions/a48130918bb84932aa4a0998b3adc9c3/media/manifest.m3u8/0.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3022199,AVERAGE-BANDWIDTH=2758694,FRAME-RATE=30.000,CODECS="avc1.42001F, mp4a.40.2",RESOLUTION=1280x720
+https://ssai.aniview.com/api/v1/hls/streams/sessions/a48130918bb84932aa4a0998b3adc9c3/media/manifest.m3u8/1.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1987199,AVERAGE-BANDWIDTH=1827861,FRAME-RATE=30.000,CODECS="avc1.42001E, mp4a.40.2",RESOLUTION=854x480
+https://ssai.aniview.com/api/v1/hls/streams/sessions/a48130918bb84932aa4a0998b3adc9c3/media/manifest.m3u8/2.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1182200,AVERAGE-BANDWIDTH=1110023,FRAME-RATE=30.000,CODECS="avc1.42001E, mp4a.40.2",RESOLUTION=640x360
+https://ssai.aniview.com/api/v1/hls/streams/sessions/a48130918bb84932aa4a0998b3adc9c3/media/manifest.m3u8/3.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=722200,AVERAGE-BANDWIDTH=697641,FRAME-RATE=30.000,CODECS="avc1.42001E, mp4a.40.2",RESOLUTION=426x240
+https://ssai.aniview.com/api/v1/hls/streams/sessions/a48130918bb84932aa4a0998b3adc9c3/media/manifest.m3u8/4.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=377199,AVERAGE-BANDWIDTH=394943,FRAME-RATE=30.000,CODECS="avc1.42001E, mp4a.40.2",RESOLUTION=256x144
+https://ssai.aniview.com/api/v1/hls/streams/sessions/a48130918bb84932aa4a0998b3adc9c3/media/manifest.m3u8/5.m3u8
